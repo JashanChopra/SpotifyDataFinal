@@ -1,0 +1,101 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,Migos,Stir Fry,Stir Fry,4fndbjoz1qJyK6JcLdKfzm,0.813,0.808,2,-5.541,1,0.286,0,0.133,0.547,181.993,192132,4
+1,Jay Rock,"King's Dead (with Kendrick Lamar, Future & James Blake)","King's Dead (with Kendrick Lamar, Future & James Blake)",51rXHuKN8Loc4sUlKPODgH,0.645,0.705,1,-5.008,1,0.299,0,0.128,0.376,137.133,229670,4
+2,Famous Dex,Pick It Up (feat. A$AP Rocky),PICK IT UP (feat. A$AP Rocky),3ncgNpxLoBQ65ABk4djDyd,0.921,0.467,1,-8.443,1,0.119,0.000238,0.334,0.287,135.995,191252,4
+3,BROCKHAMPTON,Dirt,Dirt,572txuyJBQsnfOX1rT4kRZ,0.556,0.602,11,-6.881,1,0.195,0,0.128,0.39,119.893,286750,4
+4,A$AP Rocky,LONG.LIVE.A$AP (Deluxe Version),1Train,7AijU6oTPGmG64uWf63Qvc,0.622,0.872,2,-3.403,1,0.332,0,0.695,0.768,83.568,372173,4
+5,BROCKHAMPTON,SATURATION,STAR,1xfFPJdRjgDAaMcDgbXwyh,0.776,0.388,0,-9.143,1,0.282,0,0.394,0.294,75.01,161000,4
+6,Rich The Kid,New Freezer (feat. Kendrick Lamar),New Freezer (feat. Kendrick Lamar),4pYZLpX23Vx8rwDpJCpPTA,0.888,0.664,0,-10.13,1,0.341,0,0.0734,0.53,140.012,193173,4
+7,ScHoolboy Q,Yay Yay,Yay Yay,6n0KwBRfQX2O5CPAfdcD6a,0.788,0.642,9,-4.906,1,0.0451,0,0.0974,0.465,122.006,271773,4
+8,Action Bronson,Blue Chips 7000,Let Me Breathe,1gPDkT8miqudaqE2Pmg6H9,0.647,0.693,1,-6.679,1,0.445,0,0.13,0.373,180.224,172639,4
+9,Action Bronson,Mr. Wonderful,Actin Crazy,3clX2NMmjaAHmBjeTSa9vV,0.5,0.622,1,-7.282,1,0.619,0,0.116,0.252,165.503,239467,4
+10,Action Bronson,Mr. Wonderful,Easy Rider,4AH8GJVosfrbfhe5NVTAnx,0.422,0.851,11,-4.031,1,0.0398,0,0.152,0.667,93.649,259301,4
+11,2 Chainz,4 AM,4 AM,4r4PJQBHAE0bIKCjunhTgd,0.801,0.502,1,-7.169,1,0.408,0,0.153,0.215,75.019,255557,4
+12,A$AP Ferg,ALWAYS STRIVE AND PROSPER,Let It Bang (feat. ScHoolboy Q),4yJ61FeTLi14BHzJXzurPi,0.887,0.535,5,-5.368,0,0.139,0,0.136,0.118,130.059,151307,4
+13,A$AP Ferg,East Coast (feat. Remy Ma),East Coast (feat. Remy Ma),4D1aO0inbRZFsicPx9Jw3B,0.651,0.888,11,-3.298,0,0.304,0,0.285,0.176,134.383,260419,4
+14,A$AP Ferg,Still Striving,Rubber Band Man (feat. Cam'ron),6YVbCxw3Yqyj4dRomrXPhl,0.652,0.905,1,-4.113,1,0.11,0.00346,0.109,0.265,156.051,205747,4
+15,A$AP Ferg,Still Striving,Plain Jane,4dVpf9jZjcORqGTLUaeYj9,0.797,0.844,11,-5.482,1,0.275,0,0.087,0.52,170.142,173600,4
+16,A$AP Ferg,Still Striving,One Night Savage (feat. MadeinTYO),7a8CUx6YsjWAC6Ka5VoK26,0.71,0.837,4,-5.436,0,0.214,5.81e-06,0.16,0.659,81.099,152640,4
+17,BROCKHAMPTON,BOOGIE,BOOGIE,7s5ML7zaUSxb5UsvsqQTSd,0.604,0.933,1,-3.034,1,0.214,0,0.37,0.28,110.029,193155,4
+18,Ab-Soul,Do What Thou Wilt.,Beat the Case (feat. ScHoolboy Q) / / / Straight Crooked,3X5KaYQAtihMCk8WE9ovWo,0.568,0.734,11,-9.159,0,0.382,0,0.0853,0.788,71.65,321431,4
+19,A$AP Mob,Cozy Tapes: Vol. 1 Friends -,"Telephone Calls (feat. A$AP Rocky, Tyler, The Creator, Playboi Carti & Yung Gleesh)",5VnpYqIzm02X9gOhVElQo3,0.732,0.772,2,-6.142,0,0.267,1.54e-06,0.242,0.493,123.009,230920,4
+20,Kendrick Lamar,DAMN.,DNA.,6HZILIRieu8S0iqY8kIKhj,0.638,0.523,1,-6.664,1,0.357,0,0.0842,0.422,139.913,185947,4
+21,Madvillain,Madvillainy,Hardcore Hustle,6lJrqw2e6YNXZCUsXL1SKn,0.578,0.84,10,-7.435,0,0.345,0,0.48,0.529,95.565,81920,4
+22,Maxo Kream,The Persona Tape,G3,4NliyvUPOF30ZtTzzf7h6f,0.797,0.605,0,-4.816,1,0.0356,0,0.307,0.491,117.006,185566,4
+23,Jaden,SYRE,Icon,22nyEAEM29tcBRhukR089b,0.786,0.82,9,-5.093,0,0.232,0,0.575,0.49,119.982,220996,4
+24,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Opps (with Yugen Blakrok),7bUcBztfGqO7cSI2gMZeCI,0.706,0.775,1,-6.819,1,0.335,3.32e-05,0.416,0.847,127.929,180893,4
+25,Drake,If You're Reading This It's Too Late,No Tellin',2xpoTj7AeSFVuvD0ibD3Pg,0.823,0.467,0,-10.394,0,0.301,0,0.135,0.618,95.024,310933,4
+26,Drake,If You're Reading This It's Too Late,6 God,0GQKP2WgHvBA8Nzb4xZu36,0.859,0.623,2,-8.596,1,0.106,0,0.125,0.482,105.45,180667,4
+27,Drake,If You're Reading This It's Too Late,6 Man,48S3Pfu533qMMgHXmV1ruh,0.812,0.535,4,-9.306,1,0.449,0,0.114,0.321,78.974,167653,4
+28,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",Backseat Freestyle,3aGibUHhQyBsyumYHylw0K,0.546,0.651,1,-7.601,1,0.3,0,0.235,0.646,77.878,212653,4
+29,clipping.,Splendor & Misery,Air 'Em Out,7fcV5aYRLfMyT7ArrIKYbL,0.752,0.644,10,-8.77,0,0.371,0,0.107,0.559,91.084,230495,4
+30,2 Chainz,Pretty Girls Like Trap Music,Big Amount,5tkDCf3xKRZjT5RbCb3sZB,0.687,0.829,3,-4.204,0,0.26,0,0.107,0.154,133.854,188069,4
+31,21 Savage,Issa Album,Bank Account,5eqK0tbzUPo2SoeZsov04s,0.884,0.346,8,-8.228,0,0.351,7.04e-06,0.0871,0.376,75.016,220307,4
+32,"Tyler, The Creator",Cherry Bomb,THE BROWN STAINS OF DARKEESE LATIFAH PART 6-12 (REMIX) (feat. ScHoolboy Q),629TRAVD61y1ZVNl9EOfEE,0.63,0.842,1,-5.636,0,0.316,0,0.362,0.634,84.952,191869,4
+33,Migos,Culture II,Narcos,0wbnC9AUenxp613TYaJsGK,0.936,0.585,0,-6.914,1,0.125,0,0.132,0.242,124.991,255379,4
+34,Logic,Bobby Tarantino II,Warm It Up,3W4JFzOQdo5J2Wgt9DFg24,0.827,0.643,10,-6.414,0,0.0899,0,0.094,0.433,95.965,240093,4
+35,BlocBoy JB,Look Alive (feat. Drake),Look Alive (feat. Drake),4qKcDkK6siZ7Jp1Jb4m0aL,0.922,0.581,10,-7.495,1,0.27,5.86e-05,0.105,0.595,140.022,181263,4
+36,Gucci Mane,Droptopwop,Met Gala (feat. Offset),2XaInsPPUkZRkY4uFJ3AHK,0.817,0.587,2,-6.502,1,0.108,0.00165,0.185,0.352,140.062,209143,4
+37,Gucci Mane,I Get The Bag (feat. Migos),I Get The Bag (feat. Migos),1HTtUBEY3tuw2btgwwI2Ja,0.89,0.633,11,-5.475,1,0.168,0.000343,0.0993,0.425,139.948,233087,4
+38,Gucci Mane,Mr. Davis,Lil Story (feat. ScHoolboy Q),4qlQBM4lRFkan2OgfGN8jc,0.943,0.777,1,-4.273,1,0.2,0,0.278,0.711,135.0,170733,4
+39,Gucci Mane,Mr. Davis,Stunting Ain't Nuthin (feat. Slim Jxmmi & Young Dolph),17DjWsC0G9YQtAiepG3c5v,0.86,0.71,7,-5.705,1,0.285,0,0.0865,0.764,122.993,316053,4
+40,Huncho Jack,"Huncho Jack, Jack Huncho",Motorcycle Patches,7g7raxdQpiLZT7aOlib4S1,0.868,0.657,8,-4.853,1,0.113,0,0.0995,0.436,162.867,191410,4
+41,Huncho Jack,"Huncho Jack, Jack Huncho",Saint Laurent Mask,7JGyxh8G8QZnu4AMJuCqlj,0.771,0.596,11,-4.086,1,0.0414,0,0.169,0.0745,135.012,190437,4
+42,"Tyler, The Creator",OKRA,OKRA,74ZovzRxHBvCq5yIwe8boh,0.589,0.57,1,-9.54,1,0.361,1.51e-06,0.137,0.441,136.203,151027,4
+43,Saba,CARE FOR ME,LIFE,3au0pvHqcTtszysswan6AO,0.901,0.497,7,-9.236,1,0.266,0,0.109,0.463,120.025,162750,4
+44,Drake,Views,Hype,5NFYuqu8V6QXc6mzcLImd6,0.787,0.635,4,-8.271,0,0.155,0,0.357,0.237,130.018,209413,4
+45,A$AP Ferg,Trap Lord,Shabba (feat. A$AP Rocky),7eaKWfov7b2Qa2n6HTesL3,0.869,0.712,9,-6.136,1,0.103,0,0.272,0.435,120.0,275867,4
+46,A$AP Mob,Cozy Tapes: Vol. 1 Friends -,"Bachelor (feat. A$AP Rocky, Lil Yachty, MadeinTYO & Offset)",4Nbi6hJWVqM7Ois9G2KKjC,0.785,0.607,1,-5.103,1,0.0953,0,0.179,0.168,128.077,176040,4
+47,Aaron Rose,Elixir,Swank Corleone,0WKFym8mMo2dB6bzYlRIpT,0.85,0.665,0,-8.493,1,0.0769,0,0.173,0.278,118.572,278519,4
+48,"Chuck Inglish, Blended Babies",Ev Zepplin,"Over Much (feat. Alex Wiley, Caleb James)",3eLoBXjM4tYj1QR1lLFh7s,0.822,0.655,8,-5.432,1,0.0693,0,0.096,0.669,142.011,217000,4
+49,Dispatch,Skin the Rabbit,Skin the Rabbit,6LrF8kwthvYkG1Ry8QnAcq,0.522,0.924,9,-3.818,0,0.0449,0,0.398,0.63,90.008,221640,4
+50,Drake,More Life,Gyalchester,6UjfByV1lDLW0SOVQA4NAi,0.877,0.391,1,-8.196,1,0.063,0.000502,0.0945,0.122,131.018,189230,4
+51,Shelley FKA DRAM,Gilligan (feat. A$AP Rocky & Juicy J),Gilligan,425EpL40FrwRWUvH8F53Fk,0.89,0.683,1,-7.917,1,0.181,1e-06,0.13,0.643,148.017,207801,4
+52,Kendrick Lamar,HUMBLE.,HUMBLE.,31c9IHwCIONmUYW0jL7Riz,0.907,0.591,1,-7.507,0,0.105,2.81e-05,0.0897,0.418,149.992,177604,4
+53,J. Cole,KOD,ATM,2UciqgwVDwro0fev3MFbxJ,0.772,0.498,8,-7.661,1,0.649,0,0.0898,0.351,81.817,216727,4
+54,Childish Gambino,Because The Internet,IV. Sweatpants,2rmq49FcJ4U3wh1Z7C9UxE,0.644,0.479,4,-8.352,1,0.177,0,0.639,0.612,79.929,180680,4
+55,Pusha T,DAYTONA,Santeria,4LKSaRoKNnlpKXTT663BrT,0.621,0.678,8,-4.104,1,0.197,0,0.098,0.0883,88.677,176027,4
+56,Kanye West,ye,Yikes,2r4JRwcbIeuAzWjH4YXlLs,0.676,0.777,1,-3.241,0,0.357,0,0.228,0.226,173.931,188773,4
+57,The Carters,EVERYTHING IS LOVE,APESHIT,0E6PsO3ymCfUh7pJQjBgkj,0.705,0.784,2,-6.477,1,0.271,0,0.168,0.377,160.035,264853,4
+58,Drake,Scorpion,Nonstop,2Vx8E3K5icPZR7OCklWBXX,0.909,0.405,6,-8.133,0,0.14,0.00698,0.105,0.455,154.984,238613,4
+59,BROCKHAMPTON,1998 TRUMAN,1998 TRUMAN,0ToC28lLiwEKyQdN4FXypS,0.607,0.713,5,-6.206,1,0.243,0,0.769,0.482,134.994,245333,4
+60,Lil Baby,Harder Than Ever,Yes Indeed,6vN77lE9LK6HP2DewaN6HZ,0.963,0.346,5,-9.309,0,0.53,0,0.108,0.562,119.957,142273,4
+61,Travis Scott,ASTROWORLD,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,0.834,0.73,8,-3.714,1,0.222,0,0.124,0.446,155.008,312820,4
+62,Travis Scott,ASTROWORLD,NO BYSTANDERS,6OaVWaGfhXn70ZJfdVcabn,0.731,0.811,1,-3.225,1,0.0712,0,0.411,0.426,147.045,218284,4
+63,Travis Scott,ASTROWORLD,WHO? WHAT!,4KYS9GK68yeuUJ8vJfPxrq,0.834,0.731,10,-5.603,0,0.0566,0,0.0731,0.681,140.001,176720,4
+64,Travis Scott,ASTROWORLD,HOUSTONFORNICATION,58TaFP5j5i9swOf584yon2,0.689,0.723,0,-4.052,0,0.0836,0,0.158,0.288,160.042,217828,4
+65,Sweatshop Union,Infinite,L.A.M.M.,4YY7RSmIyTDyuds8ERBF52,0.843,0.63,9,-5.686,1,0.293,0,0.0761,0.399,131.966,243120,4
+66,"Tyler, The Creator",I Ain't Got Time!,I Ain't Got Time!,4QZ3PUwKQ3YySvb2gnRuKU,0.549,0.725,1,-7.239,1,0.397,3.52e-05,0.148,0.547,108.822,206267,4
+67,Vince Staples,Summertime '06,3230,24OsKc9qr5IFyiaHNCAk3h,0.696,0.877,5,-6.076,1,0.0344,0.0354,0.143,0.624,156.013,172680,4
+68,BROCKHAMPTON,SATURATION III,ALASKA,7tI8c0zPTCulElXIw9aSbg,0.721,0.603,9,-6.705,1,0.272,0,0.936,0.405,75.018,199195,4
+69,Migos,Bad and Boujee (feat. Lil Uzi Vert),Bad and Boujee (feat. Lil Uzi Vert),1FvU97lrWOG2NRxErh6OZz,0.897,0.661,8,-6.2,0,0.27,0,0.116,0.193,127.081,334467,4
+70,The Kooks,Listen,Bad Habit,3huV7eiNpaQlCB3LbZi9bB,0.733,0.882,0,-4.199,0,0.0389,9.92e-06,0.131,0.854,123.071,221413,4
+71,Vince Staples,Big Fish,Big Fish,1hsCcm0xujceILNvgRfrVB,0.893,0.551,3,-5.878,0,0.341,9.15e-06,0.351,0.697,99.986,198053,4
+72,Lil Wayne,Tha Carter V,Mona Lisa (feat. Kendrick Lamar),0dbTQYW3Ad1FTzIA9t90E8,0.856,0.694,2,-4.393,1,0.169,0,0.109,0.489,122.08,324189,4
+73,Logic,YSIV,"Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA)",6VDz4m1vEGHDDqQojf1mpc,0.725,0.809,1,-4.941,1,0.309,0,0.369,0.755,90.991,487960,4
+74,Logic,YSIV,Street Dreams II,0Me3TlqFkaIzoZzAGU1EDh,0.677,0.871,10,-6.128,0,0.273,0,0.736,0.254,176.088,266440,4
+75,Wale,Shine,CC White,4ZouZMeVN4sXoASghgfGpv,0.564,0.797,6,-5.193,1,0.319,0,0.33,0.735,129.939,254787,4
+76,Rob $tone,Chill Bill (feat. J. Davi$ & Spooks),Chill Bill (feat. J. Davi$ & Spooks),5uDASfU19gDxSjW8cnCaBp,0.886,0.427,6,-10.028,1,0.145,0.00099,0.0906,0.23,108.034,177184,4
+77,ScHoolboy Q,Blank Face LP,Dope Dealer,7pda6TLAbVGxUjIUtbiNt0,0.786,0.569,1,-5.461,1,0.125,0,0.119,0.288,82.027,222147,4
+78,Logic,The Incredible True Story,Fade Away,4QRWA5UqYU1st9aO0UfxOj,0.709,0.787,1,-2.377,1,0.235,0.00114,0.296,0.607,75.986,287400,4
+79,BROCKHAMPTON,SATURATION II,GUMMY,42tBlHWL3VfDkUM2iWcc5p,0.687,0.672,0,-5.975,0,0.0573,0,0.175,0.792,80.035,261000,4
+80,Logic,Bobby Tarantino,The Jam,4dVJyyeCPEONr44NIrXvie,0.814,0.589,10,-7.762,0,0.324,0,0.114,0.375,149.08,238400,4
+81,Anderson .Paak,Oxnard,Mansa Musa (feat. Dr. Dre & Cocoa Sarai),6i0z6l4tMurGmW82VhzoLi,0.796,0.932,2,-5.106,1,0.182,0,0.334,0.668,91.422,173067,4
+82,JID,DiCaprio 2,151 Rum,3gZQk9T3uujQhqaNO7FZbZ,0.756,0.867,7,-3.626,1,0.162,0.00285,0.33,0.666,129.983,156780,4
+83,JID,DiCaprio 2,Off Deez (with J. Cole),3OXhib7pxAWnmwwoUI6HqY,0.836,0.579,9,-6.164,1,0.243,0,0.11,0.431,85.486,213358,4
+84,Meek Mill,Championships,Going Bad (feat. Drake),2IRZnDFmlqMuOrYOLnZZyc,0.889,0.496,4,-6.365,0,0.0905,0,0.252,0.544,86.003,180522,4
+85,MadeinTYO,Skateboard P (feat. Big Sean),Skateboard P (feat. Big Sean),07pJdL0L9XDGW0HBj0rIS2,0.831,0.47,1,-7.48,0,0.425,0,0.144,0.339,75.474,242307,4
+86,KIDS SEE GHOSTS,KIDS SEE GHOSTS,Feel The Love,3aUFrxO1B8EW63QchEl3wX,0.58,0.469,0,-5.946,0,0.104,7.32e-05,0.099,0.369,110.573,165053,4
+87,Abhi The Nomad,FLUSH,FLUSH,0MDuXbG3DQVH6PHfI2uahT,0.836,0.643,7,-7.46,1,0.355,0,0.0829,0.9,94.237,142979,4
+88,Denzel Curry,TA13OO,VENGEANCE | VENGEANCE [FEAT. JPEGMAFIA & ZILLAKAMI | JPEGMAF1A + Z1LLAKAM1],4d8BSdhx6WT5GtTOWpv4rh,0.729,0.799,11,-6.136,0,0.111,4.18e-06,0.289,0.439,144.025,240213,4
+89,ScHoolboy Q,Numb Numb Juice,Numb Numb Juice,4dTiQezDWmEOWcdCbWVWMp,0.886,0.47,6,-7.756,0,0.458,3.36e-05,0.121,0.184,156.997,114973,4
+90,2 Chainz,Rap Or Go To The League,Momma I Hit A Lick (feat. Kendrick Lamar),7jKUnzzOGhAlPjr7LkIUlE,0.796,0.467,11,-6.293,1,0.34,3.32e-05,0.206,0.4,179.974,173760,3
+91,21 Savage,Without Warning,Nightmare,7LAhKXDNWwq3CmnFP3UIOP,0.739,0.405,0,-10.897,1,0.085,0.207,0.158,0.128,157.09,147987,4
+92,21 Savage,Without Warning,Ric Flair Drip,7sO5G9EABYOXQKNPNiE9NR,0.88,0.428,9,-8.28,1,0.206,5.07e-05,0.114,0.333,100.007,172800,4
+93,"Tyler, The Creator",Who Dat Boy / 911,Who Dat Boy (feat. A$AP Rocky),1a0wEEHipnBR7WOHFA6ucQ,0.706,0.485,8,-9.671,1,0.331,0,0.122,0.144,115.414,205093,4
+94,ScHoolboy Q,Oxymoron (Deluxe),Los Awesome,7sycKW6BGv7eTXVdtWkqom,0.613,0.826,1,-4.644,1,0.276,0,0.0724,0.855,81.971,252840,4
+95,Logic,Bobby Tarantino,Wrist,7qT7NUDywO7vNJNTNxqWiN,0.854,0.685,9,-5.319,0,0.242,4.72e-06,0.0727,0.526,139.988,205733,4
+96,Big K.R.I.T.,4eva Is A Mighty Long Time,Big K.R.I.T.,49KseQDZRmTUxF7T0TegwU,0.389,0.805,1,-6.716,1,0.332,0.00034,0.0987,0.376,139.073,172194,4
+97,"Tyler, The Creator",IGOR,NEW MAGIC WAND,0fv2KH6hac06J86hBUTcSf,0.621,0.73,5,-5.414,0,0.107,0.000131,0.673,0.464,139.566,195320,4
+98,"Tyler, The Creator",IGOR,WHAT'S GOOD,6bOkaEXc5CopinGazSLokx,0.458,0.909,1,-6.553,1,0.487,4.26e-06,0.11,0.449,118.227,205627,4
+99,Denzel Curry,ZUU,ZUU,5sG65w8uKtjsJw7nc845Nc,0.678,0.509,2,-8.494,0,0.138,0,0.489,0.351,141.037,126000,4
