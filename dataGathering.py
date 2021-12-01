@@ -19,7 +19,7 @@ def getSpotifyToken():
     scope = 'user-library-read'
     
     # get the spotify token
-    token = util.prompt_for_user_token(username,scope,cid, secret, redirect_uri)
+    token = util.prompt_for_user_token(username, scope, cid, secret, redirect_uri)
 
     # also grab Spotify client creds
     client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
@@ -36,7 +36,8 @@ def call_playlist(creator, playlist_id, sp):
                 "danceability","energy","key","loudness",
                 "mode", "speechiness","instrumentalness",
                 "liveness","valence","tempo", "duration_ms",
-                "time_signature"]
+                "time_signature"] 
+
     playlist_df = pd.DataFrame(columns = features)
     
     # get the track details
@@ -50,12 +51,18 @@ def call_playlist(creator, playlist_id, sp):
         playlist_features["album"] = track["track"]["album"]["name"]
         playlist_features["track_name"] = track["track"]["name"]
         playlist_features["track_id"] = track["track"]["id"]
+
+        # add the track's popularity
+        playlist_features["popularity"] = track["track"]["popularity"]
         
         # Get audio features
         audio_features = sp.audio_features(playlist_features["track_id"])[0]
         for feature in features[4:]:
             playlist_features[feature] = audio_features[feature]
-        
+
+        # add the playlist name 
+        playlist_features["playlist_name"] = playlist["name"]
+
         # Concat the dfs
         track_df = pd.DataFrame(playlist_features, index = [0])
         playlist_df = pd.concat([playlist_df, track_df], ignore_index = True)

@@ -1,81 +1,81 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
-0,Bakar,Hell N Back,Hell N Back,3NRql0A1Ef4RCvT473iqgD,0.584,0.684,10,-4.314,0,0.567,9.05e-05,0.112,0.72,210.164,213573,4
-1,Still Woozy,Rocky,Rocky,5uDohC8URXwbGiHAMuKGoa,0.734,0.518,11,-9.514,0,0.0813,0.00282,0.111,0.555,101.083,166000,4
-2,Her's,Marcel,Marcel,7BttFWHvQk5LCj2yOTDf8E,0.624,0.65,9,-5.993,1,0.0277,0.0748,0.334,0.655,106.99,187572,4
-3,DOPE LEMON,Rose Pink Cadillac,Rose Pink Cadillac,3YC7FYhduZbYObLRCdhANa,0.746,0.804,1,-6.824,1,0.0338,0.00669,0.104,0.89,100.0,261912,4
-4,Vacations,Vibes,Young,3OP8UeYimRl9HCNxMg7Ihl,0.498,0.81,7,-4.065,1,0.0263,0.00717,0.0635,0.594,79.935,189160,4
-5,Peach Pit,You and Your Friends,Shampoo Bottles,2INUkDPCO1eQlOFmIN5VAC,0.648,0.436,8,-9.578,1,0.0275,0.0,0.0944,0.333,107.019,224267,4
-6,Mac DeMarco,Here Comes The Cowboy,Preoccupied,6N4WUdbz6HVKy6u6JX1KqK,0.813,0.212,8,-15.421,1,0.163,0.0725,0.123,0.482,159.062,239646,4
-7,Briston Maroney,Freakin' Out On The Interstate (Acoustic Version [Live]),Freakin' Out On the Interstate,0awZwmlC6pxH65KTZpadmX,0.45,0.794,4,-5.015,1,0.0538,0.0,0.303,0.362,143.861,251906,4
-8,The Beach Boys,Smiley Smile (Remastered),Good Vibrations - Remastered 2001,5t9KYe0Fhd5cW6UYT4qP8f,0.396,0.473,10,-7.67,0,0.0345,0.000124,0.109,0.385,133.449,219027,4
-9,Worn-Tin,Summer Mixtape,Bitter,2NjepWsgyVUNZY2MtZSwKw,0.833,0.672,9,-5.899,1,0.0545,0.0,0.131,0.558,110.102,195000,4
-10,M.A.G.S.,M.A.G.S.,Drugs,7j0EnXOIyq4qedtko87r6f,0.577,0.845,10,-7.606,0,0.0351,2.77e-05,0.0814,0.692,115.088,134900,4
-11,Babe Rainbow,The Babe Rainbow (AUS),Peace Blossom Boogy,5qNNanYonpCwahfJGuFVRQ,0.661,0.821,2,-4.565,1,0.0307,0.0333,0.105,0.86,112.011,194280,4
-12,Beach Fossils,Down the Line,Down the Line,15eduSFXnQfnQvcmWHDBPi,0.614,0.743,7,-6.574,1,0.0401,0.00368,0.147,0.531,162.228,158474,4
-13,The Growlers,Chinese Fountain,Going Gets Tough,01MO5Ib9mCG7srUhZl52BA,0.5,0.766,8,-6.258,1,0.0327,0.0,0.109,0.738,162.058,208613,4
-14,Goth Babe,Canary Islands,Canary Islands,7MuU7UbVaKyu4HkHBoHwrD,0.577,0.683,1,-7.699,1,0.0523,0.00329,0.156,0.728,115.058,204522,4
-15,iogi,the ceiling,delicate creature,5HON29JZvuzaHX2B2oIwr1,0.844,0.576,1,-6.406,1,0.0305,0.0906,0.068,0.873,95.011,272694,4
-16,Marlin's Dreaming,Lizard Tears,Mixed Up and Confused,1bFgm9PdCQeKsEpqOWn1II,0.464,0.422,4,-11.422,1,0.0315,0.0104,0.112,0.402,126.703,194152,4
-17,Dehd,Lucky,Lucky,4r7cKo2Lp5sD6VcK1Gu3r4,0.637,0.722,7,-4.016,1,0.0292,0.0644,0.0742,0.302,130.632,153415,4
-18,Arlie,Big Fat Mouth,Big Fat Mouth,2H57VA9OzK2NLmweUfJTdq,0.595,0.871,2,-5.972,1,0.053,2.14e-06,0.238,0.949,128.013,216983,4
-19,Good Morning,Country,Country,0Hlfo1A9sxNTPsk9QQXWb2,0.579,0.862,9,-6.551,1,0.033,0.0738,0.194,0.605,155.802,240547,4
-20,The Shivas,You Know What to Do,You Make Me Wanna Die,3ymrocM8jJ2czu3JlznNyJ,0.723,0.551,5,-4.446,1,0.0365,0.00449,0.186,0.964,112.166,170507,4
-21,Babe Rainbow,Something New,Something New,1roGQgXbwaKojyfEGPCk8D,0.631,0.597,11,-10.576,1,0.0276,0.0463,0.514,0.747,87.849,193251,4
-22,Sports,Naked All the Time,Panama,6JfqUlQHtbdWDi5o7bp6qd,0.615,0.724,5,-8.583,1,0.0306,0.459,0.211,0.449,97.728,198547,4
-23,The Growlers,City Club,When You Were Made,0Dr7u3Dm8pwYe0aLZal1Xs,0.551,0.761,11,-5.279,1,0.029,0.0,0.235,0.385,116.098,218286,4
-24,Mustard Service,Zest Pop,Taking Up Space,7i28aaEucsoEeEfZLHZHb1,0.658,0.463,9,-12.774,1,0.0359,0.00443,0.406,0.749,90.055,217600,4
-25,Spacey Jane,Sunlight,Booster Seat,5th1bFGGaXLM7wDBJpcF06,0.629,0.551,11,-5.402,1,0.0263,1.18e-06,0.108,0.699,111.961,268880,4
-26,Twin Shadow,Alemania,Alemania,5dkhXb9kA9TRhhC929wbkm,0.533,0.686,1,-5.686,0,0.069,5.2e-05,0.105,0.804,173.938,235920,4
-27,Vundabar,Petty Crime,Petty Crime,4FMyAa7jAyWgiGUpRE5Ef8,0.493,0.79,9,-7.19,1,0.0386,0.0731,0.102,0.411,162.865,222769,4
-28,Courtney Barnett,The Double Ep: A Sea of Split Peas,Avant Gardener,0U49QcRHyGfbmhhbNl92Q4,0.439,0.748,0,-4.51,1,0.0296,0.00298,0.117,0.739,115.124,312227,4
-29,Geowulf,Saltwater,Saltwater,1zXpHPdBAUxnOCQqFMFLk3,0.551,0.825,2,-5.813,1,0.0306,0.307,0.115,0.686,107.031,247280,4
-30,The Growlers,Try Hard Fool,Try Hard Fool,2HMTLM3uA0NsOU1IkNufSj,0.503,0.825,10,-5.786,1,0.0323,0.000411,0.144,0.421,125.825,190581,4
-31,Babe Rainbow,Johny Says Stay Cool,Johny Says Stay Cool,079PTrnF2dhq5iUI0xiq2x,0.608,0.704,11,-6.947,0,0.0499,0.222,0.113,0.595,136.906,156800,4
-32,Del Water Gap,Better Than I Know Myself,Better Than I Know Myself,0xg79a3ac7iAOILS1QQbPa,0.571,0.691,3,-7.027,0,0.0312,0.0721,0.124,0.617,110.004,262511,4
-33,Dominic Fike,"Don't Forget About Me, Demos",Babydoll,7yNf9YjeO5JXUE3JEBgnYc,0.762,0.604,7,-5.296,0,0.11,0.0,0.0271,0.847,168.007,97960,4
-34,Turnover,Pure Devotion,Pure Devotion,6y9FOsVA7S57Qcx58qip9h,0.651,0.583,8,-8.769,1,0.0237,0.00342,0.109,0.72,87.459,231603,4
-35,Allah-Las,Raspberry Jam,Raspberry Jam,3i2pAVmEzBgJIHtIMkNQBJ,0.563,0.623,9,-5.972,0,0.026,0.962,0.0886,0.653,100.032,228307,4
-36,TOLEDO,Hotstuff,Some Samurai,1bZcaDmkrz23KDP7U5xnWJ,0.469,0.68,6,-7.551,1,0.0321,1.52e-05,0.0744,0.5,126.119,294286,4
-37,Mac DeMarco,2,Freaking Out The Neighborhood,0MgOsVty0YR1kas7x16yoS,0.573,0.819,8,-5.735,0,0.0866,0.029,0.386,0.832,143.263,173867,4
-38,Real Estate,Real Estate,Beach Comber,3tPh7vkXySn2lUEH1NEPyO,0.392,0.835,0,-6.553,1,0.0596,0.00982,0.0769,0.12,144.641,268467,4
-39,Richard Swift,The Hex,Broken Finger Blues,0O2WHAJUeYcElqNz8g2Q1V,0.253,0.706,2,-5.762,0,0.0369,0.012,0.504,0.434,184.33,260783,3
-40,Rolling Blackouts Coastal Fever,The French Press,French Press,3xuTjTxGkMVtxnHCAntxTs,0.393,0.915,2,-5.572,1,0.0592,0.0641,0.348,0.73,79.689,326807,4
-41,Dominic Fike,What Could Possibly Go Wrong,Why,1xLs8Mu1QEVbGCpyHQ2r2U,0.684,0.856,6,-2.676,1,0.0411,0.00728,0.109,0.343,117.027,139907,4
-42,Peach Pit,Sweet FA,Peach Pit,4W8iitrK5csxU1kqBeT5Js,0.511,0.804,6,-5.364,0,0.0395,0.00173,0.129,0.282,123.915,287080,4
-43,Sidney Gish,No Dogs Allowed,"Not but for You, Bunny",2J2kGyvyVyOKEJgBCPE1oO,0.795,0.415,0,-11.708,0,0.0883,0.0052,0.071,0.949,100.006,242144,4
-44,Sun Parade,Braindrain,Braindrain,4WZ5B7olkCaTcmymLflInK,0.47,0.704,7,-9.283,0,0.0433,0.71,0.358,0.741,151.661,183787,4
-45,TOPS,Petals,Petals,21DCAUa5hBGdNhDBSDAuCI,0.822,0.706,0,-6.472,1,0.0387,0.00167,0.129,0.895,128.707,174536,4
-46,Shannon & The Clams,Onion,The Boy,1WypLBcOgtNO0meaWKBkVQ,0.435,0.88,10,-5.248,0,0.0657,0.666,0.113,0.681,137.209,182787,4
-47,Turnover,Good Nature,Super Natural,6As34Fmjj7dtReKB51NOVc,0.653,0.663,5,-7.941,1,0.0282,0.169,0.0985,0.555,120.976,257860,4
-48,Widowspeak,All Yours,Stoned,5Uu6Kdcx62SVKbikkbM5oU,0.62,0.454,5,-8.907,1,0.0232,0.357,0.112,0.314,97.857,191279,4
-49,King Tuff,Was Dead,Sun Medallion,2avVVXPzzk3aRD63rMr5SG,0.615,0.756,5,-5.14,0,0.0418,0.000142,0.0751,0.516,124.103,150713,4
-50,Day Wave,Drag,Drag,0oXwUeFAE6IR2lYhaTpxRT,0.537,0.713,7,-6.25,1,0.0272,0.65,0.1,0.367,93.198,189651,4
-51,The Growlers,City Club,City Club,17jEoYoOfRD6dvNCMmC9n4,0.717,0.77,7,-6.083,1,0.0268,1.79e-06,0.214,0.739,110.501,196673,4
-52,Beach Fossils,Tangerine,Tangerine,5rpI91rFVNaK9ACHBIvvFO,0.246,0.742,2,-7.177,1,0.0415,0.00494,0.0452,0.491,168.034,194487,4
-53,The Drums,Portamento,Days,6113aOfHIC0vbZVDZ6PpRV,0.586,0.721,2,-7.743,1,0.0289,0.16,0.141,0.657,84.987,269082,4
-54,Tennis,Yours Conditionally,In the Morning I'll Be Better,6d5faX65tSGFKcXsOJQRFi,0.343,0.607,0,-5.048,1,0.0357,0.00808,0.0824,0.599,155.579,213173,3
-55,Horsebeach,II,It's Alright,0ZAdCDeysyoh5BOpuSGKy3,0.584,0.621,11,-9.863,1,0.0251,0.0753,0.113,0.694,110.317,310000,4
-56,Hoops,Routines,Sun's Out,7M9LKoGmelhGBj5jQACPd8,0.482,0.868,0,-6.105,1,0.0398,0.461,0.224,0.416,130.047,169016,4
-57,Real Estate,In Mind,Darling,36PQh1G6h7n9VWB799fXpI,0.596,0.894,0,-5.407,1,0.0265,0.00659,0.104,0.572,132.994,260387,5
-58,Spooky Mansion,Glass Mood Ring,Glass Mood Ring,5vESdDsnE8bXNKORL0CqQF,0.508,0.785,9,-4.842,1,0.042,3.47e-05,0.371,0.459,110.281,231021,4
-59,Unknown Mortal Orchestra,II,Swim and Sleep (Like a Shark),3h1iu4HvBlLqRuft2kJEcr,0.766,0.806,8,-10.011,1,0.0403,0.171,0.119,0.76,123.509,165227,4
-60,Tennis,Young & Old,Origins,3UFa8A2LDIh5wlHeETguP4,0.58,0.827,5,-4.692,0,0.0281,0.0202,0.162,0.949,113.906,208160,4
-61,Morgan Delt,Phase Zero,Some Sunsick Day,54WIS7qug0Gnt65eD9gg8g,0.489,0.633,1,-9.55,1,0.0303,0.758,0.0867,0.519,150.084,311280,3
-62,Mac Miller,K.I.D.S.,The Spins,51pshtuYkgUQnt5huMPbKL,0.794,0.766,9,-3.894,0,0.0377,0.0,0.0785,0.55,127.007,195873,4
-63,Beach Fossils,What a Pleasure,What a Pleasure,5nnuMMrPgKJRxUqbU86fvv,0.523,0.938,2,-4.362,1,0.0652,0.929,0.32,0.877,152.009,152685,4
-64,Natural Child,Dancin' with Wolves,Out in the Country,7FWhvGFDMGo3BkuSI00rOi,0.436,0.511,0,-9.984,1,0.0319,0.0538,0.106,0.833,93.84,174597,4
-65,Shane Tyler,Lemurian Promenade,Lemurian Promenade,1TJbIX80eZSkVCtrcU57Ja,0.596,0.526,7,-9.355,1,0.0956,0.635,0.104,0.547,197.931,237500,4
-66,Mac DeMarco,This Old Dog,One Another,4xF9zRaPdnrLU7QmVMKOzR,0.82,0.579,5,-9.601,1,0.0279,0.184,0.113,0.847,104.928,166213,4
-67,Mr Twin Sister,Poor Relations,Poor Relations,2OPmmqhPLBbHoHwtzOsUnl,0.984,0.491,7,-8.827,1,0.0639,0.841,0.07,0.964,120.004,261363,4
-68,Allah-Las,Allah-Las,Catamaran,0y6Mp5Y1OxHtzxi6AwewPt,0.564,0.847,4,-5.845,0,0.0434,0.00281,0.0341,0.696,122.037,212987,4
-69,Sugar Candy Mountain,666,Windows,6jvqaaUtBmcnxQnf5XKzFo,0.525,0.635,5,-7.805,1,0.0239,0.000114,0.122,0.668,82.445,192028,4
-70,La Luz,Watching Cartoons,Watching Cartoons,3IIZJE9HWQM0dkBBwL8TSW,0.57,0.667,0,-8.108,1,0.0294,0.79,0.158,0.683,125.658,208907,4
-71,j ember,Full Size Render,Full Size Render,13YkIo5DIQwpJvPjEzgY3D,0.628,0.479,7,-11.261,1,0.0282,0.0581,0.157,0.357,98.032,178599,4
-72,Moses Gunn Collective,Mercy Mountain,Shalala,0Bl1Gt8R9kjz7JO7SYAuhe,0.452,0.729,7,-5.6,1,0.0304,0.0583,0.115,0.46,84.005,228015,4
-73,Mac DeMarco,This Old Dog,My Old Man,4c7k0jGOFR1OraHvE3BszV,0.658,0.575,1,-11.493,1,0.0332,0.253,0.0985,0.832,149.274,221653,4
-74,The Morning Benders,Big Echo,Excuses,2ARB3fKvRkMGhAtZuTnE5J,0.438,0.806,5,-5.717,1,0.0395,0.0551,0.237,0.489,96.156,317427,3
-75,Day Wave,The Days We Had,Something Here,4d2jmClFslZKu3lbDFKgez,0.432,0.901,10,-8.287,1,0.0322,0.877,0.102,0.636,144.916,245387,4
-76,Blonde Tongues,Blonde Tongues,Hey Good Lookin',6bKHrmhfMFhlXqYR6zfPt9,0.201,0.771,10,-6.914,1,0.0401,0.847,0.112,0.0984,155.068,347000,3
-77,The King Khan & BBQ Show,Invisible Girl,I’ll Be Loving You,00XrSeoUJusUuWvqd08lyF,0.443,0.876,10,-4.588,1,0.0499,0.0,0.36,0.706,154.588,190413,4
-78,Verzache,My Head is a Moshpit,All I Need,4K6e6JiR1KFohWedXSnvob,0.663,0.786,9,-5.325,1,0.0353,1.96e-06,0.0957,0.319,145.977,203751,4
-79,Mac DeMarco,2,Cooking Up Something Good,0sXE78JmUFQCZNl4TQHjjp,0.749,0.433,7,-7.646,1,0.0314,0.00185,0.148,0.807,98.142,161013,3
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,popularity,playlist_name
+0,Her's,Marcel,Marcel,7BttFWHvQk5LCj2yOTDf8E,0.624,0.65,9,-5.993,1,0.0277,0.0748,0.334,0.655,106.99,187572,4,49.0,Surf Rock Sunshine
+1,Briston Maroney,Freakin' Out On The Interstate (Acoustic Version [Live]),Freakin' Out On the Interstate,0awZwmlC6pxH65KTZpadmX,0.45,0.794,4,-5.015,1,0.0538,0.0,0.303,0.362,143.861,251906,4,73.0,Surf Rock Sunshine
+2,Bakar,Hell N Back,Hell N Back,3NRql0A1Ef4RCvT473iqgD,0.584,0.684,10,-4.314,0,0.567,9.05e-05,0.112,0.72,210.164,213573,4,75.0,Surf Rock Sunshine
+3,Peach Pit,You and Your Friends,Shampoo Bottles,2INUkDPCO1eQlOFmIN5VAC,0.648,0.436,8,-9.578,1,0.0275,0.0,0.0944,0.333,107.019,224267,4,67.0,Surf Rock Sunshine
+4,Vacations,Vibes,Young,3OP8UeYimRl9HCNxMg7Ihl,0.498,0.81,7,-4.065,1,0.0263,0.00717,0.0635,0.594,79.935,189160,4,81.0,Surf Rock Sunshine
+5,The Growlers,Chinese Fountain,Going Gets Tough,01MO5Ib9mCG7srUhZl52BA,0.5,0.766,8,-6.258,1,0.0327,0.0,0.109,0.738,162.058,208613,4,0.0,Surf Rock Sunshine
+6,Mac DeMarco,Here Comes The Cowboy,Preoccupied,6N4WUdbz6HVKy6u6JX1KqK,0.813,0.212,8,-15.421,1,0.163,0.0725,0.123,0.482,159.062,239646,4,56.0,Surf Rock Sunshine
+7,DOPE LEMON,Rose Pink Cadillac,Rose Pink Cadillac,3YC7FYhduZbYObLRCdhANa,0.746,0.804,1,-6.824,1,0.0338,0.00669,0.104,0.89,100.0,261912,4,66.0,Surf Rock Sunshine
+8,The Beach Boys,Smiley Smile (Remastered),Good Vibrations - Remastered 2001,5t9KYe0Fhd5cW6UYT4qP8f,0.396,0.473,10,-7.67,0,0.0345,0.000124,0.109,0.385,133.449,219027,4,70.0,Surf Rock Sunshine
+9,Babe Rainbow,The Babe Rainbow (AUS),Peace Blossom Boogy,5qNNanYonpCwahfJGuFVRQ,0.661,0.821,2,-4.565,1,0.0307,0.0333,0.105,0.86,112.011,194280,4,23.0,Surf Rock Sunshine
+10,Still Woozy,Rocky,Rocky,5uDohC8URXwbGiHAMuKGoa,0.734,0.518,11,-9.514,0,0.0813,0.00282,0.111,0.555,101.083,166000,4,62.0,Surf Rock Sunshine
+11,M.A.G.S.,M.A.G.S.,Drugs,7j0EnXOIyq4qedtko87r6f,0.577,0.845,10,-7.606,0,0.0351,2.77e-05,0.0814,0.692,115.088,134900,4,0.0,Surf Rock Sunshine
+12,The Growlers,City Club,When You Were Made,0Dr7u3Dm8pwYe0aLZal1Xs,0.551,0.761,11,-5.279,1,0.029,0.0,0.235,0.385,116.098,218286,4,0.0,Surf Rock Sunshine
+13,Beach Fossils,Down the Line,Down the Line,15eduSFXnQfnQvcmWHDBPi,0.614,0.743,7,-6.574,1,0.0401,0.00368,0.147,0.531,162.228,158474,4,20.0,Surf Rock Sunshine
+14,Babe Rainbow,Something New,Something New,1roGQgXbwaKojyfEGPCk8D,0.631,0.597,11,-10.576,1,0.0276,0.0463,0.514,0.747,87.849,193251,4,0.0,Surf Rock Sunshine
+15,iogi,the ceiling,delicate creature,5HON29JZvuzaHX2B2oIwr1,0.844,0.576,1,-6.406,1,0.0305,0.0906,0.068,0.873,95.011,272694,4,0.0,Surf Rock Sunshine
+16,Worn-Tin,Summer Mixtape,Bitter,2NjepWsgyVUNZY2MtZSwKw,0.833,0.672,9,-5.899,1,0.0545,0.0,0.131,0.558,110.102,195000,4,49.0,Surf Rock Sunshine
+17,Dominic Fike,What Could Possibly Go Wrong,Why,1xLs8Mu1QEVbGCpyHQ2r2U,0.684,0.856,6,-2.676,1,0.0411,0.00728,0.109,0.343,117.027,139907,4,67.0,Surf Rock Sunshine
+18,Richard Swift,The Hex,Broken Finger Blues,0O2WHAJUeYcElqNz8g2Q1V,0.253,0.706,2,-5.762,0,0.0369,0.012,0.504,0.434,184.33,260783,3,22.0,Surf Rock Sunshine
+19,Marlin's Dreaming,Lizard Tears,Mixed Up and Confused,1bFgm9PdCQeKsEpqOWn1II,0.464,0.422,4,-11.422,1,0.0315,0.0104,0.112,0.402,126.703,194152,4,50.0,Surf Rock Sunshine
+20,Mac DeMarco,2,Freaking Out The Neighborhood,0MgOsVty0YR1kas7x16yoS,0.573,0.819,8,-5.735,0,0.0866,0.029,0.386,0.832,143.263,173867,4,55.0,Surf Rock Sunshine
+21,The Drums,Portamento,Days,6113aOfHIC0vbZVDZ6PpRV,0.586,0.721,2,-7.743,1,0.0289,0.16,0.141,0.657,84.987,269082,4,50.0,Surf Rock Sunshine
+22,Dehd,Lucky,Lucky,4r7cKo2Lp5sD6VcK1Gu3r4,0.637,0.722,7,-4.016,1,0.0292,0.0644,0.0742,0.302,130.632,153415,4,0.0,Surf Rock Sunshine
+23,Arlie,Big Fat Mouth,Big Fat Mouth,2H57VA9OzK2NLmweUfJTdq,0.595,0.871,2,-5.972,1,0.053,2.14e-06,0.238,0.949,128.013,216983,4,0.0,Surf Rock Sunshine
+24,Courtney Barnett,The Double Ep: A Sea of Split Peas,Avant Gardener,0U49QcRHyGfbmhhbNl92Q4,0.439,0.748,0,-4.51,1,0.0296,0.00298,0.117,0.739,115.124,312227,4,0.0,Surf Rock Sunshine
+25,Goth Babe,Canary Islands,Canary Islands,7MuU7UbVaKyu4HkHBoHwrD,0.577,0.683,1,-7.699,1,0.0523,0.00329,0.156,0.728,115.058,204522,4,62.0,Surf Rock Sunshine
+26,Mustard Service,Zest Pop,Taking Up Space,7i28aaEucsoEeEfZLHZHb1,0.658,0.463,9,-12.774,1,0.0359,0.00443,0.406,0.749,90.055,217600,4,53.0,Surf Rock Sunshine
+27,Twin Shadow,Alemania,Alemania,5dkhXb9kA9TRhhC929wbkm,0.533,0.686,1,-5.686,0,0.069,5.2e-05,0.105,0.804,173.938,235920,4,53.0,Surf Rock Sunshine
+28,Beach Fossils,Tangerine,Tangerine,5rpI91rFVNaK9ACHBIvvFO,0.246,0.742,2,-7.177,1,0.0415,0.00494,0.0452,0.491,168.034,194487,4,13.0,Surf Rock Sunshine
+29,Allah-Las,Raspberry Jam,Raspberry Jam,3i2pAVmEzBgJIHtIMkNQBJ,0.563,0.623,9,-5.972,0,0.026,0.962,0.0886,0.653,100.032,228307,4,55.0,Surf Rock Sunshine
+30,Sidney Gish,No Dogs Allowed,"Not but for You, Bunny",2J2kGyvyVyOKEJgBCPE1oO,0.795,0.415,0,-11.708,0,0.0883,0.0052,0.071,0.949,100.006,242144,4,46.0,Surf Rock Sunshine
+31,TOLEDO,Hotstuff,Some Samurai,1bZcaDmkrz23KDP7U5xnWJ,0.469,0.68,6,-7.551,1,0.0321,1.52e-05,0.0744,0.5,126.119,294286,4,0.0,Surf Rock Sunshine
+32,Sports,Naked All the Time,Panama,6JfqUlQHtbdWDi5o7bp6qd,0.615,0.724,5,-8.583,1,0.0306,0.459,0.211,0.449,97.728,198547,4,0.0,Surf Rock Sunshine
+33,Sun Parade,Braindrain,Braindrain,4WZ5B7olkCaTcmymLflInK,0.47,0.704,7,-9.283,0,0.0433,0.71,0.358,0.741,151.661,183787,4,39.0,Surf Rock Sunshine
+34,Geowulf,Saltwater,Saltwater,1zXpHPdBAUxnOCQqFMFLk3,0.551,0.825,2,-5.813,1,0.0306,0.307,0.115,0.686,107.031,247280,4,0.0,Surf Rock Sunshine
+35,Del Water Gap,Better Than I Know Myself,Better Than I Know Myself,0xg79a3ac7iAOILS1QQbPa,0.571,0.691,3,-7.027,0,0.0312,0.0721,0.124,0.617,110.004,262511,4,48.0,Surf Rock Sunshine
+36,The Shivas,You Know What to Do,You Make Me Wanna Die,3ymrocM8jJ2czu3JlznNyJ,0.723,0.551,5,-4.446,1,0.0365,0.00449,0.186,0.964,112.166,170507,4,0.0,Surf Rock Sunshine
+37,The Growlers,Try Hard Fool,Try Hard Fool,2HMTLM3uA0NsOU1IkNufSj,0.503,0.825,10,-5.786,1,0.0323,0.000411,0.144,0.421,125.825,190581,4,46.0,Surf Rock Sunshine
+38,Rolling Blackouts Coastal Fever,The French Press,French Press,3xuTjTxGkMVtxnHCAntxTs,0.393,0.915,2,-5.572,1,0.0592,0.0641,0.348,0.73,79.689,326807,4,0.0,Surf Rock Sunshine
+39,Shannon & The Clams,Onion,The Boy,1WypLBcOgtNO0meaWKBkVQ,0.435,0.88,10,-5.248,0,0.0657,0.666,0.113,0.681,137.209,182787,4,49.0,Surf Rock Sunshine
+40,Tennis,Yours Conditionally,In the Morning I'll Be Better,6d5faX65tSGFKcXsOJQRFi,0.343,0.607,0,-5.048,1,0.0357,0.00808,0.0824,0.599,155.579,213173,3,51.0,Surf Rock Sunshine
+41,Turnover,Pure Devotion,Pure Devotion,6y9FOsVA7S57Qcx58qip9h,0.651,0.583,8,-8.769,1,0.0237,0.00342,0.109,0.72,87.459,231603,4,0.0,Surf Rock Sunshine
+42,Good Morning,Country,Country,0Hlfo1A9sxNTPsk9QQXWb2,0.579,0.862,9,-6.551,1,0.033,0.0738,0.194,0.605,155.802,240547,4,43.0,Surf Rock Sunshine
+43,Babe Rainbow,Johny Says Stay Cool,Johny Says Stay Cool,079PTrnF2dhq5iUI0xiq2x,0.608,0.704,11,-6.947,0,0.0499,0.222,0.113,0.595,136.906,156800,4,10.0,Surf Rock Sunshine
+44,Real Estate,Real Estate,Beach Comber,3tPh7vkXySn2lUEH1NEPyO,0.392,0.835,0,-6.553,1,0.0596,0.00982,0.0769,0.12,144.641,268467,4,55.0,Surf Rock Sunshine
+45,The Growlers,City Club,City Club,17jEoYoOfRD6dvNCMmC9n4,0.717,0.77,7,-6.083,1,0.0268,1.79e-06,0.214,0.739,110.501,196673,4,0.0,Surf Rock Sunshine
+46,TOPS,Petals,Petals,21DCAUa5hBGdNhDBSDAuCI,0.822,0.706,0,-6.472,1,0.0387,0.00167,0.129,0.895,128.707,174536,4,0.0,Surf Rock Sunshine
+47,Spacey Jane,Sunlight,Booster Seat,5th1bFGGaXLM7wDBJpcF06,0.629,0.551,11,-5.402,1,0.0263,1.18e-06,0.108,0.699,111.961,268880,4,68.0,Surf Rock Sunshine
+48,Dominic Fike,"Don't Forget About Me, Demos",Babydoll,7yNf9YjeO5JXUE3JEBgnYc,0.762,0.604,7,-5.296,0,0.11,0.0,0.0271,0.847,168.007,97960,4,69.0,Surf Rock Sunshine
+49,Tennis,Young & Old,Origins,3UFa8A2LDIh5wlHeETguP4,0.58,0.827,5,-4.692,0,0.0281,0.0202,0.162,0.949,113.906,208160,4,38.0,Surf Rock Sunshine
+50,Real Estate,In Mind,Darling,36PQh1G6h7n9VWB799fXpI,0.596,0.894,0,-5.407,1,0.0265,0.00659,0.104,0.572,132.994,260387,5,60.0,Surf Rock Sunshine
+51,Day Wave,Drag,Drag,0oXwUeFAE6IR2lYhaTpxRT,0.537,0.713,7,-6.25,1,0.0272,0.65,0.1,0.367,93.198,189651,4,58.0,Surf Rock Sunshine
+52,Peach Pit,Sweet FA,Peach Pit,4W8iitrK5csxU1kqBeT5Js,0.511,0.804,6,-5.364,0,0.0395,0.00173,0.129,0.282,123.915,287080,4,0.0,Surf Rock Sunshine
+53,Beach Fossils,What a Pleasure,What a Pleasure,5nnuMMrPgKJRxUqbU86fvv,0.523,0.938,2,-4.362,1,0.0652,0.929,0.32,0.877,152.009,152685,4,0.0,Surf Rock Sunshine
+54,Mac DeMarco,This Old Dog,My Old Man,4c7k0jGOFR1OraHvE3BszV,0.658,0.575,1,-11.493,1,0.0332,0.253,0.0985,0.832,149.274,221653,4,25.0,Surf Rock Sunshine
+55,Morgan Delt,Phase Zero,Some Sunsick Day,54WIS7qug0Gnt65eD9gg8g,0.489,0.633,1,-9.55,1,0.0303,0.758,0.0867,0.519,150.084,311280,3,0.0,Surf Rock Sunshine
+56,Shane Tyler,Lemurian Promenade,Lemurian Promenade,1TJbIX80eZSkVCtrcU57Ja,0.596,0.526,7,-9.355,1,0.0956,0.635,0.104,0.547,197.931,237500,4,40.0,Surf Rock Sunshine
+57,Unknown Mortal Orchestra,II,Swim and Sleep (Like a Shark),3h1iu4HvBlLqRuft2kJEcr,0.766,0.806,8,-10.011,1,0.0403,0.171,0.119,0.76,123.509,165227,4,27.0,Surf Rock Sunshine
+58,King Tuff,Was Dead,Sun Medallion,2avVVXPzzk3aRD63rMr5SG,0.615,0.756,5,-5.14,0,0.0418,0.000142,0.0751,0.516,124.103,150713,4,0.0,Surf Rock Sunshine
+59,Mac Miller,K.I.D.S.,The Spins,51pshtuYkgUQnt5huMPbKL,0.794,0.766,9,-3.894,0,0.0377,0.0,0.0785,0.55,127.007,195873,4,82.0,Surf Rock Sunshine
+60,Widowspeak,All Yours,Stoned,5Uu6Kdcx62SVKbikkbM5oU,0.62,0.454,5,-8.907,1,0.0232,0.357,0.112,0.314,97.857,191279,4,13.0,Surf Rock Sunshine
+61,Hoops,Routines,Sun's Out,7M9LKoGmelhGBj5jQACPd8,0.482,0.868,0,-6.105,1,0.0398,0.461,0.224,0.416,130.047,169016,4,45.0,Surf Rock Sunshine
+62,Vundabar,Petty Crime,Petty Crime,4FMyAa7jAyWgiGUpRE5Ef8,0.493,0.79,9,-7.19,1,0.0386,0.0731,0.102,0.411,162.865,222769,4,11.0,Surf Rock Sunshine
+63,Turnover,Good Nature,Super Natural,6As34Fmjj7dtReKB51NOVc,0.653,0.663,5,-7.941,1,0.0282,0.169,0.0985,0.555,120.976,257860,4,0.0,Surf Rock Sunshine
+64,Mac DeMarco,2,Cooking Up Something Good,0sXE78JmUFQCZNl4TQHjjp,0.749,0.433,7,-7.646,1,0.0314,0.00185,0.148,0.807,98.142,161013,3,37.0,Surf Rock Sunshine
+65,Spooky Mansion,Glass Mood Ring,Glass Mood Ring,5vESdDsnE8bXNKORL0CqQF,0.508,0.785,9,-4.842,1,0.042,3.47e-05,0.371,0.459,110.281,231021,4,0.0,Surf Rock Sunshine
+66,j ember,Full Size Render,Full Size Render,13YkIo5DIQwpJvPjEzgY3D,0.628,0.479,7,-11.261,1,0.0282,0.0581,0.157,0.357,98.032,178599,4,38.0,Surf Rock Sunshine
+67,Sugar Candy Mountain,666,Windows,6jvqaaUtBmcnxQnf5XKzFo,0.525,0.635,5,-7.805,1,0.0239,0.000114,0.122,0.668,82.445,192028,4,25.0,Surf Rock Sunshine
+68,Allah-Las,Allah-Las,Catamaran,0y6Mp5Y1OxHtzxi6AwewPt,0.564,0.847,4,-5.845,0,0.0434,0.00281,0.0341,0.696,122.037,212987,4,0.0,Surf Rock Sunshine
+69,Mac DeMarco,This Old Dog,One Another,4xF9zRaPdnrLU7QmVMKOzR,0.82,0.579,5,-9.601,1,0.0279,0.184,0.113,0.847,104.928,166213,4,27.0,Surf Rock Sunshine
+70,Natural Child,Dancin' with Wolves,Out in the Country,7FWhvGFDMGo3BkuSI00rOi,0.436,0.511,0,-9.984,1,0.0319,0.0538,0.106,0.833,93.84,174597,4,0.0,Surf Rock Sunshine
+71,Good Morning,Shawcross,Warned You,67LKZcv1J2Yj4pk5UIuFQW,0.507,0.428,6,-4.677,1,0.0263,0.149,0.101,0.406,138.163,133129,4,0.0,Surf Rock Sunshine
+72,Horsebeach,II,It's Alright,0ZAdCDeysyoh5BOpuSGKy3,0.584,0.621,11,-9.863,1,0.0251,0.0753,0.113,0.694,110.317,310000,4,43.0,Surf Rock Sunshine
+73,Summer Salt,Fire Flower,Fire Flower,4zSZfVqbXLFFvNfT4RLDlM,0.612,0.511,3,-11.852,0,0.0283,0.121,0.42,0.333,101.998,250800,4,0.0,Surf Rock Sunshine
+74,Hazel English,Just Give In / Never Going Home,That Thing,6IDcZXJXQzIfhkjlvVB3Gp,0.608,0.702,6,-6.66,0,0.0247,0.131,0.311,0.28,104.057,188093,4,41.0,Surf Rock Sunshine
+75,The Morning Benders,Big Echo,Excuses,2ARB3fKvRkMGhAtZuTnE5J,0.438,0.806,5,-5.717,1,0.0395,0.0551,0.237,0.489,96.156,317427,3,0.0,Surf Rock Sunshine
+76,Real Estate,Atlas,Talking Backwards,0ZwlxoHAnvkCRjsOrHAleU,0.408,0.875,5,-6.036,1,0.0301,0.823,0.169,0.56,150.782,187733,4,56.0,Surf Rock Sunshine
+77,La Luz,Watching Cartoons,Watching Cartoons,3IIZJE9HWQM0dkBBwL8TSW,0.57,0.667,0,-8.108,1,0.0294,0.79,0.158,0.683,125.658,208907,4,39.0,Surf Rock Sunshine
+78,Verzache,My Head is a Moshpit,All I Need,4K6e6JiR1KFohWedXSnvob,0.663,0.786,9,-5.325,1,0.0353,1.96e-06,0.0957,0.319,145.977,203751,4,59.0,Surf Rock Sunshine
+79,Blonde Tongues,Blonde Tongues,Hey Good Lookin',6bKHrmhfMFhlXqYR6zfPt9,0.201,0.771,10,-6.914,1,0.0401,0.847,0.112,0.0984,155.068,347000,3,44.0,Surf Rock Sunshine

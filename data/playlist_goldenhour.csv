@@ -1,81 +1,81 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
-0,Cannons,Shadows,Fire for You,4o0LyB69tylqDG6eTGhmig,0.737,0.678,6,-7.011,0,0.0962,0.157,0.123,0.698,102.051,231826,4
-1,Goth Babe,Canary Islands,Canary Islands,7MuU7UbVaKyu4HkHBoHwrD,0.577,0.683,1,-7.699,1,0.0523,0.00329,0.156,0.728,115.058,204522,4
-2,Joji,Nectar,Your Man,6Vgtvd7I5yopJdBuxqjBd2,0.785,0.818,7,-8.711,1,0.099,0.149,0.149,0.0503,117.98,163759,4
-3,L'Impératrice,Odyssée - EP,Agitations tropicales,2La21GqU4fKTQLcfLxTeoz,0.76,0.401,1,-9.537,0,0.0674,0.259,0.0977,0.619,115.989,248892,4
-4,Wet,Old Bone (Jim-E Stack Remix),Old Bone - Jim-E Stack Remix,6YKLlLoEYRujlAH8SgkTge,0.755,0.593,5,-9.472,1,0.0484,0.504,0.097,0.501,93.002,207787,4
-5,BAYNK,Someone’s EP II X,go with u - Louis La Roche Remix,5FxcDJENpjWY6lL9CnbHgc,0.751,0.501,1,-7.529,0,0.0588,0.011,0.111,0.3,111.987,266289,4
-6,moanday,Blue Ceiling,Blue Ceiling,4TQd8QvI6SdxnBbdEILnXI,0.85,0.687,6,-8.967,0,0.0411,0.229,0.0816,0.797,109.995,166909,4
-7,Poolside,Low Season,Kinda Lovely,3g3lqFthZ9yjNhcCjUDzFW,0.627,0.717,0,-6.706,1,0.0493,0.1,0.0821,0.82,166.019,237560,4
-8,RAC,YOU,Feel You,2NHRH85fSwtAXmtQXwEAHV,0.481,0.553,0,-6.639,1,0.0314,0.0322,0.168,0.298,135.025,278467,4
-9,Mindchatter,I Can Change,I Can Change,4yhslVvynysGhexambPGcy,0.692,0.614,8,-9.1,1,0.0457,0.828,0.117,0.292,118.032,331525,4
-10,The Knocks,Bodies,Bodies,5mueyPaJsGl0bGiZSu1z0e,0.584,0.599,11,-4.243,1,0.0342,0.0,0.0481,0.634,112.048,209293,4
-11,Godford,Non Binary Place,Dawntown,1CaOMLZXTQxif7TVD9ieSd,0.653,0.446,8,-16.131,1,0.0678,0.701,0.35,0.0387,114.982,188348,4
-12,NEIL FRANCES,Tuesday,Tuesday,6bWCYpcxs8nEV9Veixv1RU,0.642,0.916,2,-6.893,1,0.03,0.194,0.171,0.933,119.999,191253,4
-13,TSHA,Sister,Sister,2StEq5J2bCq5JiwCKbansz,0.63,0.783,4,-7.35,1,0.0313,0.779,0.157,0.399,119.981,268829,4
-14,Washed Out,Time to Walk Away,Time to Walk Away,0ozdeuPnd24tukUW4fVfMj,0.55,0.865,6,-6.125,0,0.0383,0.0405,0.0765,0.469,102.014,255851,4
-15,GEO,It Never Rains,It Never Rains,67URyvNo0ymOlShJB9JclN,0.726,0.686,4,-6.752,1,0.0415,0.0794,0.165,0.369,103.065,149517,4
-16,Fred again..,Kyle (I Found You),Kyle (I Found You),0v1g5U1OAb0XBjKyA8R36i,0.76,0.669,5,-9.105,0,0.285,0.0194,0.77,0.214,112.023,196071,4
-17,Poolside,I'm In Love With You,I'm In Love With You,668AkXg9qeMsY8fivgpPxL,0.657,0.485,9,-9.552,1,0.0685,0.769,0.128,0.402,76.975,252600,4
-18,Nick Leng,Walking Home to You (RAC Mix),Walking Home to You (RAC Mix),1AjjtVlQEDRp6obXze4xGl,0.75,0.701,6,-6.79,0,0.0371,0.00088,0.063,0.652,117.952,216200,4
-19,Tourist,We Stayed Up All Night,We Stayed Up All Night,7eSWgAlmLPXbGxgH3RNoWh,0.519,0.843,11,-6.508,1,0.0431,0.000446,0.21,0.592,84.997,265759,4
-20,Active Child,Cruel World (Jim-E Stack Remix),Cruel World - Jim-E Stack Remix,1xKNnjZkSyj2QbkqruJyCr,0.678,0.635,10,-7.102,0,0.0797,0.0176,0.288,0.3,89.853,192460,4
-21,Tycho,Run Away,Run Away,4Ef1QKChVVBQLt0wmTycUS,0.593,0.557,8,-13.319,1,0.0483,0.54,0.103,0.502,180.099,219199,4
-22,Joey Pecoraro,Sea Monster,Kaleidoscope,54lEP2AiBdnVrqh49PoUqN,0.718,0.461,5,-11.511,1,0.0336,0.844,0.109,0.0384,106.965,226542,4
-23,Golden Vessel,littlebitwild,littlebitwild,7maYVnkJyhgI3ObNeEyT3C,0.777,0.43,4,-8.058,1,0.0703,0.0135,0.076,0.51,118.036,185832,4
-24,Roosevelt,Strangers,Strangers,3OG1FcdabAqljk4irWH3Uu,0.65,0.883,0,-4.711,0,0.0712,0.835,0.079,0.891,106.014,220726,4
-25,Poolside,I Feel High (with DRAMA),I Feel High (with DRAMA),0OEuPpfFyTP90MmfSua2np,0.705,0.765,2,-4.627,1,0.0384,0.0459,0.446,0.385,113.022,172614,4
-26,Attom,Oasis,Oasis,3jlFMDKI3hjKvqzXry1Yq1,0.367,0.63,10,-7.846,1,0.0592,0.81,0.112,0.0636,177.971,202247,4
-27,Washed Out,Paralyzed,Paralyzed,54NLIc8BPDqJPES7Gn5IwO,0.428,0.852,0,-5.143,0,0.139,0.199,0.105,0.534,157.987,201245,4
-28,Emmit Fenn,Light That Shines Through,Light That Shines Through,4YzP1J64MRM6AWsCUNQPIL,0.527,0.408,8,-14.428,1,0.0983,0.0149,0.356,0.0398,115.09,220842,4
-29,Photay,Waking Hours,Pressure,1T80qAVK3nXJAsEdnuppbp,0.676,0.71,1,-7.744,1,0.0372,0.47,0.26,0.348,104.975,318035,4
-30,Austin Manuel,Can't Stop Cryin',Can't Stop Cryin',4jJs2ohRchPCc7VrYWpjbN,0.625,0.696,9,-7.748,1,0.0316,0.000361,0.156,0.823,132.99,193253,4
-31,Yuno,Grapefruit - Single,Grapefruit,128Mqrtw03Mo3eR9bOwJsx,0.606,0.592,1,-9.709,1,0.0256,0.695,0.0966,0.0812,99.993,283213,4
-32,Jim-E Stack,Jeanie (feat. Bon Iver),Jeanie (feat. Bon Iver),6nv9RCo0IXNzCSGeYtzT82,0.672,0.849,8,-6.311,1,0.0559,0.795,0.0605,0.629,161.918,167636,4
-33,slenderbodies,cherry blossom,cherry blossom,44xUqPXksQ2MNtuF2AuRBN,0.759,0.57,10,-8.547,0,0.0364,0.000531,0.257,0.646,120.009,140163,4
-34,Amo Amo,Antidote,Antidote,5WTeFqk3rVakNfKSsZQYrF,0.688,0.622,2,-7.291,1,0.0284,0.0234,0.0884,0.354,93.16,293547,4
-35,Shibo,Sprinkles,Sprinkles,5MC4qpRJW1AshNqYRV54xb,0.691,0.493,8,-5.959,0,0.0883,0.821,0.106,0.241,84.939,141176,4
-36,Washed Out,Purple Noon,Too Late,2WZtkWWGWjGMxQubujRiqZ,0.43,0.878,8,-5.061,0,0.0557,0.0417,0.123,0.571,195.908,252409,4
-37,Cabu,Crazy: Remixes,Crazy - Holow Remix,1JMpRrL4rsnhOBYLULlOrv,0.727,0.576,5,-7.292,0,0.357,0.0,0.262,0.738,115.355,237297,4
-38,Jaja Bu,Bibles,Bibles,3OHpvUlcPZyBBPXrQLHUBi,0.713,0.661,10,-6.874,0,0.0271,0.0473,0.0991,0.83,107.039,273467,4
-39,Arthur Moon,Infield (Young & Sick Remix),Infield (Young & Sick Remix),3xkMBk1wMJ3aEnWO0sSOW7,0.472,0.66,1,-10.941,0,0.0629,0.416,0.0717,0.0308,130.067,298231,4
-40,Sam Evian,Right Down the Line,Right Down the Line,4UbBr8ZQB26757ah0zeRDU,0.75,0.649,0,-8.637,1,0.0302,0.0403,0.0784,0.606,127.955,267962,4
-41,Emmit Fenn,What Falling in Love Is For,What Falling in Love Is For,3SxAg03DY1UYpP8RABjdDP,0.691,0.38,5,-14.294,1,0.0503,0.0337,0.103,0.281,112.133,174792,4
-42,Little Dragon,Water (FKJ Remix),Water - FKJ Remix,04bAqpyuPCsgZAfnbsGDXx,0.792,0.458,5,-8.222,0,0.111,0.00532,0.104,0.415,113.503,199103,5
-43,Kamaliza,Zanzibar,Zanzibar,0lWvcq3Zrms58nKWwzcwIy,0.545,0.851,2,-3.417,0,0.0314,0.00457,0.103,0.365,139.996,228938,4
-44,NEIL FRANCES,Music Sounds Better With You,Music Sounds Better With You,0GL1ye91pT3nJIQzXwncG2,0.934,0.524,8,-8.256,0,0.0654,0.245,0.0672,0.785,118.011,198305,4
-45,Goth Babe,North Coast,The Trees,4q6OvSJnqxZZ3N13QRRzrX,0.553,0.66,10,-8.662,1,0.137,5.74e-06,0.0748,0.335,109.809,282545,4
-46,Lawrence Rothman,Wolves Still Cry (Classixx Remix),Wolves Still Cry - Classixx Remix,4FiJ9JT9nicjc8Oadnf2gA,0.732,0.867,5,-6.335,0,0.0518,0.275,0.122,0.594,111.006,314946,4
-47,Conor Albert,Collage 1,Tell Me,5hJexxZWaa2L7gqTha7nts,0.705,0.644,2,-9.276,1,0.071,0.0434,0.0997,0.235,111.057,200200,4
-48,Fred again..,Chika (Scared),Chika (Scared),4pDE8vhtcEb90Eq2SvdWyB,0.687,0.413,6,-11.68,1,0.145,0.006,0.123,0.183,119.968,168245,4
-49,Michael David,Onewish,Onewish,4gQMYhluJXtB10cEXdymYL,0.622,0.69,4,-12.169,0,0.0374,0.897,0.715,0.121,95.998,357190,4
-50,Joey Pecoraro,How Many Times?,How Many Times?,4gnw7ZduO3LMqEcrA1qvyL,0.564,0.569,8,-12.422,0,0.0664,0.899,0.112,0.214,130.02,238999,4
-51,Southern Shores,Fora,Fora,2StKHkAF6pvefAI3S61Alm,0.667,0.67,3,-6.837,1,0.0558,0.924,0.123,0.697,113.99,231587,4
-52,NEIL FRANCES,Tell Me,Tell Me,5EOqiwraZrbF6metpe4F3u,0.83,0.532,7,-10.855,0,0.0409,0.00114,0.112,0.891,120.046,198000,4
-53,Punctual,Fading Youth - EP,Fading Youth,0JyNb6hPiBcy9ZYB85cXYq,0.52,0.549,6,-8.85,0,0.0345,0.0362,0.169,0.21,100.794,288947,4
-54,TSHA,Change,Change,6dMZduF6Qs2WiSzQs7gqk5,0.618,0.802,9,-5.743,0,0.0312,0.388,0.228,0.681,122.003,189540,4
-55,Rhye,Blood Remixed,Feel Your Weight - Poolside Remix,1hgX0ZmmP7IRRjUFCIBrnQ,0.741,0.592,6,-9.059,0,0.0308,0.854,0.116,0.822,111.984,310133,4
-56,La Felix,I Wanna Know,I Wanna Know,0xGTpQrQSRS2o8TMYGCyOr,0.819,0.575,5,-7.195,0,0.0955,0.0269,0.0721,0.733,93.02,320440,4
-57,Tora,Put Down Your Phone,Put Down Your Phone,22ic4Jo5wUgvdoQh8r1rxg,0.743,0.533,4,-11.088,0,0.037,0.0213,0.271,0.358,96.03,163787,1
-58,Bakar,The Mission,The Mission,4CGORuRtjSK6xMy8s1VvSS,0.708,0.437,10,-6.982,0,0.0807,0.0,0.0976,0.393,94.053,191479,4
-59,Brijean,Moody,Moody,4ZRl4vgRSJqtnJaCXWS6hg,0.826,0.704,10,-7.791,0,0.0766,0.828,0.119,0.514,115.984,134220,4
-60,Mishegas,Temporary Love,Temporary Love,139cV9ZeoqSgXAdPXIRrRU,0.563,0.732,0,-8.621,0,0.0393,0.712,0.0828,0.0397,118.025,244268,4
-61,Glass Animals,ZABA (Deluxe),Gooey,5b9iBVhfYxDF4JJcHrNIx5,0.487,0.369,11,-13.424,0,0.0406,3.75e-05,0.0925,0.106,183.114,289307,4
-62,NEIL FRANCES,Downtown,Downtown,3MAkPH0PUgcz8QSCnlq7ts,0.77,0.802,7,-7.558,1,0.0355,0.0421,0.0983,0.914,104.995,285714,4
-63,Dirty Projectors,Cool Your Heart (Ludwig Goransson Remix),Cool Your Heart - Ludwig Goransson Remix,0oqhviv1eDB6bAsUHclBu8,0.674,0.532,1,-5.769,0,0.154,0.00189,0.09,0.545,148.843,236959,4
-64,October Tooth,"Okay, Saint Laurent","Okay, Saint Laurent",68uwWsxoI2yb0RhQw69eRF,0.507,0.478,4,-12.974,1,0.0634,0.217,0.122,0.248,97.974,180090,4
-65,lentra,o shit!,o shit!,0RQpg3Q0QOxp6gqDpE8uWH,0.829,0.631,1,-7.876,1,0.106,0.0123,0.109,0.792,106.863,136822,4
-66,Golden Vessel,Hesitate,Hesitate,6PmsHVre2N9yOjDge00r9c,0.406,0.53,2,-9.556,1,0.045,0.0161,0.108,0.0701,122.773,251279,4
-67,RAC,We Belong (Odesza Remix),We Belong - Odesza Remix,4tO93FtEpqdVA0b9RXK4xI,0.628,0.782,0,-8.225,1,0.0429,0.203,0.117,0.0691,115.0,318307,4
-68,Blood Cultures,Oh Uncertainty! A Universe Despairs,Best for You,3M1IvMlWvDkwrcgPdGmvru,0.542,0.635,2,-5.237,1,0.0321,0.00193,0.823,0.486,90.126,213040,4
-69,Washed Out,Purple Noon,Reckless Desires,3YOF6HtXEj91j2SRYXoSEi,0.639,0.692,9,-7.694,0,0.0312,0.807,0.377,0.486,97.014,264269,4
-70,Rhye,Song For You (Remixes),Song For You - Mansionair Remix,2z0qyx2Rfj5k9hyypDpreN,0.77,0.72,2,-8.603,1,0.043,0.442,0.0749,0.491,119.233,252107,4
-71,Daniel T.,Heat-Wave,Heat-Wave,5RwQuZtvlmLq6rutrcugxF,0.705,0.656,1,-8.549,0,0.0513,0.54,0.178,0.397,126.0,356224,4
-72,Polo & Pan,Feel Good,Attrape-rêve,0aTaTaROrLwQokUSudVKIe,0.769,0.641,9,-8.408,0,0.0505,0.507,0.0983,0.877,149.003,224747,4
-73,Shibo,pH,pH,2seFcLiWwxHZ72EYFezJmJ,0.733,0.631,1,-8.765,1,0.278,0.0563,0.107,0.722,90.081,170667,4
-74,KAYTRANADA,NOTHIN LIKE U / CHANCES,CHANCES,0XEhhANHRAqXM9c3JSvLfX,0.835,0.527,7,-7.272,0,0.128,0.000423,0.283,0.611,106.003,218200,4
-75,José González,Swing,Swing,6lkDIkZKFWQH8VxxmW4yYP,0.818,0.531,11,-11.951,1,0.176,0.842,0.115,0.918,99.998,213040,4
-76,Giraffage,Too Real,Do U Want Me,2eTLxOZY8owibk7b2iETad,0.722,0.586,8,-10.339,1,0.0766,0.331,0.396,0.594,154.012,224353,4
-77,fika,Mean,Mean,7xrwlO7d0pINF403SwlqeK,0.763,0.537,1,-8.371,0,0.146,0.0015,0.667,0.489,104.02,225933,4
-78,Mel Blue,Yesterday,Yesterday,1l0cPiIm4i7AX7wukAP1GE,0.802,0.58,0,-6.412,1,0.155,0.0119,0.176,0.179,114.988,218205,4
-79,Parcels,Tieduprightnow,Tieduprightnow,66tkDkPsznE5zIHNt4QkXB,0.863,0.533,5,-7.986,0,0.0484,0.00126,0.0794,0.738,102.025,249957,4
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,popularity,playlist_name
+0,Cannons,Shadows,Fire for You,4o0LyB69tylqDG6eTGhmig,0.737,0.678,6,-7.011,0,0.0962,0.157,0.123,0.698,102.051,231826,4,73.0,golden hour
+1,BAYNK,Someone’s EP II X,go with u - Louis La Roche Remix,5FxcDJENpjWY6lL9CnbHgc,0.751,0.501,1,-7.529,0,0.0588,0.011,0.111,0.3,111.987,266289,4,62.0,golden hour
+2,Joji,Nectar,Your Man,6Vgtvd7I5yopJdBuxqjBd2,0.785,0.818,7,-8.711,1,0.099,0.149,0.149,0.0503,117.98,163759,4,64.0,golden hour
+3,L'Impératrice,Odyssée - EP,Agitations tropicales,2La21GqU4fKTQLcfLxTeoz,0.76,0.401,1,-9.537,0,0.0674,0.259,0.0977,0.619,115.989,248892,4,63.0,golden hour
+4,Wet,Old Bone (Jim-E Stack Remix),Old Bone - Jim-E Stack Remix,6YKLlLoEYRujlAH8SgkTge,0.755,0.593,5,-9.472,1,0.0484,0.504,0.097,0.501,93.002,207787,4,53.0,golden hour
+5,GEO,It Never Rains,It Never Rains,67URyvNo0ymOlShJB9JclN,0.726,0.686,4,-6.752,1,0.0415,0.0794,0.165,0.369,103.065,149517,4,45.0,golden hour
+6,The Knocks,Bodies,Bodies,5mueyPaJsGl0bGiZSu1z0e,0.584,0.599,11,-4.243,1,0.0342,0.0,0.0481,0.634,112.048,209293,4,62.0,golden hour
+7,Mindchatter,I Can Change,I Can Change,4yhslVvynysGhexambPGcy,0.692,0.614,8,-9.1,1,0.0457,0.828,0.117,0.292,118.032,331525,4,50.0,golden hour
+8,Poolside,Low Season,Kinda Lovely,3g3lqFthZ9yjNhcCjUDzFW,0.627,0.717,0,-6.706,1,0.0493,0.1,0.0821,0.82,166.019,237560,4,53.0,golden hour
+9,NEIL FRANCES,Tuesday,Tuesday,6bWCYpcxs8nEV9Veixv1RU,0.642,0.916,2,-6.893,1,0.03,0.194,0.171,0.933,119.999,191253,4,54.0,golden hour
+10,Photay,Waking Hours,Pressure,1T80qAVK3nXJAsEdnuppbp,0.676,0.71,1,-7.744,1,0.0372,0.47,0.26,0.348,104.975,318035,4,36.0,golden hour
+11,Active Child,Cruel World (Jim-E Stack Remix),Cruel World - Jim-E Stack Remix,1xKNnjZkSyj2QbkqruJyCr,0.678,0.635,10,-7.102,0,0.0797,0.0176,0.288,0.3,89.853,192460,4,49.0,golden hour
+12,TSHA,Sister,Sister,2StEq5J2bCq5JiwCKbansz,0.63,0.783,4,-7.35,1,0.0313,0.779,0.157,0.399,119.981,268829,4,54.0,golden hour
+13,Godford,Non Binary Place,Dawntown,1CaOMLZXTQxif7TVD9ieSd,0.653,0.446,8,-16.131,1,0.0678,0.701,0.35,0.0387,114.982,188348,4,47.0,golden hour
+14,Joey Pecoraro,Sea Monster,Kaleidoscope,54lEP2AiBdnVrqh49PoUqN,0.718,0.461,5,-11.511,1,0.0336,0.844,0.109,0.0384,106.965,226542,4,42.0,golden hour
+15,Goth Babe,Canary Islands,Canary Islands,7MuU7UbVaKyu4HkHBoHwrD,0.577,0.683,1,-7.699,1,0.0523,0.00329,0.156,0.728,115.058,204522,4,62.0,golden hour
+16,moanday,Blue Ceiling,Blue Ceiling,4TQd8QvI6SdxnBbdEILnXI,0.85,0.687,6,-8.967,0,0.0411,0.229,0.0816,0.797,109.995,166909,4,50.0,golden hour
+17,Poolside,I'm In Love With You,I'm In Love With You,668AkXg9qeMsY8fivgpPxL,0.657,0.485,9,-9.552,1,0.0685,0.769,0.128,0.402,76.975,252600,4,53.0,golden hour
+18,Arthur Moon,Infield (Young & Sick Remix),Infield (Young & Sick Remix),3xkMBk1wMJ3aEnWO0sSOW7,0.472,0.66,1,-10.941,0,0.0629,0.416,0.0717,0.0308,130.067,298231,4,41.0,golden hour
+19,Yuno,Grapefruit - Single,Grapefruit,128Mqrtw03Mo3eR9bOwJsx,0.606,0.592,1,-9.709,1,0.0256,0.695,0.0966,0.0812,99.993,283213,4,0.0,golden hour
+20,RAC,YOU,Feel You,2NHRH85fSwtAXmtQXwEAHV,0.481,0.553,0,-6.639,1,0.0314,0.0322,0.168,0.298,135.025,278467,4,47.0,golden hour
+21,Washed Out,Time to Walk Away,Time to Walk Away,0ozdeuPnd24tukUW4fVfMj,0.55,0.865,6,-6.125,0,0.0383,0.0405,0.0765,0.469,102.014,255851,4,0.0,golden hour
+22,Tourist,We Stayed Up All Night,We Stayed Up All Night,7eSWgAlmLPXbGxgH3RNoWh,0.519,0.843,11,-6.508,1,0.0431,0.000446,0.21,0.592,84.997,265759,4,62.0,golden hour
+23,Fred again..,Kyle (I Found You),Kyle (I Found You),0v1g5U1OAb0XBjKyA8R36i,0.76,0.669,5,-9.105,0,0.285,0.0194,0.77,0.214,112.023,196071,4,51.0,golden hour
+24,Southern Shores,Fora,Fora,2StKHkAF6pvefAI3S61Alm,0.667,0.67,3,-6.837,1,0.0558,0.924,0.123,0.697,113.99,231587,4,30.0,golden hour
+25,Austin Manuel,Can't Stop Cryin',Can't Stop Cryin',4jJs2ohRchPCc7VrYWpjbN,0.625,0.696,9,-7.748,1,0.0316,0.000361,0.156,0.823,132.99,193253,4,44.0,golden hour
+26,Tycho,Run Away,Run Away,4Ef1QKChVVBQLt0wmTycUS,0.593,0.557,8,-13.319,1,0.0483,0.54,0.103,0.502,180.099,219199,4,44.0,golden hour
+27,Golden Vessel,littlebitwild,littlebitwild,7maYVnkJyhgI3ObNeEyT3C,0.777,0.43,4,-8.058,1,0.0703,0.0135,0.076,0.51,118.036,185832,4,42.0,golden hour
+28,Attom,Oasis,Oasis,3jlFMDKI3hjKvqzXry1Yq1,0.367,0.63,10,-7.846,1,0.0592,0.81,0.112,0.0636,177.971,202247,4,52.0,golden hour
+29,Nick Leng,Walking Home to You (RAC Mix),Walking Home to You (RAC Mix),1AjjtVlQEDRp6obXze4xGl,0.75,0.701,6,-6.79,0,0.0371,0.00088,0.063,0.652,117.952,216200,4,46.0,golden hour
+30,NEIL FRANCES,Tell Me,Tell Me,5EOqiwraZrbF6metpe4F3u,0.83,0.532,7,-10.855,0,0.0409,0.00114,0.112,0.891,120.046,198000,4,0.0,golden hour
+31,Washed Out,Purple Noon,Too Late,2WZtkWWGWjGMxQubujRiqZ,0.43,0.878,8,-5.061,0,0.0557,0.0417,0.123,0.571,195.908,252409,4,0.0,golden hour
+32,TSHA,Change,Change,6dMZduF6Qs2WiSzQs7gqk5,0.618,0.802,9,-5.743,0,0.0312,0.388,0.228,0.681,122.003,189540,4,44.0,golden hour
+33,Jim-E Stack,Jeanie (feat. Bon Iver),Jeanie (feat. Bon Iver),6nv9RCo0IXNzCSGeYtzT82,0.672,0.849,8,-6.311,1,0.0559,0.795,0.0605,0.629,161.918,167636,4,45.0,golden hour
+34,Poolside,I Feel High (with DRAMA),I Feel High (with DRAMA),0OEuPpfFyTP90MmfSua2np,0.705,0.765,2,-4.627,1,0.0384,0.0459,0.446,0.385,113.022,172614,4,51.0,golden hour
+35,Shibo,Sprinkles,Sprinkles,5MC4qpRJW1AshNqYRV54xb,0.691,0.493,8,-5.959,0,0.0883,0.821,0.106,0.241,84.939,141176,4,35.0,golden hour
+36,Sam Evian,Right Down the Line,Right Down the Line,4UbBr8ZQB26757ah0zeRDU,0.75,0.649,0,-8.637,1,0.0302,0.0403,0.0784,0.606,127.955,267962,4,15.0,golden hour
+37,Amo Amo,Antidote,Antidote,5WTeFqk3rVakNfKSsZQYrF,0.688,0.622,2,-7.291,1,0.0284,0.0234,0.0884,0.354,93.16,293547,4,37.0,golden hour
+38,Joey Pecoraro,How Many Times?,How Many Times?,4gnw7ZduO3LMqEcrA1qvyL,0.564,0.569,8,-12.422,0,0.0664,0.899,0.112,0.214,130.02,238999,4,48.0,golden hour
+39,Michael David,Onewish,Onewish,4gQMYhluJXtB10cEXdymYL,0.622,0.69,4,-12.169,0,0.0374,0.897,0.715,0.121,95.998,357190,4,30.0,golden hour
+40,Washed Out,Paralyzed,Paralyzed,54NLIc8BPDqJPES7Gn5IwO,0.428,0.852,0,-5.143,0,0.139,0.199,0.105,0.534,157.987,201245,4,0.0,golden hour
+41,Lawrence Rothman,Wolves Still Cry (Classixx Remix),Wolves Still Cry - Classixx Remix,4FiJ9JT9nicjc8Oadnf2gA,0.732,0.867,5,-6.335,0,0.0518,0.275,0.122,0.594,111.006,314946,4,0.0,golden hour
+42,Roosevelt,Strangers,Strangers,3OG1FcdabAqljk4irWH3Uu,0.65,0.883,0,-4.711,0,0.0712,0.835,0.079,0.891,106.014,220726,4,0.0,golden hour
+43,La Felix,I Wanna Know,I Wanna Know,0xGTpQrQSRS2o8TMYGCyOr,0.819,0.575,5,-7.195,0,0.0955,0.0269,0.0721,0.733,93.02,320440,4,40.0,golden hour
+44,Emmit Fenn,What Falling in Love Is For,What Falling in Love Is For,3SxAg03DY1UYpP8RABjdDP,0.691,0.38,5,-14.294,1,0.0503,0.0337,0.103,0.281,112.133,174792,4,52.0,golden hour
+45,Fred again..,Chika (Scared),Chika (Scared),4pDE8vhtcEb90Eq2SvdWyB,0.687,0.413,6,-11.68,1,0.145,0.006,0.123,0.183,119.968,168245,4,46.0,golden hour
+46,Rhye,Blood Remixed,Feel Your Weight - Poolside Remix,1hgX0ZmmP7IRRjUFCIBrnQ,0.741,0.592,6,-9.059,0,0.0308,0.854,0.116,0.822,111.984,310133,4,64.0,golden hour
+47,Kamaliza,Zanzibar,Zanzibar,0lWvcq3Zrms58nKWwzcwIy,0.545,0.851,2,-3.417,0,0.0314,0.00457,0.103,0.365,139.996,228938,4,0.0,golden hour
+48,Dirty Projectors,Cool Your Heart (Ludwig Goransson Remix),Cool Your Heart - Ludwig Goransson Remix,0oqhviv1eDB6bAsUHclBu8,0.674,0.532,1,-5.769,0,0.154,0.00189,0.09,0.545,148.843,236959,4,0.0,golden hour
+49,Shibo,pH,pH,2seFcLiWwxHZ72EYFezJmJ,0.733,0.631,1,-8.765,1,0.278,0.0563,0.107,0.722,90.081,170667,4,42.0,golden hour
+50,Little Dragon,Water (FKJ Remix),Water - FKJ Remix,04bAqpyuPCsgZAfnbsGDXx,0.792,0.458,5,-8.222,0,0.111,0.00532,0.104,0.415,113.503,199103,5,0.0,golden hour
+51,Mishegas,Temporary Love,Temporary Love,139cV9ZeoqSgXAdPXIRrRU,0.563,0.732,0,-8.621,0,0.0393,0.712,0.0828,0.0397,118.025,244268,4,48.0,golden hour
+52,Punctual,Fading Youth - EP,Fading Youth,0JyNb6hPiBcy9ZYB85cXYq,0.52,0.549,6,-8.85,0,0.0345,0.0362,0.169,0.21,100.794,288947,4,41.0,golden hour
+53,Blood Cultures,Oh Uncertainty! A Universe Despairs,Best for You,3M1IvMlWvDkwrcgPdGmvru,0.542,0.635,2,-5.237,1,0.0321,0.00193,0.823,0.486,90.126,213040,4,0.0,golden hour
+54,Jaja Bu,Bibles,Bibles,3OHpvUlcPZyBBPXrQLHUBi,0.713,0.661,10,-6.874,0,0.0271,0.0473,0.0991,0.83,107.039,273467,4,40.0,golden hour
+55,Goth Babe,North Coast,The Trees,4q6OvSJnqxZZ3N13QRRzrX,0.553,0.66,10,-8.662,1,0.137,5.74e-06,0.0748,0.335,109.809,282545,4,47.0,golden hour
+56,Roosevelt,Polydans,See You Again,26gAJmT5PipdLamyFMy7c8,0.612,0.876,5,-4.841,0,0.0478,0.000539,0.168,0.583,121.966,262798,4,40.0,golden hour
+57,slenderbodies,cherry blossom,cherry blossom,44xUqPXksQ2MNtuF2AuRBN,0.759,0.57,10,-8.547,0,0.0364,0.000531,0.257,0.646,120.009,140163,4,0.0,golden hour
+58,NEIL FRANCES,Music Sounds Better With You,Music Sounds Better With You,0GL1ye91pT3nJIQzXwncG2,0.934,0.524,8,-8.256,0,0.0654,0.245,0.0672,0.785,118.011,198305,4,0.0,golden hour
+59,Mel Blue,Yesterday,Yesterday,1l0cPiIm4i7AX7wukAP1GE,0.802,0.58,0,-6.412,1,0.155,0.0119,0.176,0.179,114.988,218205,4,44.0,golden hour
+60,Bakar,The Mission,The Mission,4CGORuRtjSK6xMy8s1VvSS,0.708,0.437,10,-6.982,0,0.0807,0.0,0.0976,0.393,94.053,191479,4,65.0,golden hour
+61,SAVI MINDS,WHERE'D MY EYES GO?,WHERE'D MY EYES GO?,7u3kxFpkTQnXKlWH1r34G5,0.513,0.542,7,-10.357,1,0.47,0.000106,0.148,0.178,102.012,353524,4,30.0,golden hour
+62,Emmit Fenn,Light That Shines Through,Light That Shines Through,4YzP1J64MRM6AWsCUNQPIL,0.527,0.408,8,-14.428,1,0.0983,0.0149,0.356,0.0398,115.09,220842,4,39.0,golden hour
+63,NEIL FRANCES,Downtown,Downtown,3MAkPH0PUgcz8QSCnlq7ts,0.77,0.802,7,-7.558,1,0.0355,0.0421,0.0983,0.914,104.995,285714,4,0.0,golden hour
+64,Golden Vessel,Hesitate,Hesitate,6PmsHVre2N9yOjDge00r9c,0.406,0.53,2,-9.556,1,0.045,0.0161,0.108,0.0701,122.773,251279,4,57.0,golden hour
+65,Jai Piccone,Care,Care,7eT788aFqbLJNZbYf3QaJl,0.756,0.497,8,-7.571,1,0.0419,0.696,0.108,0.646,120.994,327096,4,39.0,golden hour
+66,OTR,Kyoto,Kyoto,2QXvZBjs59MbSQ20GxoqA2,0.325,0.658,10,-5.59,1,0.51,0.0303,0.11,0.0921,75.047,240500,5,0.0,golden hour
+67,Conor Albert,Collage 1,Tell Me,5hJexxZWaa2L7gqTha7nts,0.705,0.644,2,-9.276,1,0.071,0.0434,0.0997,0.235,111.057,200200,4,0.0,golden hour
+68,fika,Mean,Mean,7xrwlO7d0pINF403SwlqeK,0.763,0.537,1,-8.371,0,0.146,0.0015,0.667,0.489,104.02,225933,4,49.0,golden hour
+69,RAC,We Belong (Odesza Remix),We Belong - Odesza Remix,4tO93FtEpqdVA0b9RXK4xI,0.628,0.782,0,-8.225,1,0.0429,0.203,0.117,0.0691,115.0,318307,4,58.0,golden hour
+70,Cabu,Crazy: Remixes,Crazy - Holow Remix,1JMpRrL4rsnhOBYLULlOrv,0.727,0.576,5,-7.292,0,0.357,0.0,0.262,0.738,115.355,237297,4,41.0,golden hour
+71,Bearcubs,Early Hours,Même Langue,6sp5lUljSuO6nBsCpiPU1K,0.792,0.699,2,-9.279,1,0.0562,0.836,0.672,0.472,123.017,304667,4,50.0,golden hour
+72,The Blaze,DANCEHALL,PLACES,3eSmjY0PxxTlX6UxRDKaul,0.772,0.427,4,-9.576,0,0.0437,0.724,0.108,0.0368,99.995,214827,4,46.0,golden hour
+73,Brijean,Moody,Moody,4ZRl4vgRSJqtnJaCXWS6hg,0.826,0.704,10,-7.791,0,0.0766,0.828,0.119,0.514,115.984,134220,4,10.0,golden hour
+74,Rhye,Song For You (Remixes),Song For You - Mansionair Remix,2z0qyx2Rfj5k9hyypDpreN,0.77,0.72,2,-8.603,1,0.043,0.442,0.0749,0.491,119.233,252107,4,36.0,golden hour
+75,Tourist,Wild,Kin,3RID7FNOsH3XqUcEsgpq5v,0.353,0.727,6,-8.578,0,0.0451,0.727,0.0926,0.0384,113.002,324267,3,60.0,golden hour
+76,Giraffage,Too Real,Do U Want Me,2eTLxOZY8owibk7b2iETad,0.722,0.586,8,-10.339,1,0.0766,0.331,0.396,0.594,154.012,224353,4,47.0,golden hour
+77,Tycho,Simulcast,Outer Sunset,4Zwo8D1koSzLJCYd5NlX81,0.716,0.695,8,-11.146,1,0.0449,0.916,0.0933,0.693,96.994,250384,4,44.0,golden hour
+78,Jean Tonique,Feel Better Now,Feel Better Now,5F5tU7gE94Kmzi7lHPCgUp,0.737,0.441,8,-9.086,1,0.0374,0.00934,0.106,0.23,105.0,225907,4,48.0,golden hour
+79,Daniel T.,Heat-Wave,Heat-Wave,5RwQuZtvlmLq6rutrcugxF,0.705,0.656,1,-8.549,0,0.0513,0.54,0.178,0.397,126.0,356224,4,0.0,golden hour

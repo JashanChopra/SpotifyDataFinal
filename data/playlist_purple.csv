@@ -1,101 +1,101 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
-0,SiR,November,Something Foreign,51HuSQ3lAnMuZiPu9YBJqN,0.598,0.621,10,-6.722,0,0.288,0,0.086,0.573,108.231,152532,4
-1,Alex Wiley,Village Party 2: Heaven's Gate,Residual Effects,5f7M2DfjXzoRIiPJSRqb4X,0.655,0.458,8,-9.998,0,0.0356,0.223,0.51,0.102,115.993,272698,4
-2,BROCKHAMPTON,SATURATION,FACE,5bknBRjKJZ643DAN2w8Yoy,0.945,0.702,11,-5.016,0,0.12,0.000538,0.0788,0.678,119.887,259000,4
-3,Snakehips,All My Friends - EP,Dímelo,6Xi897JXNLSoIaoYZwgTLc,0.566,0.444,7,-12.069,0,0.147,0,0.158,0.161,146.991,193867,4
-4,Drake,Views,Feel No Ways,3cjF2OFRmip8spwZYQRKxP,0.582,0.677,7,-7.081,1,0.172,6.6e-06,0.122,0.205,193.818,240653,4
-5,Chuuwee,Amerikkas Most Blunted,Time,4TREKr6WMvxhnZG6zlTL0r,0.678,0.615,0,-7.662,1,0.446,0,0.133,0.0396,135.241,238446,4
-6,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)","Sing About Me, I'm Dying Of Thirst",3q2v8QaTnHLveAQzR6gvYm,0.654,0.753,11,-7.556,0,0.395,8.08e-05,0.13,0.371,110.722,723573,5
-7,alt-J,An Awesome Wave,Breezeblocks,3n69hLUdIsSa1WlRmjMZlW,0.616,0.656,5,-7.298,1,0.0344,0.000879,0.205,0.286,150.071,227080,4
-8,Kendrick Lamar,DAMN.,XXX. FEAT. U2.,4iYRa2btalAzPZoSYfROqF,0.568,0.619,1,-6.899,1,0.414,1.67e-06,0.11,0.293,170.115,254200,4
-9,Gorillaz,Demon Days,November Has Come,6lrDckuosGpwEHtm1hHBcf,0.702,0.567,7,-8.561,1,0.239,2.75e-05,0.0864,0.667,84.153,165093,4
-10,Kid Cudi,"Passion, Pain & Demon Slayin'",Baptized In Fire,6WSBZroxQaO3FYEpT2ACFH,0.673,0.61,4,-8.386,0,0.191,0.0177,0.116,0.759,152.062,285520,4
-11,Pixies,Surfer Rosa (Remastered),Where Is My Mind?,6mcxQ1Y3uQRU0IHsvdNLH1,0.518,0.436,4,-14.134,1,0.0349,0.000621,0.079,0.27,80.88,236973,4
-12,Caleborate,1993,Kale,4niRrp39CygYumwRv2QnaV,0.713,0.758,5,-5.567,0,0.223,0,0.467,0.416,140.031,304335,4
-13,The Palms,Push Off,Push Off,3869c1bl5bJqdD3cyDw8hh,0.61,0.519,10,-6.819,0,0.0387,3.87e-06,0.109,0.193,78.006,230950,3
-14,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Bloody Waters (with Anderson .Paak & James Blake),4KXwFI9pgJLpUIAc9oSL8j,0.507,0.606,8,-8.758,1,0.452,0,0.174,0.202,180.607,272307,4
-15,Drake,Nothing Was The Same (Deluxe),Pound Cake / Paris Morton Music 2,1HDaPtZuixue2q6VGNRdVO,0.521,0.762,2,-6.75,1,0.534,1.11e-05,0.114,0.264,164.289,433800,4
-16,Drake,If You're Reading This It's Too Late,Jungle,7cTrekacPXjNTQuEJGN4Ee,0.69,0.235,7,-8.651,1,0.0541,0.000144,0.107,0.378,99.906,320400,4
-17,Frank Ocean,Blonde,Nights,7eqoqGkKwgOaWNNHx90uEZ,0.466,0.548,5,-9.362,0,0.118,1.01e-06,0.113,0.423,89.815,307151,4
-18,BROCKHAMPTON,SATURATION III,BLEACH,0dWOFwdXrbBUYqD9DLsoyK,0.595,0.657,1,-6.498,0,0.183,0.000597,0.437,0.718,156.093,273151,4
-19,Death Cab for Cutie,Narrow Stairs,The Ice Is Getting Thinner,204974mkLcxFNtq6EXLsJx,0.362,0.138,0,-12.201,1,0.0421,0.000468,0.11,0.0752,79.425,225200,3
-20,Death Cab for Cutie,Narrow Stairs,I Will Possess Your Heart - Radio Edit,18NiQTTgXClfhnYMPKUJZT,0.622,0.576,7,-10.019,1,0.0275,0.0248,0.0797,0.732,133.025,290293,4
-21,Gabriel Garzón-Montano,Jardín,Fruitflies,4AyF3otW64PCw45b1ENW77,0.646,0.286,2,-12.361,1,0.038,2.01e-05,0.0325,0.158,77.161,330033,4
-22,Anderson .Paak,Venice,Might Be,2WlOO5UM3eoEQt7Z2z3PU1,0.684,0.585,2,-7.601,1,0.0712,1.23e-06,0.728,0.335,148.507,237166,4
-23,A$AP Rocky,AT.LONG.LAST.A$AP,L$D,4S7YHmlWwfwArgd8LfSPud,0.598,0.252,2,-15.086,1,0.0644,0.133,0.0992,0.0352,120.064,238307,4
-24,KAYTRANADA,99.9%,GOT IT GOOD,2qUZliZ9NHUYIAZqRNe6pZ,0.606,0.503,7,-6.678,0,0.155,0,0.116,0.31,80.04,228147,4
-25,The Neighbourhood,I Love You.,Sweater Weather,2QjOHCTQ1Jl3zawyYOpxh6,0.612,0.807,10,-2.81,1,0.0336,0.0177,0.101,0.398,124.053,240400,4
-26,SiR,November,Something New,3DdBQIpZ8gx7Zph2uUyKry,0.572,0.642,3,-7.827,1,0.174,0.0114,0.468,0.377,74.767,229219,4
-27,Death Cab for Cutie,Kintsugi,Black Sun,59FC22eN2Syt9bbv2d6393,0.608,0.642,2,-7.978,1,0.0251,0.0667,0.166,0.608,87.703,289160,4
-28,J. Cole,2014 Forest Hills Drive,No Role Modelz,62vpWI1CHwFy7tMIcSStl8,0.692,0.521,10,-8.465,0,0.33,0,0.0565,0.463,100.45,292987,4
-29,Red Hot Chili Peppers,Californication (Deluxe Edition),Road Trippin',1XxCiPw07rd1ytYnE7SoJI,0.243,0.47,4,-8.194,0,0.0353,0.000798,0.121,0.393,204.026,204973,4
-30,Pink Floyd,Wish You Were Here,Wish You Were Here,6mFkJmJqdDVQ1REhVfGgd1,0.481,0.262,7,-15.73,1,0.0414,0.0114,0.832,0.375,122.861,334744,4
-31,Red Hot Chili Peppers,Californication (Deluxe Edition),Californication,48UPSzbZjgc449aqz8bxox,0.592,0.767,9,-2.788,0,0.027,0.00165,0.127,0.328,96.483,329733,4
-32,The Head And The Heart,The Head and the Heart,Rivers and Roads,4Q6Kuze3wNMQRjamyBjHUR,0.494,0.194,0,-8.965,1,0.0352,2.98e-05,0.0803,0.161,135.753,284000,3
-33,HOMESHAKE,Fresh Air,Wrapping Up,34VDU967NLUWPWibRQMpOj,0.816,0.301,7,-10.167,0,0.0741,0.153,0.114,0.107,134.955,227253,4
-34,Isaiah Rashad,The Sun's Tirade,Tity and Dolla (feat. Hugh Augustine & Jay Rock),2NoKRHt8LVpnQMVl3TPwvu,0.717,0.602,0,-9.441,0,0.323,1.1e-05,0.0923,0.539,124.003,298035,4
-35,Post Malone,Stoney (Deluxe),Broken Whiskey Glass,5BoOzegGrg5XFRR8UBDtkF,0.512,0.673,0,-7.359,1,0.0523,3.04e-06,0.126,0.11,99.84,233813,4
-36,Cage The Elephant,Unpeeled,Sweetie Little Jean - Unpeeled,6tCFrID3KK6XbhdjZi5Dev,0.57,0.626,11,-3.356,0,0.0507,0,0.275,0.469,147.815,206160,4
-37,Cage The Elephant,Tell Me I'm Pretty,How Are You True,6vcdiwrCVXnTLASFdjEV8r,0.493,0.461,11,-9.777,0,0.0336,0.000346,0.0985,0.288,140.034,280947,4
-38,Drake,Views,Keep The Family Close,7sBwAWyXfiIgrYQ8BaJESH,0.378,0.566,9,-7.685,0,0.0482,0,0.382,0.196,87.691,328907,3
-39,Drake,Views,9,1C7KSXR2GVxknex6I4ANco,0.68,0.712,10,-7.184,1,0.0453,0.000612,0.237,0.0379,100.009,255787,4
-40,Ab-Soul,Control System,The Book of Soul,1to4zsRWRjzbRGcBSvEQsm,0.522,0.654,11,-7.14,0,0.322,0,0.207,0.508,77.74,310637,3
-41,alt-J,3WW,3WW,65lTO69QCwDl3EmgU3eGKv,0.634,0.139,2,-15.102,1,0.0533,0.036,0.0612,0.158,78.053,300427,4
-42,Broken Bells,After the Disco,Leave It Alone,7uLpd43d2fKFDUD3IyXeAi,0.499,0.444,1,-8.749,1,0.026,0.00348,0.122,0.484,141.987,330853,4
-43,Broken Bells,After the Disco,The Angel and the Fool,0fd0506d5oBAQDyBF6TZ05,0.597,0.323,5,-11.992,1,0.039,0.828,0.0799,0.358,75.006,195080,4
-44,Broken Bells,It's That Talk Again,It's That Talk Again,5C8Vwr9o1WtsoDVPFqPCob,0.659,0.758,0,-6.424,1,0.0448,8.79e-05,0.0822,0.562,122.945,241333,4
-45,Childish Gambino,Redbone,Redbone,47l9wxr6RwgoTSfnseBRcf,0.747,0.378,1,-10.454,1,0.109,0.0173,0.119,0.565,160.049,326880,4
-46,Dispatch,"America, Location 12",Curse + Crush,6IBtc1I5rFQ6mz6CwzC1fI,0.58,0.64,0,-7.493,1,0.0386,1.35e-05,0.0829,0.374,80.006,258693,4
-47,The Doors,L.A. Woman,Riders on the Storm,14XWXWv5FoCbFzLksawpEe,0.55,0.722,11,-11.729,0,0.0283,0.0129,0.11,0.716,103.886,434720,4
-48,Drake,More Life,Teenage Fever,6n3HGiq4v35D6eFOSwqYuo,0.766,0.283,8,-10.33,0,0.0846,0.0172,0.115,0.144,97.04,219692,4
-49,Frank Ocean,Blonde,Pink + White,3xKsf9qdS1CyvXSMEid6g8,0.544,0.552,9,-7.45,1,0.0991,4.57e-05,0.415,0.554,159.738,184516,3
-50,Frank Ocean,channel ORANGE,Crack Rock,5lcyIeEfwZTs8Ajw3kdF7P,0.429,0.736,5,-8.017,1,0.222,0,0.0852,0.379,89.262,224147,4
-51,Frank Ocean,Provider,Provider,6R6ihJhRbgu7JxJKIbW57w,0.654,0.325,2,-11.925,1,0.282,2.14e-05,0.152,0.39,139.886,243238,4
-52,Grizzly Bear,Painted Ruins,Wasted Acres,0IvQCuL8N4158edtz98LCL,0.499,0.397,7,-9.334,0,0.0263,0.062,0.1,0.12,134.967,172160,4
-53,Grizzly Bear,Three Rings,Three Rings,5wbFt2XpA1S170iDSbC2wX,0.502,0.871,11,-6.128,0,0.0521,0.58,0.0733,0.14,109.414,288320,3
-54,Hippie Sabotage,Options EP,Options,2CWWx7H3QDvJ9KxrmQE9nc,0.411,0.523,11,-11.786,1,0.241,9.08e-06,0.293,0.205,144.738,220727,4
-55,Hippie Sabotage,Providence,Devil Eyes,6R9WRj1AX9IkafufRAbaQB,0.391,0.396,1,-8.621,0,0.189,0.405,0.315,0.199,99.112,131272,5
-56,Kendrick Lamar,DAMN.,FEAR.,23luOrEVHMfoX0AhfbQuS6,0.588,0.479,1,-7.039,1,0.281,7.2e-06,0.527,0.434,150.414,460573,4
-57,Kendrick Lamar,DAMN.,PRIDE.,6IZvVAP7VPPnsGX6bvgkqg,0.665,0.535,4,-7.056,0,0.0572,1.68e-05,0.154,0.37,138.842,275253,4
-58,J. Cole,KOD,Once an Addict - Interlude,0Px86mRlxdB3YqpK6KXWlr,0.623,0.473,8,-8.336,1,0.461,0,0.119,0.138,84.066,197822,4
-59,A$AP Rocky,TESTING,CALLDROPS (feat. Kodak Black),1wGYcpJZ59rePkNu4zHmLu,0.514,0.403,5,-11.101,1,0.128,0.051,0.136,0.463,127.818,162373,4
-60,Gnarls Barkley,The Odd Couple,Who's Gonna Save My Soul - Original Mix,4qiBDlMzW2vTK8dJKw7xD3,0.806,0.604,10,-8.532,0,0.062,0.000138,0.0948,0.604,85.002,195467,4
-61,Loma,Black Willow,Black Willow - Single Version,7sljgxqi3fK5vmV7t2St1l,0.666,0.339,3,-9.698,0,0.0253,0.014,0.114,0.315,139.956,239458,4
-62,Mac Miller,Self Care,Self Care,4c00fD972rl8ubRxZnyI2B,0.52,0.538,1,-8.109,1,0.206,0.00187,0.119,0.177,141.894,345133,4
-63,Mac Miller,The Divine Feminine,"God Is Fair, Sexy Nasty (feat. Kendrick Lamar)",6hzbRKhJHo6cfCHSnNaDS8,0.467,0.41,2,-12.028,1,0.185,4.28e-05,0.113,0.136,95.931,500960,4
-64,Mac Miller,Swimming,Hurt Feelings,5p7GiBZNL1afJJDUrOA6C8,0.69,0.462,8,-8.054,1,0.13,0.00218,0.113,0.325,157.655,245640,4
-65,Mac Miller,Swimming,Wings,16umSNZfofRpDqTvf8DIAo,0.656,0.33,8,-8.771,1,0.162,0.00386,0.107,0.349,119.057,250120,4
-66,Mac Miller,Swimming,Dunno,3YnwIp2b99p3e5dsFTXIIx,0.622,0.229,1,-11.322,1,0.0445,0.00906,0.134,0.0998,81.87,237093,4
-67,Mac Miller,Swimming,2009,6dFn6my1sHK2bcf23GlHwM,0.533,0.496,6,-9.363,0,0.517,0.000164,0.0969,0.173,155.158,347987,4
-68,Travis Scott,ASTROWORLD,SKELETONS,6NMtzpDQBTOfJwMzgMX0zl,0.46,0.686,0,-5.948,0,0.0367,0,0.375,0.252,148.054,145588,4
-69,Travis Scott,ASTROWORLD,WAKE UP,20MuVazoNMv6xjKPnRFOxG,0.741,0.645,11,-5.116,0,0.0963,0,0.163,0.488,149.07,231964,4
-70,Travis Scott,ASTROWORLD,YOSEMITE,7lAK3oHbfEnvUQWosrMMpR,0.785,0.554,0,-6.571,1,0.0409,3.4e-06,0.116,0.144,128.047,150043,4
-71,Kendrick Lamar,Section.80,Kush & Corinthians,705u4LfXcTBuDOB8UCy0A7,0.383,0.731,1,-5.996,1,0.201,0,0.504,0.306,176.781,304668,4
-72,Bob Lind,Since There Were Circles,City Scenes,6Gr0crQrsAOncf3SXp5geN,0.511,0.655,6,-8.24,0,0.0308,0.000272,0.308,0.306,96.186,210320,4
-73,Danger Mouse,Rome,Season's Trees (feat. Norah Jones),1EIvMRhClzMkbJHZAd1Aqa,0.543,0.66,10,-9.801,0,0.0273,0.0053,0.0936,0.715,78.507,191787,4
-74,Modern Cosmology,Summer Long,C'est Le Vent,2cF6VH3B2Zu47RJnK7mQso,0.25,0.495,7,-6.292,1,0.0285,0.263,0.114,0.0906,89.008,240452,5
-75,Travis Scott,Rodeo (Expanded Edition),90210 (feat. Kacy Hill),51EC3I1nQXpec4gDk0mQyP,0.402,0.526,9,-6.741,0,0.0904,8.33e-06,0.105,0.312,81.404,339067,4
-76,Phantogram,Eyelid Movies,When I'm Small,3498wF96LsgVgMkGmJzJOC,0.646,0.758,10,-4.34,1,0.0314,0.097,0.103,0.424,91.998,249067,4
-77,Earth Opera,Earth Opera,The Red Sox Are Winning,1LTUZ3AoiqYrmDgswQUz4K,0.493,0.442,5,-8.877,1,0.0817,0,0.0837,0.331,84.499,211760,4
-78,The New Dawn,There's a New Dawn,Last Morning,46tGlNemSsgPzOAibTVzL2,0.65,0.414,4,-15.329,0,0.0378,0.00363,0.0667,0.621,115.608,219400,4
-79,Mac DeMarco,Salad Days,Chamber Of Reflection,1MJ5f5EYBC92ADD6xcz7nb,0.537,0.558,11,-8.678,1,0.0929,0.91,0.102,0.505,131.037,231724,4
-80,Mac DeMarco,Another One,A Heart Like Hers,3dAAlzhQiEywGIQ1ULDKNE,0.56,0.381,1,-8.503,1,0.0291,0.000154,0.125,0.557,147.432,241861,4
-81,Noname,Room 25,Prayer Song,50yYKk1o3W8Tp7skWT2AKv,0.786,0.56,9,-8.841,0,0.143,1.53e-05,0.085,0.522,112.357,257899,4
-82,Noname,Room 25,Window,2wTGE01CrlTOH4naE9OGCE,0.337,0.572,1,-9.468,1,0.122,0.00178,0.472,0.413,173.832,278124,4
-83,Open Mike Eagle,Dark Comedy,Dark Comedy Morning Show (feat. Toy Light),3sxVEWDtMwY42OwoAQgM7h,0.367,0.676,8,-10.362,1,0.232,0.0664,0.13,0.443,100.01,203255,5
-84,Glass Animals,How To Be A Human Being,Mama's Gun,5o4znEHwozOHIgHoWAllnr,0.46,0.314,6,-10.158,0,0.0267,4.03e-06,0.122,0.216,90.014,266747,4
-85,BROCKHAMPTON,iridescence,FABRIC,5jQAnD4ISqs7v8FT7povMS,0.52,0.547,2,-10.422,0,0.214,0.0395,0.116,0.175,175.986,277840,4
-86,Portugal. The Man,American Ghetto,Fantastic Pace,6Ue7Htw0qt53eSVhT617ye,0.453,0.731,7,-6.99,1,0.085,0.00169,0.0943,0.386,132.014,222627,4
-87,Portugal. The Man,American Ghetto,All My People,66sOuD03tZc1yxGhEtL0QX,0.468,0.801,11,-6.609,0,0.0585,0.735,0.149,0.646,180.098,192453,4
-88,Glass Animals,How To Be A Human Being,Poplar St,3ApAsbQP7d5GlFwwdExaTY,0.575,0.446,4,-7.802,0,0.0296,0.00567,0.137,0.259,68.985,262540,4
-89,Bob Lind,Since There Were Circles,Colorado Line,0HEG6rtalyYv0jRAUW36rO,0.456,0.773,7,-8.64,1,0.0749,0.0054,0.0491,0.782,171.752,200693,4
-90,"Tyler, The Creator",Boredom (feat. Rex Orange County & Anna of the North),Boredom (feat. Rex Orange County & Anna of the North),4k2ix82xyGax7S8u6ODb6B,0.559,0.578,8,-9.54,1,0.151,0.000522,0.324,0.239,79.938,320720,4
-91,Open Mike Eagle,Brick Body Kids Still Daydream,Brick Body Complex,7tlGq6EAEIWsv7srZWc5f7,0.683,0.625,11,-6.396,0,0.0454,2.44e-06,0.81,0.23,136.18,247553,4
-92,BROCKHAMPTON,SATURATION,CASH,0yvxop3XdQyWStwvuYP4dw,0.611,0.795,0,-8.59,0,0.0485,0.0313,0.321,0.396,75.015,195200,4
-93,Sylvan Esso,Sylvan Esso,Coffee,71cUqXJ3h1r0Ees6YdENLU,0.457,0.455,0,-8.112,1,0.188,0.00122,0.142,0.163,100.049,269693,4
-94,Pink Floyd,The Wall,Comfortably Numb,5HNCy40Ni5BZJFw1TKzRsC,0.472,0.366,11,-12.595,0,0.0286,0.312,0.0837,0.171,127.163,382297,4
-95,The Neighbourhood,Wiped Out!,Daddy Issues,5E30LdtzQTGqRvNd7l6kG5,0.588,0.521,10,-9.461,1,0.0329,0.149,0.123,0.337,85.012,260173,4
-96,The Neighbourhood,Wiped Out!,Greetings from Califournia,6PS9AdyOKTPwlDPfLzJ7Ow,0.488,0.725,5,-7.692,0,0.0513,2.33e-06,0.661,0.309,81.235,244040,4
-97,Pell,Floating While Dreaming,Eleven:11,6vsFAKxQFpX0sX4tYmS3LN,0.491,0.587,10,-8.345,0,0.0578,3.37e-05,0.0904,0.152,124.939,245773,4
-98,Tame Impala,Lonerism,Feels Like We Only Go Backwards,0LtOwyZoSNZKJWHqjzADpW,0.303,0.9,2,-2.352,0,0.0574,0.635,0.11,0.491,149.508,192960,4
-99,The Neighbourhood,I Love You.,Flawless,2Kt1XplPBQBsDKQDa6TssB,0.568,0.871,0,-3.453,1,0.0308,0.51,0.303,0.374,119.99,246493,4
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,popularity,playlist_name
+0,SiR,November,Something Foreign,51HuSQ3lAnMuZiPu9YBJqN,0.598,0.621,10,-6.722,0,0.288,0,0.086,0.573,108.231,152532,4,53.0,Purple
+1,Alex Wiley,Village Party 2: Heaven's Gate,Residual Effects,5f7M2DfjXzoRIiPJSRqb4X,0.655,0.458,8,-9.998,0,0.0356,0.223,0.51,0.102,115.993,272698,4,21.0,Purple
+2,BROCKHAMPTON,SATURATION,FACE,5bknBRjKJZ643DAN2w8Yoy,0.945,0.702,11,-5.016,0,0.12,0.000538,0.0788,0.678,119.887,259000,4,67.0,Purple
+3,Snakehips,All My Friends - EP,Dímelo,6Xi897JXNLSoIaoYZwgTLc,0.566,0.444,7,-12.069,0,0.147,0,0.158,0.161,146.991,193867,4,54.0,Purple
+4,Drake,Views,Feel No Ways,3cjF2OFRmip8spwZYQRKxP,0.582,0.677,7,-7.081,1,0.172,6.6e-06,0.122,0.205,193.818,240653,4,72.0,Purple
+5,Chuuwee,Amerikkas Most Blunted,Time,4TREKr6WMvxhnZG6zlTL0r,0.678,0.615,0,-7.662,1,0.446,0,0.133,0.0396,135.241,238446,4,42.0,Purple
+6,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)","Sing About Me, I'm Dying Of Thirst",3q2v8QaTnHLveAQzR6gvYm,0.654,0.753,11,-7.556,0,0.395,8.08e-05,0.13,0.371,110.722,723573,5,62.0,Purple
+7,alt-J,An Awesome Wave,Breezeblocks,3n69hLUdIsSa1WlRmjMZlW,0.616,0.656,5,-7.298,1,0.0344,0.000879,0.205,0.286,150.071,227080,4,73.0,Purple
+8,Kendrick Lamar,DAMN.,XXX. FEAT. U2.,4iYRa2btalAzPZoSYfROqF,0.568,0.619,1,-6.899,1,0.414,1.67e-06,0.11,0.293,170.115,254200,4,67.0,Purple
+9,Gorillaz,Demon Days,November Has Come,6lrDckuosGpwEHtm1hHBcf,0.702,0.567,7,-8.561,1,0.239,2.75e-05,0.0864,0.667,84.153,165093,4,61.0,Purple
+10,Kid Cudi,"Passion, Pain & Demon Slayin'",Baptized In Fire,6WSBZroxQaO3FYEpT2ACFH,0.673,0.61,4,-8.386,0,0.191,0.0177,0.116,0.759,152.062,285520,4,63.0,Purple
+11,Pixies,Surfer Rosa (Remastered),Where Is My Mind?,6mcxQ1Y3uQRU0IHsvdNLH1,0.518,0.436,4,-14.134,1,0.0349,0.000621,0.079,0.27,80.88,236973,4,4.0,Purple
+12,Caleborate,1993,Kale,4niRrp39CygYumwRv2QnaV,0.713,0.758,5,-5.567,0,0.223,0,0.467,0.416,140.031,304335,4,23.0,Purple
+13,The Palms,Push Off,Push Off,3869c1bl5bJqdD3cyDw8hh,0.61,0.519,10,-6.819,0,0.0387,3.87e-06,0.109,0.193,78.006,230950,3,58.0,Purple
+14,Kendrick Lamar,Black Panther The Album Music From And Inspired By,Bloody Waters (with Anderson .Paak & James Blake),4KXwFI9pgJLpUIAc9oSL8j,0.507,0.606,8,-8.758,1,0.452,0,0.174,0.202,180.607,272307,4,57.0,Purple
+15,Drake,Nothing Was The Same (Deluxe),Pound Cake / Paris Morton Music 2,1HDaPtZuixue2q6VGNRdVO,0.521,0.762,2,-6.75,1,0.534,1.11e-05,0.114,0.264,164.289,433800,4,0.0,Purple
+16,Drake,If You're Reading This It's Too Late,Jungle,7cTrekacPXjNTQuEJGN4Ee,0.69,0.235,7,-8.651,1,0.0541,0.000144,0.107,0.378,99.906,320400,4,0.0,Purple
+17,Frank Ocean,Blonde,Nights,7eqoqGkKwgOaWNNHx90uEZ,0.466,0.548,5,-9.362,0,0.118,1.01e-06,0.113,0.423,89.815,307151,4,78.0,Purple
+18,BROCKHAMPTON,SATURATION III,BLEACH,0dWOFwdXrbBUYqD9DLsoyK,0.595,0.657,1,-6.498,0,0.183,0.000597,0.437,0.718,156.093,273151,4,71.0,Purple
+19,Death Cab for Cutie,Narrow Stairs,The Ice Is Getting Thinner,204974mkLcxFNtq6EXLsJx,0.362,0.138,0,-12.201,1,0.0421,0.000468,0.11,0.0752,79.425,225200,3,44.0,Purple
+20,Death Cab for Cutie,Narrow Stairs,I Will Possess Your Heart - Radio Edit,18NiQTTgXClfhnYMPKUJZT,0.622,0.576,7,-10.019,1,0.0275,0.0248,0.0797,0.732,133.025,290293,4,41.0,Purple
+21,Gabriel Garzón-Montano,Jardín,Fruitflies,4AyF3otW64PCw45b1ENW77,0.646,0.286,2,-12.361,1,0.038,2.01e-05,0.0325,0.158,77.161,330033,4,0.0,Purple
+22,Anderson .Paak,Venice,Might Be,2WlOO5UM3eoEQt7Z2z3PU1,0.684,0.585,2,-7.601,1,0.0712,1.23e-06,0.728,0.335,148.507,237166,4,55.0,Purple
+23,A$AP Rocky,AT.LONG.LAST.A$AP,L$D,4S7YHmlWwfwArgd8LfSPud,0.598,0.252,2,-15.086,1,0.0644,0.133,0.0992,0.0352,120.064,238307,4,75.0,Purple
+24,KAYTRANADA,99.9%,GOT IT GOOD,2qUZliZ9NHUYIAZqRNe6pZ,0.606,0.503,7,-6.678,0,0.155,0,0.116,0.31,80.04,228147,4,0.0,Purple
+25,The Neighbourhood,I Love You.,Sweater Weather,2QjOHCTQ1Jl3zawyYOpxh6,0.612,0.807,10,-2.81,1,0.0336,0.0177,0.101,0.398,124.053,240400,4,90.0,Purple
+26,SiR,November,Something New,3DdBQIpZ8gx7Zph2uUyKry,0.572,0.642,3,-7.827,1,0.174,0.0114,0.468,0.377,74.767,229219,4,43.0,Purple
+27,Death Cab for Cutie,Kintsugi,Black Sun,59FC22eN2Syt9bbv2d6393,0.608,0.642,2,-7.978,1,0.0251,0.0667,0.166,0.608,87.703,289160,4,53.0,Purple
+28,J. Cole,2014 Forest Hills Drive,No Role Modelz,62vpWI1CHwFy7tMIcSStl8,0.692,0.521,10,-8.465,0,0.33,0,0.0565,0.463,100.45,292987,4,86.0,Purple
+29,Red Hot Chili Peppers,Californication (Deluxe Edition),Road Trippin',1XxCiPw07rd1ytYnE7SoJI,0.243,0.47,4,-8.194,0,0.0353,0.000798,0.121,0.393,204.026,204973,4,61.0,Purple
+30,Pink Floyd,Wish You Were Here,Wish You Were Here,6mFkJmJqdDVQ1REhVfGgd1,0.481,0.262,7,-15.73,1,0.0414,0.0114,0.832,0.375,122.861,334744,4,76.0,Purple
+31,Red Hot Chili Peppers,Californication (Deluxe Edition),Californication,48UPSzbZjgc449aqz8bxox,0.592,0.767,9,-2.788,0,0.027,0.00165,0.127,0.328,96.483,329733,4,81.0,Purple
+32,The Head And The Heart,The Head and the Heart,Rivers and Roads,4Q6Kuze3wNMQRjamyBjHUR,0.494,0.194,0,-8.965,1,0.0352,2.98e-05,0.0803,0.161,135.753,284000,3,0.0,Purple
+33,HOMESHAKE,Fresh Air,Wrapping Up,34VDU967NLUWPWibRQMpOj,0.816,0.301,7,-10.167,0,0.0741,0.153,0.114,0.107,134.955,227253,4,5.0,Purple
+34,Isaiah Rashad,The Sun's Tirade,Tity and Dolla (feat. Hugh Augustine & Jay Rock),2NoKRHt8LVpnQMVl3TPwvu,0.717,0.602,0,-9.441,0,0.323,1.1e-05,0.0923,0.539,124.003,298035,4,55.0,Purple
+35,Post Malone,Stoney (Deluxe),Broken Whiskey Glass,5BoOzegGrg5XFRR8UBDtkF,0.512,0.673,0,-7.359,1,0.0523,3.04e-06,0.126,0.11,99.84,233813,4,61.0,Purple
+36,Cage The Elephant,Unpeeled,Sweetie Little Jean - Unpeeled,6tCFrID3KK6XbhdjZi5Dev,0.57,0.626,11,-3.356,0,0.0507,0,0.275,0.469,147.815,206160,4,41.0,Purple
+37,Cage The Elephant,Tell Me I'm Pretty,How Are You True,6vcdiwrCVXnTLASFdjEV8r,0.493,0.461,11,-9.777,0,0.0336,0.000346,0.0985,0.288,140.034,280947,4,58.0,Purple
+38,Drake,Views,Keep The Family Close,7sBwAWyXfiIgrYQ8BaJESH,0.378,0.566,9,-7.685,0,0.0482,0,0.382,0.196,87.691,328907,3,59.0,Purple
+39,Drake,Views,9,1C7KSXR2GVxknex6I4ANco,0.68,0.712,10,-7.184,1,0.0453,0.000612,0.237,0.0379,100.009,255787,4,62.0,Purple
+40,Ab-Soul,Control System,The Book of Soul,1to4zsRWRjzbRGcBSvEQsm,0.522,0.654,11,-7.14,0,0.322,0,0.207,0.508,77.74,310637,3,38.0,Purple
+41,alt-J,3WW,3WW,65lTO69QCwDl3EmgU3eGKv,0.634,0.139,2,-15.102,1,0.0533,0.036,0.0612,0.158,78.053,300427,4,21.0,Purple
+42,Broken Bells,After the Disco,Leave It Alone,7uLpd43d2fKFDUD3IyXeAi,0.499,0.444,1,-8.749,1,0.026,0.00348,0.122,0.484,141.987,330853,4,40.0,Purple
+43,Broken Bells,After the Disco,The Angel and the Fool,0fd0506d5oBAQDyBF6TZ05,0.597,0.323,5,-11.992,1,0.039,0.828,0.0799,0.358,75.006,195080,4,42.0,Purple
+44,Broken Bells,It's That Talk Again,It's That Talk Again,5C8Vwr9o1WtsoDVPFqPCob,0.659,0.758,0,-6.424,1,0.0448,8.79e-05,0.0822,0.562,122.945,241333,4,53.0,Purple
+45,Childish Gambino,Redbone,Redbone,47l9wxr6RwgoTSfnseBRcf,0.747,0.378,1,-10.454,1,0.109,0.0173,0.119,0.565,160.049,326880,4,0.0,Purple
+46,Dispatch,"America, Location 12",Curse + Crush,6IBtc1I5rFQ6mz6CwzC1fI,0.58,0.64,0,-7.493,1,0.0386,1.35e-05,0.0829,0.374,80.006,258693,4,40.0,Purple
+47,The Doors,L.A. Woman,Riders on the Storm,14XWXWv5FoCbFzLksawpEe,0.55,0.722,11,-11.729,0,0.0283,0.0129,0.11,0.716,103.886,434720,4,74.0,Purple
+48,Drake,More Life,Teenage Fever,6n3HGiq4v35D6eFOSwqYuo,0.766,0.283,8,-10.33,0,0.0846,0.0172,0.115,0.144,97.04,219692,4,76.0,Purple
+49,Frank Ocean,Blonde,Pink + White,3xKsf9qdS1CyvXSMEid6g8,0.544,0.552,9,-7.45,1,0.0991,4.57e-05,0.415,0.554,159.738,184516,3,79.0,Purple
+50,Frank Ocean,channel ORANGE,Crack Rock,5lcyIeEfwZTs8Ajw3kdF7P,0.429,0.736,5,-8.017,1,0.222,0,0.0852,0.379,89.262,224147,4,60.0,Purple
+51,Frank Ocean,Provider,Provider,6R6ihJhRbgu7JxJKIbW57w,0.654,0.325,2,-11.925,1,0.282,2.14e-05,0.152,0.39,139.886,243238,4,65.0,Purple
+52,Grizzly Bear,Painted Ruins,Wasted Acres,0IvQCuL8N4158edtz98LCL,0.499,0.397,7,-9.334,0,0.0263,0.062,0.1,0.12,134.967,172160,4,39.0,Purple
+53,Grizzly Bear,Three Rings,Three Rings,5wbFt2XpA1S170iDSbC2wX,0.502,0.871,11,-6.128,0,0.0521,0.58,0.0733,0.14,109.414,288320,3,24.0,Purple
+54,Hippie Sabotage,Options EP,Options,2CWWx7H3QDvJ9KxrmQE9nc,0.411,0.523,11,-11.786,1,0.241,9.08e-06,0.293,0.205,144.738,220727,4,0.0,Purple
+55,Hippie Sabotage,Providence,Devil Eyes,6R9WRj1AX9IkafufRAbaQB,0.391,0.396,1,-8.621,0,0.189,0.405,0.315,0.199,99.112,131272,5,0.0,Purple
+56,Kendrick Lamar,DAMN.,FEAR.,23luOrEVHMfoX0AhfbQuS6,0.588,0.479,1,-7.039,1,0.281,7.2e-06,0.527,0.434,150.414,460573,4,65.0,Purple
+57,Kendrick Lamar,DAMN.,PRIDE.,6IZvVAP7VPPnsGX6bvgkqg,0.665,0.535,4,-7.056,0,0.0572,1.68e-05,0.154,0.37,138.842,275253,4,75.0,Purple
+58,J. Cole,KOD,Once an Addict - Interlude,0Px86mRlxdB3YqpK6KXWlr,0.623,0.473,8,-8.336,1,0.461,0,0.119,0.138,84.066,197822,4,55.0,Purple
+59,A$AP Rocky,TESTING,CALLDROPS (feat. Kodak Black),1wGYcpJZ59rePkNu4zHmLu,0.514,0.403,5,-11.101,1,0.128,0.051,0.136,0.463,127.818,162373,4,54.0,Purple
+60,Gnarls Barkley,The Odd Couple,Who's Gonna Save My Soul - Original Mix,4qiBDlMzW2vTK8dJKw7xD3,0.806,0.604,10,-8.532,0,0.062,0.000138,0.0948,0.604,85.002,195467,4,44.0,Purple
+61,Loma,Black Willow,Black Willow - Single Version,7sljgxqi3fK5vmV7t2St1l,0.666,0.339,3,-9.698,0,0.0253,0.014,0.114,0.315,139.956,239458,4,0.0,Purple
+62,Mac Miller,Self Care,Self Care,4c00fD972rl8ubRxZnyI2B,0.52,0.538,1,-8.109,1,0.206,0.00187,0.119,0.177,141.894,345133,4,48.0,Purple
+63,Mac Miller,The Divine Feminine,"God Is Fair, Sexy Nasty (feat. Kendrick Lamar)",6hzbRKhJHo6cfCHSnNaDS8,0.467,0.41,2,-12.028,1,0.185,4.28e-05,0.113,0.136,95.931,500960,4,64.0,Purple
+64,Mac Miller,Swimming,Hurt Feelings,5p7GiBZNL1afJJDUrOA6C8,0.69,0.462,8,-8.054,1,0.13,0.00218,0.113,0.325,157.655,245640,4,71.0,Purple
+65,Mac Miller,Swimming,Wings,16umSNZfofRpDqTvf8DIAo,0.656,0.33,8,-8.771,1,0.162,0.00386,0.107,0.349,119.057,250120,4,68.0,Purple
+66,Mac Miller,Swimming,Dunno,3YnwIp2b99p3e5dsFTXIIx,0.622,0.229,1,-11.322,1,0.0445,0.00906,0.134,0.0998,81.87,237093,4,67.0,Purple
+67,Mac Miller,Swimming,2009,6dFn6my1sHK2bcf23GlHwM,0.533,0.496,6,-9.363,0,0.517,0.000164,0.0969,0.173,155.158,347987,4,70.0,Purple
+68,Travis Scott,ASTROWORLD,SKELETONS,6NMtzpDQBTOfJwMzgMX0zl,0.46,0.686,0,-5.948,0,0.0367,0,0.375,0.252,148.054,145588,4,72.0,Purple
+69,Travis Scott,ASTROWORLD,WAKE UP,20MuVazoNMv6xjKPnRFOxG,0.741,0.645,11,-5.116,0,0.0963,0,0.163,0.488,149.07,231964,4,72.0,Purple
+70,Travis Scott,ASTROWORLD,YOSEMITE,7lAK3oHbfEnvUQWosrMMpR,0.785,0.554,0,-6.571,1,0.0409,3.4e-06,0.116,0.144,128.047,150043,4,75.0,Purple
+71,Kendrick Lamar,Section.80,Kush & Corinthians,705u4LfXcTBuDOB8UCy0A7,0.383,0.731,1,-5.996,1,0.201,0,0.504,0.306,176.781,304668,4,0.0,Purple
+72,Bob Lind,Since There Were Circles,City Scenes,6Gr0crQrsAOncf3SXp5geN,0.511,0.655,6,-8.24,0,0.0308,0.000272,0.308,0.306,96.186,210320,4,11.0,Purple
+73,Danger Mouse,Rome,Season's Trees (feat. Norah Jones),1EIvMRhClzMkbJHZAd1Aqa,0.543,0.66,10,-9.801,0,0.0273,0.0053,0.0936,0.715,78.507,191787,4,37.0,Purple
+74,Modern Cosmology,Summer Long,C'est Le Vent,2cF6VH3B2Zu47RJnK7mQso,0.25,0.495,7,-6.292,1,0.0285,0.263,0.114,0.0906,89.008,240452,5,2.0,Purple
+75,Travis Scott,Rodeo (Expanded Edition),90210 (feat. Kacy Hill),51EC3I1nQXpec4gDk0mQyP,0.402,0.526,9,-6.741,0,0.0904,8.33e-06,0.105,0.312,81.404,339067,4,77.0,Purple
+76,Phantogram,Eyelid Movies,When I'm Small,3498wF96LsgVgMkGmJzJOC,0.646,0.758,10,-4.34,1,0.0314,0.097,0.103,0.424,91.998,249067,4,0.0,Purple
+77,Earth Opera,Earth Opera,The Red Sox Are Winning,1LTUZ3AoiqYrmDgswQUz4K,0.493,0.442,5,-8.877,1,0.0817,0,0.0837,0.331,84.499,211760,4,9.0,Purple
+78,The New Dawn,There's a New Dawn,Last Morning,46tGlNemSsgPzOAibTVzL2,0.65,0.414,4,-15.329,0,0.0378,0.00363,0.0667,0.621,115.608,219400,4,11.0,Purple
+79,Mac DeMarco,Salad Days,Chamber Of Reflection,1MJ5f5EYBC92ADD6xcz7nb,0.537,0.558,11,-8.678,1,0.0929,0.91,0.102,0.505,131.037,231724,4,47.0,Purple
+80,Mac DeMarco,Another One,A Heart Like Hers,3dAAlzhQiEywGIQ1ULDKNE,0.56,0.381,1,-8.503,1,0.0291,0.000154,0.125,0.557,147.432,241861,4,22.0,Purple
+81,Noname,Room 25,Prayer Song,50yYKk1o3W8Tp7skWT2AKv,0.786,0.56,9,-8.841,0,0.143,1.53e-05,0.085,0.522,112.357,257899,4,0.0,Purple
+82,Noname,Room 25,Window,2wTGE01CrlTOH4naE9OGCE,0.337,0.572,1,-9.468,1,0.122,0.00178,0.472,0.413,173.832,278124,4,0.0,Purple
+83,Open Mike Eagle,Dark Comedy,Dark Comedy Morning Show (feat. Toy Light),3sxVEWDtMwY42OwoAQgM7h,0.367,0.676,8,-10.362,1,0.232,0.0664,0.13,0.443,100.01,203255,5,34.0,Purple
+84,Glass Animals,How To Be A Human Being,Mama's Gun,5o4znEHwozOHIgHoWAllnr,0.46,0.314,6,-10.158,0,0.0267,4.03e-06,0.122,0.216,90.014,266747,4,58.0,Purple
+85,BROCKHAMPTON,iridescence,FABRIC,5jQAnD4ISqs7v8FT7povMS,0.52,0.547,2,-10.422,0,0.214,0.0395,0.116,0.175,175.986,277840,4,42.0,Purple
+86,Portugal. The Man,American Ghetto,Fantastic Pace,6Ue7Htw0qt53eSVhT617ye,0.453,0.731,7,-6.99,1,0.085,0.00169,0.0943,0.386,132.014,222627,4,0.0,Purple
+87,Portugal. The Man,American Ghetto,All My People,66sOuD03tZc1yxGhEtL0QX,0.468,0.801,11,-6.609,0,0.0585,0.735,0.149,0.646,180.098,192453,4,0.0,Purple
+88,Glass Animals,How To Be A Human Being,Poplar St,3ApAsbQP7d5GlFwwdExaTY,0.575,0.446,4,-7.802,0,0.0296,0.00567,0.137,0.259,68.985,262540,4,61.0,Purple
+89,Bob Lind,Since There Were Circles,Colorado Line,0HEG6rtalyYv0jRAUW36rO,0.456,0.773,7,-8.64,1,0.0749,0.0054,0.0491,0.782,171.752,200693,4,7.0,Purple
+90,"Tyler, The Creator",Boredom (feat. Rex Orange County & Anna of the North),Boredom (feat. Rex Orange County & Anna of the North),4k2ix82xyGax7S8u6ODb6B,0.559,0.578,8,-9.54,1,0.151,0.000522,0.324,0.239,79.938,320720,4,44.0,Purple
+91,Open Mike Eagle,Brick Body Kids Still Daydream,Brick Body Complex,7tlGq6EAEIWsv7srZWc5f7,0.683,0.625,11,-6.396,0,0.0454,2.44e-06,0.81,0.23,136.18,247553,4,29.0,Purple
+92,BROCKHAMPTON,SATURATION,CASH,0yvxop3XdQyWStwvuYP4dw,0.611,0.795,0,-8.59,0,0.0485,0.0313,0.321,0.396,75.015,195200,4,42.0,Purple
+93,Sylvan Esso,Sylvan Esso,Coffee,71cUqXJ3h1r0Ees6YdENLU,0.457,0.455,0,-8.112,1,0.188,0.00122,0.142,0.163,100.049,269693,4,4.0,Purple
+94,Pink Floyd,The Wall,Comfortably Numb,5HNCy40Ni5BZJFw1TKzRsC,0.472,0.366,11,-12.595,0,0.0286,0.312,0.0837,0.171,127.163,382297,4,73.0,Purple
+95,The Neighbourhood,Wiped Out!,Daddy Issues,5E30LdtzQTGqRvNd7l6kG5,0.588,0.521,10,-9.461,1,0.0329,0.149,0.123,0.337,85.012,260173,4,87.0,Purple
+96,The Neighbourhood,Wiped Out!,Greetings from Califournia,6PS9AdyOKTPwlDPfLzJ7Ow,0.488,0.725,5,-7.692,0,0.0513,2.33e-06,0.661,0.309,81.235,244040,4,59.0,Purple
+97,Pell,Floating While Dreaming,Eleven:11,6vsFAKxQFpX0sX4tYmS3LN,0.491,0.587,10,-8.345,0,0.0578,3.37e-05,0.0904,0.152,124.939,245773,4,39.0,Purple
+98,Tame Impala,Lonerism,Feels Like We Only Go Backwards,0LtOwyZoSNZKJWHqjzADpW,0.303,0.9,2,-2.352,0,0.0574,0.635,0.11,0.491,149.508,192960,4,76.0,Purple
+99,The Neighbourhood,I Love You.,Flawless,2Kt1XplPBQBsDKQDa6TssB,0.568,0.871,0,-3.453,1,0.0308,0.51,0.303,0.374,119.99,246493,4,68.0,Purple

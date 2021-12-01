@@ -1,101 +1,101 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
-0,Healy,$150 / roll widdit,$150 / roll widdit,2L9mXwt6vJ3FxVxf7jsGkd,0.665,0.409,0,-10.037,1,0.787,1.29e-05,0.0747,0.296,151.355,181368,4
-1,Felly,This Shit Comes in Waves,This Shit Comes in Waves,52Cs7GrUOMuaS7wS0jmqnU,0.944,0.47,10,-11.598,0,0.182,1.33e-06,0.0777,0.93,129.978,169885,4
-2,Rexx Life Raj,Father Figure,Handheld GPS,677ai1ZuIvkr13W5vSR9wn,0.805,0.606,9,-7.679,0,0.267,0.0,0.145,0.513,123.942,133198,4
-3,Healy,LFTM (feat. Felly),LFTM (feat. Felly),6AIAcVlHaBMqhKxFSFpq3M,0.406,0.82,6,-4.897,1,0.34,0.000697,0.329,0.744,68.041,251400,4
-4,SiR,Her Too,W$ Boi,4iNnY19aLOa753mW4nnqof,0.549,0.361,5,-16.629,0,0.08,0.0,0.0592,0.147,100.127,192052,4
-5,FKJ,Skyline,Skyline,4UNoouFjhlmatlWgXP4DhS,0.522,0.473,7,-9.26,0,0.0764,0.0179,0.0919,0.195,148.056,249650,4
-6,Chaz Bundick Meets The Mattson 2,Star Stuff,JBS,2z4JYKZDLlFziglbMBKce0,0.326,0.699,4,-6.187,0,0.0322,0.546,0.0993,0.348,89.981,402994,4
-7,Travis Bretzer,Bitter Suites,Misty Morning,5ZaQW8tvH33GVJ0E3sLz2w,0.696,0.299,7,-11.433,1,0.0354,0.00014,0.131,0.223,143.188,156958,4
-8,Sol,The Headspace Traveler,Young Love (feat. Otieno Terry & Ariana De Boo),1Ycza1iz4pNxXoFnKIUKVg,0.77,0.41,3,-11.818,1,0.391,2.41e-06,0.117,0.312,95.146,230787,4
-9,Yuri Joness,Same Dude,Same Dude,2Tjkh2cGBp5hGOrT7epiTf,0.767,0.466,4,-11.596,0,0.163,8.71e-05,0.142,0.174,76.487,179974,4
-10,Noname,Telefone,Diddy Bop (feat. Cam O'bi & Raury),6JvfBzqZmSiEG5MjM7OcSY,0.637,0.503,1,-6.927,1,0.336,0.000113,0.109,0.661,81.061,208000,4
-11,Isaiah Rashad,Nelly,Nelly,5VPFATm85G3P04Q5g8yxqr,0.901,0.364,11,-7.183,0,0.198,0.0,0.106,0.777,122.064,200656,4
-12,COIN,Malibu 1992,Malibu 1992,0VGyn5TrmY6oq05Ynj63Hz,0.55,0.323,6,-7.769,1,0.0422,0.0767,0.142,0.504,147.47,341333,4
-13,The Lagoons,California,California,35QAUfIbfIXT3p3cWhaKxZ,0.786,0.686,4,-7.18,1,0.0289,0.668,0.0416,0.542,119.997,261773,4
-14,HOMESHAKE,Fresh Air,Wrapping Up,34VDU967NLUWPWibRQMpOj,0.816,0.301,7,-10.167,0,0.0741,0.153,0.114,0.107,134.955,227253,4
-15,Imad Royal,Down For Whatever (feat. Pell),Down for Whatever (feat. Pell),2SLEugguIEd06mZx58hBPo,0.685,0.654,5,-4.371,0,0.0301,0.0,0.369,0.547,120.08,211551,4
-16,Isaiah Rashad,Smile,Smile,3UNoPBNWST9mQleI5T53zL,0.783,0.563,2,-8.132,1,0.276,0.0,0.392,0.517,132.155,203372,4
-17,Isaiah Rashad,The Sun's Tirade,Free Lunch,5FX89IUKm9QJT9ymrmyK4k,0.865,0.472,11,-7.359,0,0.237,5.39e-05,0.109,0.843,130.011,192029,4
-18,Dispatch,Who Are We Living for?,Open Up,4GFAu0p2aXgXxzEquGiv3v,0.459,0.869,10,-4.562,0,0.0699,0.0,0.121,0.791,90.046,286427,4
-19,Kooley High,Presents...David Thompson,Days Passed Me By,1wMRm72vhW96O6uPkXkMQT,0.69,0.521,0,-7.85,1,0.279,0.0,0.121,0.574,77.89,184693,4
-20,Woodie Smalls,Planet Shrooms,Planet Shrooms,16OlG0GeSYrJZQpDd16i79,0.529,0.788,4,-7.205,0,0.39,0.0,0.417,0.408,111.772,204400,3
-21,Cage The Elephant,Tell Me I'm Pretty,Trouble,5n0CTysih20NYdT2S0Wpe8,0.47,0.623,0,-5.655,1,0.0302,0.000439,0.0992,0.298,77.861,225973,4
-22,BROCKHAMPTON,ALL-AMERICAN TRASH,MICHIGAN,1QYpYXj7uPYa0obpLF0HFW,0.695,0.394,7,-11.703,1,0.0639,8.59e-05,0.103,0.196,139.054,183562,4
-23,Azizi Gibson,I'm Good on People EP,Cobra,7rLHFCIXsZfkm7PBCremRV,0.748,0.357,0,-8.979,0,0.259,0.0,0.163,0.485,144.75,176286,4
-24,Marcellus Juvann,The Great Escape,Thin Line,4qkfyYl8NFRgltulOWO0Zw,0.689,0.484,10,-13.305,0,0.391,2.36e-06,0.107,0.304,126.122,325236,4
-25,Salaam Remi,Come Through and Chill,Come Through and Chill,0PrMdfjz1heOHdQsLWtxGH,0.452,0.591,1,-11.395,1,0.0914,0.000603,0.115,0.5,85.699,278955,4
-26,Pell,Ocean View 2.0,Ocean View 2.0,3hBK6nZq22px2RjGqDqt4E,0.78,0.52,6,-6.746,0,0.0542,0.0548,0.0878,0.524,134.957,234750,4
-27,Healy,Phantoms,Phantoms,4au0dxNCyXq5X3xHSmgSdh,0.61,0.548,4,-6.843,0,0.442,6.4e-06,0.228,0.39,176.595,231576,4
-28,Big Sean,Living Single,Living Single,6kf2Gf3KyxlS8dm5CMAlBX,0.709,0.621,1,-5.455,0,0.311,0.0,0.108,0.726,79.987,276347,4
-29,Childish Gambino,Kauai,The Palisades,1Xi28qSSoARTXiqMwb8Srg,0.738,0.718,8,-5.905,1,0.0606,0.0,0.127,0.491,100.055,190907,4
-30,Big Sean,Double Or Nothing (& Metro Boomin),Reason (& Metro Boomin),4GvhvCrqxhpyMBUzwdDC0T,0.677,0.623,2,-7.544,1,0.193,8.88e-05,0.147,0.512,157.011,198720,4
-31,J. Cole,Born Sinner,Let Nas Down,26RcjBcThMrZ8KvsqApOvN,0.458,0.74,9,-5.65,0,0.245,0.0,0.296,0.37,79.255,277200,4
-32,King Chip,CleveLAfornia,Smoke It If You Got One (feat. Asher Roth),6Ky0DcxghSCkuw3YdCTK8c,0.537,0.449,10,-8.159,0,0.0576,2.61e-05,0.133,0.216,179.99,298667,4
-33,Pell,Patience,Patience,7FBOzCWgSrDyhcS3IzBwmJ,0.682,0.664,2,-6.88,1,0.0692,1.6e-06,0.558,0.421,74.997,211287,4
-34,Sam Stan,Happy Raps,Plz Don't,5ILSyr8LAUzyb5DYkgWmD0,0.798,0.533,8,-10.279,1,0.102,0.00403,0.0742,0.405,110.153,181133,4
-35,Berhana,Berhana,Janet,0oqkw7Q8tQ7mcWYEx0QXxI,0.81,0.308,0,-8.194,1,0.0818,0.0,0.0899,0.56,120.012,204000,4
-36,Like,Songs Made While High,Blah Loops,5EKg3cx2v8v48dqlKp6GjO,0.688,0.743,1,-6.88,1,0.111,0.00274,0.116,0.572,88.513,224500,4
-37,Dr. Dog,The Psychedelic Swamp,Engineer Says,5mCpBoZKqoV9Vh5iS1LJ6L,0.62,0.703,2,-6.627,1,0.048,0.295,0.123,0.606,131.097,249375,4
-38,Danny Brown,Hot Soup,Let's Go,5YPMcT7Je01NAqFd3LMlQL,0.742,0.849,9,-4.825,0,0.0645,0.0,0.28,0.809,102.556,149934,4
-39,Avito,Don Kno (Remix),Don Kno - Remix,5zyUVnSENK20aG8PCYuqzV,0.857,0.612,2,-4.883,1,0.0682,0.0,0.0922,0.108,135.094,163605,4
-40,Alex Wiley,Tangerine Dream,Chill,4avJdGczWTwlW3UxLa85sD,0.574,0.591,2,-7.729,0,0.273,0.0,0.129,0.603,138.263,206408,4
-41,Alex Wiley,Village Party III: Stoner Symphony,Time,0Uj0CURdLH19NssxuTt3gK,0.581,0.694,0,-7.247,1,0.167,0.000801,0.638,0.185,77.015,250246,4
-42,Atlas Genius,When It Was Now (Deluxe Edition),Trojans,4AyoAGuhE8gydBPrczuhbl,0.721,0.822,7,-4.843,1,0.0391,7.01e-05,0.0898,0.536,140.002,217387,4
-43,Bazanji,High Definition,The City (Bonus Track) [feat. Cam Meekins & Jackson Breit],5Iksstl90MIT8xedlvqjUS,0.817,0.595,8,-7.598,1,0.0805,0.0,0.103,0.654,140.03,220000,4
-44,Beach Fossils,Down the Line,Down the Line,15eduSFXnQfnQvcmWHDBPi,0.614,0.743,7,-6.574,1,0.0401,0.00368,0.147,0.531,162.228,158474,4
-45,Beach House,Depression Cherry,Space Song,0hNhlwnzMLzZSlKGDCuHOo,0.508,0.788,0,-7.288,0,0.0296,0.13,0.144,0.586,147.06,320467,4
-46,Blur,Blur (Special Edition),You're so Great - 2012 Remaster,7x6FZTgWolJs8e2cHfeUbR,0.501,0.723,11,-9.792,1,0.0356,0.78,0.342,0.637,133.196,215773,4
-47,Brandyn Kaine,Artist Type,Artist Type,4AP2ck6k2d0nOGLz3pXtvD,0.62,0.722,1,-7.852,0,0.207,0.00448,0.141,0.302,121.965,247999,4
-48,Cam Wallace,Unwind,Unwind,0S5VA4DaaAW9d1Yom1IbAj,0.665,0.772,6,-3.184,0,0.131,0.0,0.155,0.345,96.859,183286,4
-49,Caye,"Shades, Pt. 1",Sunrise (Intro) [feat. Rosy],26nxjX1zXkT8oVwO9RPUMf,0.649,0.599,7,-7.744,1,0.234,0.0,0.195,0.41,77.057,202597,4
-50,Caye,"Shades, Pt. 1",Coma (Remastered) [feat. Anibal],6kslhTC6qnOIU7IcDrG65x,0.614,0.427,11,-6.969,0,0.386,0.0,0.112,0.439,79.51,179075,4
-51,Chance the Rapper,Coloring Book,Angels (feat. Saba),0jx8zY5JQsS4YEQcfkoc5C,0.771,0.647,5,-5.127,0,0.376,0.0,0.37,0.678,155.914,206240,4
-52,Childish Gambino,Kauai,Sober,6olUplztLFFfU7fMYmFXOP,0.699,0.601,0,-6.48,1,0.0304,1.17e-05,0.562,0.434,98.04,252013,4
-53,Dave B.,Punch Drunk,Outside,5eJQgWONd6dLhJRFtq6Bxc,0.441,0.609,11,-9.234,0,0.464,5.24e-06,0.211,0.13,179.737,174156,4
-54,Dave B.,Punch Drunk,Worth It,2WXwM5pNgVcBhwDoTE1yQL,0.709,0.453,1,-7.737,0,0.115,0.0,0.0893,0.125,124.948,176672,4
-55,Dave B.,Tomorrow,Right Here,6kP92fKzIyVJtNobCRsZ6G,0.653,0.41,5,-13.26,1,0.0912,0.0,0.108,0.119,128.045,204535,4
-56,Deca,The Ocean,Breadcrumbs,7tmfrvAm84ntXtwbn1ybgt,0.635,0.747,10,-6.951,1,0.354,0.00228,0.1,0.847,83.305,179392,4
-57,Dispatch,Bang Bang,The General,6n6EXIwLtNwe4u4CFzENYm,0.541,0.675,10,-6.136,1,0.192,0.0,0.107,0.686,91.09,246920,4
-58,Dispatch,Bang Bang,Two Coins,0wsis8nb0CLqWoRvEPvwiS,0.536,0.305,7,-8.645,1,0.121,2.9e-06,0.101,0.643,175.184,186520,4
-59,Domo Genesis,Genesis,Coming Back (feat. Mac Miller),1WsRuvitfegWXQJKRgRZrj,0.514,0.723,4,-8.748,0,0.406,0.0,0.672,0.587,89.14,161653,4
-60,Felly,Seattle,Seattle,2yNF9m19uExG3XJW0nKah8,0.477,0.38,2,-15.192,0,0.385,0.00044,0.616,0.234,78.048,178462,4
-61,Felly,"Shoulda Known Better (feat. Rexx Life Raj, Matt Burton & Healy)","Shoulda Known Better (feat. Rexx Life Raj, Matt Burton & Healy)",61liOUzwYpANHPZKj8ZH4n,0.881,0.608,6,-9.304,0,0.142,2.54e-06,0.277,0.404,116.917,204103,4
-62,Healy,Subluxe,Build,0KHhJA8abb1mKWqG94AuW3,0.792,0.317,9,-9.834,0,0.135,0.0246,0.113,0.232,87.999,220046,4
-63,Holy Wave,Relax,Do You Feel It,2rHFHEsthyezfUxu6hbcVp,0.447,0.449,4,-9.522,1,0.0292,0.746,0.106,0.705,167.07,214160,4
-64,J. Cole,False Prophets,False Prophets,0eneujAc4PxkdjP25Gsue1,0.729,0.739,8,-9.5,0,0.338,9.37e-06,0.164,0.749,90.306,237427,4
-65,Jared Evan,The Art Form of Whatever,The Art Form (feat. Stella),2VaUluwVidULp7ZL9ENOzw,0.63,0.89,8,-5.69,1,0.109,4.07e-06,0.105,0.399,98.972,214027,4
-66,Jarv Dee,The Red Eye Jedi,Smoke 2 Much,3f2ybXbjYmoPofTLyOwhIc,0.843,0.725,6,-6.838,0,0.106,0.0,0.157,0.481,124.031,218192,4
-67,Kendrick Lamar,DAMN.,LOVE. FEAT. ZACARI.,6PGoSes0D9eUDeeAafB2As,0.8,0.585,10,-7.343,1,0.0924,0.0,0.153,0.779,126.058,213400,4
-68,Kendrick Lamar,Section.80,Poe Mans Dreams (His Vice),2NxIp9jbmsnaIiAExWOEo0,0.736,0.892,1,-5.217,1,0.28,1.14e-06,0.111,0.597,88.124,261874,4
-69,The Flaming Lips,Transmissions From the Satellite Heart,She Don't Use Jelly,1dJuteDIOkGfDSN7zPkzNv,0.33,0.556,7,-11.494,1,0.0796,4.39e-05,0.315,0.506,173.828,222279,4
-70,The Libertines,The Libertines,Music When The Lights Go Out,59aBJF7Nh9dkYbXY7xHZFk,0.42,0.69,0,-6.081,1,0.0341,4.75e-06,0.161,0.533,111.149,182387,4
-71,Like,Songs Made While High,Mushroom Clouds,7lEbuo9yS0tutxbuT4Uxrh,0.63,0.831,11,-7.685,1,0.372,0.0,0.916,0.554,126.191,151000,1
-72,Funkadelic,Maggot Brain,Maggot Brain,2t5GyUfFoZg3E8ak3i7dVP,0.301,0.353,4,-15.588,0,0.0467,0.489,0.406,0.189,134.588,621107,3
-73,Abhi The Nomad,Marbled,Mama Bling,2B2LmWEr1LOQW8pfEFNXok,0.852,0.583,0,-4.596,1,0.117,0.0,0.104,0.335,90.019,222652,4
-74,Abhi The Nomad,Marbled,Dogs,7G4qDFMg5cjWBsIHfWSG1e,0.883,0.649,0,-5.961,0,0.135,0.0,0.0392,0.872,118.025,228250,4
-75,Abhi The Nomad,Marbled,Marbled,2g20BLinFvXA6l47j4igE5,0.671,0.449,0,-6.413,1,0.3,0.00125,0.0791,0.35,95.065,242526,4
-76,Abhi The Nomad,Marbled,Sex n' Drugs,0G2wimhVoDYXbQ6csDxtSf,0.831,0.32,7,-7.916,1,0.143,0.0,0.0757,0.319,80.935,217778,4
-77,Abhi The Nomad,Marbled,Mindset,6aAC8I2DqcTUsdaKqkCx6h,0.786,0.528,8,-6.467,0,0.117,8.92e-06,0.172,0.842,136.037,236740,4
-78,Abhi The Nomad,Marbled,Letter for God,4cVJtU3eCwRgoKT4MYnBG9,0.861,0.65,4,-4.935,0,0.0483,0.000771,0.0562,0.525,120.009,273500,4
-79,Abhi The Nomad,Marbled,Spacecraft,3f4IpVpRtA6wzlpyZ5kDSj,0.768,0.297,0,-10.384,1,0.0984,9.32e-05,0.249,0.357,99.87,175750,4
-80,Abhi The Nomad,Marbled,So Long,1E8t8Gtb6BQfMMpEgVNyIh,0.899,0.573,9,-5.47,1,0.0556,4.67e-06,0.0854,0.826,120.006,211000,4
-81,Abhi The Nomad,Marbled,Somebody to Love,3pdHWxpeFJqai3skQcRr41,0.827,0.525,6,-5.823,0,0.0309,0.00674,0.107,0.883,119.985,250000,4
-82,Abhi The Nomad,Marbled,Headcase,1caLffCBOYy7xJFvt8LBkm,0.746,0.836,0,-5.178,0,0.0455,2.11e-05,0.184,0.651,126.966,264750,4
-83,Abhi The Nomad,Marbled,Planes,7efL8Jm6ZJFfJNAANmRVwj,0.783,0.765,9,-4.589,0,0.419,0.0,0.344,0.705,96.032,253500,4
-84,Abhi The Nomad,Marbled,Pressure,1q2OIZRPuwPFrJzaPgXUKL,0.636,0.74,5,-4.889,1,0.35,0.0,0.236,0.431,78.575,239250,4
-85,Abhi The Nomad,Where Are My Friends?,Download God,3IkIMuBw9aN3txtFajfNpx,0.589,0.651,11,-6.218,0,0.0656,0.0,0.129,0.4,106.048,268242,4
-86,Tom Petty and the Heartbreakers,Anthology: Through The Years,Mary Jane's Last Dance,5eYwDBLucWfWI5KsV7oYX2,0.402,0.814,10,-4.954,1,0.14,1.19e-06,0.266,0.516,170.02,272267,4
-87,Mac Miller,Buttons,Buttons,0ZBchpb4CLk5Qqu3895Etp,0.578,0.714,7,-4.853,1,0.19,0.0,0.277,0.524,75.064,228440,4
-88,Gorillaz,The Now Now,Humility (feat. George Benson),3NeiYiBn3rQBgurfVk92Zm,0.632,0.807,0,-5.893,1,0.126,0.0211,0.125,0.784,160.174,197933,4
-89,Childish Gambino,Summer Pack,Feels Like Summer,7p4vHnYXkxlzvfePJVpcTr,0.55,0.596,7,-8.214,1,0.134,0.00481,0.0805,0.253,165.736,297404,4
-90,Tunng,Flatland,Flatland,4RcLBW0t3ydrndNyHmXHaj,0.75,0.394,4,-13.741,0,0.0457,0.0699,0.111,0.508,90.002,211200,4
-91,The Soundcarriers,Entropicalia,Low Light,0D6sB55ghk8IOOtoCoG83Z,0.289,0.735,9,-6.303,1,0.0574,0.561,0.209,0.558,81.942,232904,4
-92,Mac Miller,The Divine Feminine,My Favorite Part,66wkCYWlXzSTQAfnsPBptt,0.861,0.33,6,-7.194,1,0.0526,1.93e-06,0.14,0.718,95.016,216000,4
-93,Mac Miller,Swimming,Come Back to Earth,01z2fBGB8Hl3Jd3zXe4IXR,0.272,0.238,2,-12.148,0,0.0349,0.00925,0.275,0.119,83.507,161840,4
-94,Mac Miller,Swimming,Small Worlds,4gT3mNJA8lnlkYFqGZ8IA2,0.516,0.546,5,-9.105,1,0.249,4.5e-06,0.0995,0.515,78.267,271733,4
-95,Mac Miller,Swimming,Perfecto,0Xcy81PsJCOO6mhLZaQyQ4,0.599,0.317,1,-11.212,1,0.174,0.0,0.111,0.203,148.09,215413,4
-96,Mac Miller,Swimming,Self Care,5bJ1DrEM4hNCafcDd1oxHx,0.52,0.538,1,-8.109,1,0.206,0.00187,0.119,0.177,141.894,345133,4
-97,Mac Miller,Swimming,Conversation Pt. 1,1oFEAWvPHP5TdSlmIs77sV,0.787,0.472,6,-10.032,0,0.113,5.22e-05,0.11,0.264,144.998,210253,4
-98,Mac Miller,Swimming,So It Goes,0EA2RhRHL4KWeNa7JfD1Yw,0.576,0.556,0,-6.474,1,0.231,0.125,0.0943,0.294,148.173,312960,4
-99,Travis Scott,ASTROWORLD,COFFEE BEAN,6vnfObZ4Ys70SBAtti1xZ9,0.81,0.582,5,-5.098,0,0.125,0.00681,0.207,0.503,95.004,209116,4
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,popularity,playlist_name
+0,Healy,$150 / roll widdit,$150 / roll widdit,2L9mXwt6vJ3FxVxf7jsGkd,0.665,0.409,0,-10.037,1,0.787,1.29e-05,0.0747,0.296,151.355,181368,4,49.0,Blue
+1,Felly,This Shit Comes in Waves,This Shit Comes in Waves,52Cs7GrUOMuaS7wS0jmqnU,0.944,0.47,10,-11.598,0,0.182,1.33e-06,0.0777,0.93,129.978,169885,4,0.0,Blue
+2,Rexx Life Raj,Father Figure,Handheld GPS,677ai1ZuIvkr13W5vSR9wn,0.805,0.606,9,-7.679,0,0.267,0.0,0.145,0.513,123.942,133198,4,55.0,Blue
+3,Healy,LFTM (feat. Felly),LFTM (feat. Felly),6AIAcVlHaBMqhKxFSFpq3M,0.406,0.82,6,-4.897,1,0.34,0.000697,0.329,0.744,68.041,251400,4,0.0,Blue
+4,SiR,Her Too,W$ Boi,4iNnY19aLOa753mW4nnqof,0.549,0.361,5,-16.629,0,0.08,0.0,0.0592,0.147,100.127,192052,4,26.0,Blue
+5,FKJ,Skyline,Skyline,4UNoouFjhlmatlWgXP4DhS,0.522,0.473,7,-9.26,0,0.0764,0.0179,0.0919,0.195,148.056,249650,4,35.0,Blue
+6,Chaz Bundick Meets The Mattson 2,Star Stuff,JBS,2z4JYKZDLlFziglbMBKce0,0.326,0.699,4,-6.187,0,0.0322,0.546,0.0993,0.348,89.981,402994,4,19.0,Blue
+7,Travis Bretzer,Bitter Suites,Misty Morning,5ZaQW8tvH33GVJ0E3sLz2w,0.696,0.299,7,-11.433,1,0.0354,0.00014,0.131,0.223,143.188,156958,4,48.0,Blue
+8,Sol,The Headspace Traveler,Young Love (feat. Otieno Terry & Ariana De Boo),1Ycza1iz4pNxXoFnKIUKVg,0.77,0.41,3,-11.818,1,0.391,2.41e-06,0.117,0.312,95.146,230787,4,42.0,Blue
+9,Yuri Joness,Same Dude,Same Dude,2Tjkh2cGBp5hGOrT7epiTf,0.767,0.466,4,-11.596,0,0.163,8.71e-05,0.142,0.174,76.487,179974,4,0.0,Blue
+10,Noname,Telefone,Diddy Bop (feat. Cam O'bi & Raury),6JvfBzqZmSiEG5MjM7OcSY,0.637,0.503,1,-6.927,1,0.336,0.000113,0.109,0.661,81.061,208000,4,61.0,Blue
+11,Isaiah Rashad,Nelly,Nelly,5VPFATm85G3P04Q5g8yxqr,0.901,0.364,11,-7.183,0,0.198,0.0,0.106,0.777,122.064,200656,4,46.0,Blue
+12,COIN,Malibu 1992,Malibu 1992,0VGyn5TrmY6oq05Ynj63Hz,0.55,0.323,6,-7.769,1,0.0422,0.0767,0.142,0.504,147.47,341333,4,40.0,Blue
+13,The Lagoons,California,California,35QAUfIbfIXT3p3cWhaKxZ,0.786,0.686,4,-7.18,1,0.0289,0.668,0.0416,0.542,119.997,261773,4,59.0,Blue
+14,HOMESHAKE,Fresh Air,Wrapping Up,34VDU967NLUWPWibRQMpOj,0.816,0.301,7,-10.167,0,0.0741,0.153,0.114,0.107,134.955,227253,4,5.0,Blue
+15,Imad Royal,Down For Whatever (feat. Pell),Down for Whatever (feat. Pell),2SLEugguIEd06mZx58hBPo,0.685,0.654,5,-4.371,0,0.0301,0.0,0.369,0.547,120.08,211551,4,25.0,Blue
+16,Isaiah Rashad,Smile,Smile,3UNoPBNWST9mQleI5T53zL,0.783,0.563,2,-8.132,1,0.276,0.0,0.392,0.517,132.155,203372,4,57.0,Blue
+17,Isaiah Rashad,The Sun's Tirade,Free Lunch,5FX89IUKm9QJT9ymrmyK4k,0.865,0.472,11,-7.359,0,0.237,5.39e-05,0.109,0.843,130.011,192029,4,61.0,Blue
+18,Dispatch,Who Are We Living for?,Open Up,4GFAu0p2aXgXxzEquGiv3v,0.459,0.869,10,-4.562,0,0.0699,0.0,0.121,0.791,90.046,286427,4,39.0,Blue
+19,Kooley High,Presents...David Thompson,Days Passed Me By,1wMRm72vhW96O6uPkXkMQT,0.69,0.521,0,-7.85,1,0.279,0.0,0.121,0.574,77.89,184693,4,40.0,Blue
+20,Woodie Smalls,Planet Shrooms,Planet Shrooms,16OlG0GeSYrJZQpDd16i79,0.529,0.788,4,-7.205,0,0.39,0.0,0.417,0.408,111.772,204400,3,51.0,Blue
+21,Cage The Elephant,Tell Me I'm Pretty,Trouble,5n0CTysih20NYdT2S0Wpe8,0.47,0.623,0,-5.655,1,0.0302,0.000439,0.0992,0.298,77.861,225973,4,73.0,Blue
+22,BROCKHAMPTON,ALL-AMERICAN TRASH,MICHIGAN,1QYpYXj7uPYa0obpLF0HFW,0.695,0.394,7,-11.703,1,0.0639,8.59e-05,0.103,0.196,139.054,183562,4,47.0,Blue
+23,Azizi Gibson,I'm Good on People EP,Cobra,7rLHFCIXsZfkm7PBCremRV,0.748,0.357,0,-8.979,0,0.259,0.0,0.163,0.485,144.75,176286,4,0.0,Blue
+24,Marcellus Juvann,The Great Escape,Thin Line,4qkfyYl8NFRgltulOWO0Zw,0.689,0.484,10,-13.305,0,0.391,2.36e-06,0.107,0.304,126.122,325236,4,0.0,Blue
+25,Salaam Remi,Come Through and Chill,Come Through and Chill,0PrMdfjz1heOHdQsLWtxGH,0.452,0.591,1,-11.395,1,0.0914,0.000603,0.115,0.5,85.699,278955,4,0.0,Blue
+26,Pell,Ocean View 2.0,Ocean View 2.0,3hBK6nZq22px2RjGqDqt4E,0.78,0.52,6,-6.746,0,0.0542,0.0548,0.0878,0.524,134.957,234750,4,33.0,Blue
+27,Healy,Phantoms,Phantoms,4au0dxNCyXq5X3xHSmgSdh,0.61,0.548,4,-6.843,0,0.442,6.4e-06,0.228,0.39,176.595,231576,4,34.0,Blue
+28,Big Sean,Living Single,Living Single,6kf2Gf3KyxlS8dm5CMAlBX,0.709,0.621,1,-5.455,0,0.311,0.0,0.108,0.726,79.987,276347,4,0.0,Blue
+29,Childish Gambino,Kauai,The Palisades,1Xi28qSSoARTXiqMwb8Srg,0.738,0.718,8,-5.905,1,0.0606,0.0,0.127,0.491,100.055,190907,4,0.0,Blue
+30,Big Sean,Double Or Nothing (& Metro Boomin),Reason (& Metro Boomin),4GvhvCrqxhpyMBUzwdDC0T,0.677,0.623,2,-7.544,1,0.193,8.88e-05,0.147,0.512,157.011,198720,4,44.0,Blue
+31,J. Cole,Born Sinner,Let Nas Down,26RcjBcThMrZ8KvsqApOvN,0.458,0.74,9,-5.65,0,0.245,0.0,0.296,0.37,79.255,277200,4,0.0,Blue
+32,King Chip,CleveLAfornia,Smoke It If You Got One (feat. Asher Roth),6Ky0DcxghSCkuw3YdCTK8c,0.537,0.449,10,-8.159,0,0.0576,2.61e-05,0.133,0.216,179.99,298667,4,44.0,Blue
+33,Pell,Patience,Patience,7FBOzCWgSrDyhcS3IzBwmJ,0.682,0.664,2,-6.88,1,0.0692,1.6e-06,0.558,0.421,74.997,211287,4,15.0,Blue
+34,Sam Stan,Happy Raps,Plz Don't,5ILSyr8LAUzyb5DYkgWmD0,0.798,0.533,8,-10.279,1,0.102,0.00403,0.0742,0.405,110.153,181133,4,27.0,Blue
+35,Berhana,Berhana,Janet,0oqkw7Q8tQ7mcWYEx0QXxI,0.81,0.308,0,-8.194,1,0.0818,0.0,0.0899,0.56,120.012,204000,4,0.0,Blue
+36,Like,Songs Made While High,Blah Loops,5EKg3cx2v8v48dqlKp6GjO,0.688,0.743,1,-6.88,1,0.111,0.00274,0.116,0.572,88.513,224500,4,34.0,Blue
+37,Dr. Dog,The Psychedelic Swamp,Engineer Says,5mCpBoZKqoV9Vh5iS1LJ6L,0.62,0.703,2,-6.627,1,0.048,0.295,0.123,0.606,131.097,249375,4,32.0,Blue
+38,Danny Brown,Hot Soup,Let's Go,5YPMcT7Je01NAqFd3LMlQL,0.742,0.849,9,-4.825,0,0.0645,0.0,0.28,0.809,102.556,149934,4,48.0,Blue
+39,Avito,Don Kno (Remix),Don Kno - Remix,5zyUVnSENK20aG8PCYuqzV,0.857,0.612,2,-4.883,1,0.0682,0.0,0.0922,0.108,135.094,163605,4,20.0,Blue
+40,Alex Wiley,Tangerine Dream,Chill,4avJdGczWTwlW3UxLa85sD,0.574,0.591,2,-7.729,0,0.273,0.0,0.129,0.603,138.263,206408,4,21.0,Blue
+41,Alex Wiley,Village Party III: Stoner Symphony,Time,0Uj0CURdLH19NssxuTt3gK,0.581,0.694,0,-7.247,1,0.167,0.000801,0.638,0.185,77.015,250246,4,18.0,Blue
+42,Atlas Genius,When It Was Now (Deluxe Edition),Trojans,4AyoAGuhE8gydBPrczuhbl,0.721,0.822,7,-4.843,1,0.0391,7.01e-05,0.0898,0.536,140.002,217387,4,50.0,Blue
+43,Bazanji,High Definition,The City (Bonus Track) [feat. Cam Meekins & Jackson Breit],5Iksstl90MIT8xedlvqjUS,0.817,0.595,8,-7.598,1,0.0805,0.0,0.103,0.654,140.03,220000,4,0.0,Blue
+44,Beach Fossils,Down the Line,Down the Line,15eduSFXnQfnQvcmWHDBPi,0.614,0.743,7,-6.574,1,0.0401,0.00368,0.147,0.531,162.228,158474,4,20.0,Blue
+45,Beach House,Depression Cherry,Space Song,0hNhlwnzMLzZSlKGDCuHOo,0.508,0.788,0,-7.288,0,0.0296,0.13,0.144,0.586,147.06,320467,4,1.0,Blue
+46,Blur,Blur (Special Edition),You're so Great - 2012 Remaster,7x6FZTgWolJs8e2cHfeUbR,0.501,0.723,11,-9.792,1,0.0356,0.78,0.342,0.637,133.196,215773,4,48.0,Blue
+47,Brandyn Kaine,Artist Type,Artist Type,4AP2ck6k2d0nOGLz3pXtvD,0.62,0.722,1,-7.852,0,0.207,0.00448,0.141,0.302,121.965,247999,4,0.0,Blue
+48,Cam Wallace,Unwind,Unwind,0S5VA4DaaAW9d1Yom1IbAj,0.665,0.772,6,-3.184,0,0.131,0.0,0.155,0.345,96.859,183286,4,11.0,Blue
+49,Caye,"Shades, Pt. 1",Sunrise (Intro) [feat. Rosy],26nxjX1zXkT8oVwO9RPUMf,0.649,0.599,7,-7.744,1,0.234,0.0,0.195,0.41,77.057,202597,4,29.0,Blue
+50,Caye,"Shades, Pt. 1",Coma (Remastered) [feat. Anibal],6kslhTC6qnOIU7IcDrG65x,0.614,0.427,11,-6.969,0,0.386,0.0,0.112,0.439,79.51,179075,4,31.0,Blue
+51,Chance the Rapper,Coloring Book,Angels (feat. Saba),0jx8zY5JQsS4YEQcfkoc5C,0.771,0.647,5,-5.127,0,0.376,0.0,0.37,0.678,155.914,206240,4,59.0,Blue
+52,Childish Gambino,Kauai,Sober,6olUplztLFFfU7fMYmFXOP,0.699,0.601,0,-6.48,1,0.0304,1.17e-05,0.562,0.434,98.04,252013,4,0.0,Blue
+53,Dave B.,Punch Drunk,Outside,5eJQgWONd6dLhJRFtq6Bxc,0.441,0.609,11,-9.234,0,0.464,5.24e-06,0.211,0.13,179.737,174156,4,33.0,Blue
+54,Dave B.,Punch Drunk,Worth It,2WXwM5pNgVcBhwDoTE1yQL,0.709,0.453,1,-7.737,0,0.115,0.0,0.0893,0.125,124.948,176672,4,27.0,Blue
+55,Dave B.,Tomorrow,Right Here,6kP92fKzIyVJtNobCRsZ6G,0.653,0.41,5,-13.26,1,0.0912,0.0,0.108,0.119,128.045,204535,4,50.0,Blue
+56,Deca,The Ocean,Breadcrumbs,7tmfrvAm84ntXtwbn1ybgt,0.635,0.747,10,-6.951,1,0.354,0.00228,0.1,0.847,83.305,179392,4,45.0,Blue
+57,Dispatch,Bang Bang,The General,6n6EXIwLtNwe4u4CFzENYm,0.541,0.675,10,-6.136,1,0.192,0.0,0.107,0.686,91.09,246920,4,61.0,Blue
+58,Dispatch,Bang Bang,Two Coins,0wsis8nb0CLqWoRvEPvwiS,0.536,0.305,7,-8.645,1,0.121,2.9e-06,0.101,0.643,175.184,186520,4,47.0,Blue
+59,Domo Genesis,Genesis,Coming Back (feat. Mac Miller),1WsRuvitfegWXQJKRgRZrj,0.514,0.723,4,-8.748,0,0.406,0.0,0.672,0.587,89.14,161653,4,61.0,Blue
+60,Felly,Seattle,Seattle,2yNF9m19uExG3XJW0nKah8,0.477,0.38,2,-15.192,0,0.385,0.00044,0.616,0.234,78.048,178462,4,0.0,Blue
+61,Felly,"Shoulda Known Better (feat. Rexx Life Raj, Matt Burton & Healy)","Shoulda Known Better (feat. Rexx Life Raj, Matt Burton & Healy)",61liOUzwYpANHPZKj8ZH4n,0.881,0.608,6,-9.304,0,0.142,2.54e-06,0.277,0.404,116.917,204103,4,0.0,Blue
+62,Healy,Subluxe,Build,0KHhJA8abb1mKWqG94AuW3,0.792,0.317,9,-9.834,0,0.135,0.0246,0.113,0.232,87.999,220046,4,0.0,Blue
+63,Holy Wave,Relax,Do You Feel It,2rHFHEsthyezfUxu6hbcVp,0.447,0.449,4,-9.522,1,0.0292,0.746,0.106,0.705,167.07,214160,4,40.0,Blue
+64,J. Cole,False Prophets,False Prophets,0eneujAc4PxkdjP25Gsue1,0.729,0.739,8,-9.5,0,0.338,9.37e-06,0.164,0.749,90.306,237427,4,59.0,Blue
+65,Jared Evan,The Art Form of Whatever,The Art Form (feat. Stella),2VaUluwVidULp7ZL9ENOzw,0.63,0.89,8,-5.69,1,0.109,4.07e-06,0.105,0.399,98.972,214027,4,13.0,Blue
+66,Jarv Dee,The Red Eye Jedi,Smoke 2 Much,3f2ybXbjYmoPofTLyOwhIc,0.843,0.725,6,-6.838,0,0.106,0.0,0.157,0.481,124.031,218192,4,35.0,Blue
+67,Kendrick Lamar,DAMN.,LOVE. FEAT. ZACARI.,6PGoSes0D9eUDeeAafB2As,0.8,0.585,10,-7.343,1,0.0924,0.0,0.153,0.779,126.058,213400,4,79.0,Blue
+68,Kendrick Lamar,Section.80,Poe Mans Dreams (His Vice),2NxIp9jbmsnaIiAExWOEo0,0.736,0.892,1,-5.217,1,0.28,1.14e-06,0.111,0.597,88.124,261874,4,0.0,Blue
+69,The Flaming Lips,Transmissions From the Satellite Heart,She Don't Use Jelly,1dJuteDIOkGfDSN7zPkzNv,0.33,0.556,7,-11.494,1,0.0796,4.39e-05,0.315,0.506,173.828,222279,4,60.0,Blue
+70,The Libertines,The Libertines,Music When The Lights Go Out,59aBJF7Nh9dkYbXY7xHZFk,0.42,0.69,0,-6.081,1,0.0341,4.75e-06,0.161,0.533,111.149,182387,4,0.0,Blue
+71,Like,Songs Made While High,Mushroom Clouds,7lEbuo9yS0tutxbuT4Uxrh,0.63,0.831,11,-7.685,1,0.372,0.0,0.916,0.554,126.191,151000,1,34.0,Blue
+72,Funkadelic,Maggot Brain,Maggot Brain,2t5GyUfFoZg3E8ak3i7dVP,0.301,0.353,4,-15.588,0,0.0467,0.489,0.406,0.189,134.588,621107,3,0.0,Blue
+73,Abhi The Nomad,Marbled,Mama Bling,2B2LmWEr1LOQW8pfEFNXok,0.852,0.583,0,-4.596,1,0.117,0.0,0.104,0.335,90.019,222652,4,36.0,Blue
+74,Abhi The Nomad,Marbled,Dogs,7G4qDFMg5cjWBsIHfWSG1e,0.883,0.649,0,-5.961,0,0.135,0.0,0.0392,0.872,118.025,228250,4,35.0,Blue
+75,Abhi The Nomad,Marbled,Marbled,2g20BLinFvXA6l47j4igE5,0.671,0.449,0,-6.413,1,0.3,0.00125,0.0791,0.35,95.065,242526,4,38.0,Blue
+76,Abhi The Nomad,Marbled,Sex n' Drugs,0G2wimhVoDYXbQ6csDxtSf,0.831,0.32,7,-7.916,1,0.143,0.0,0.0757,0.319,80.935,217778,4,64.0,Blue
+77,Abhi The Nomad,Marbled,Mindset,6aAC8I2DqcTUsdaKqkCx6h,0.786,0.528,8,-6.467,0,0.117,8.92e-06,0.172,0.842,136.037,236740,4,30.0,Blue
+78,Abhi The Nomad,Marbled,Letter for God,4cVJtU3eCwRgoKT4MYnBG9,0.861,0.65,4,-4.935,0,0.0483,0.000771,0.0562,0.525,120.009,273500,4,42.0,Blue
+79,Abhi The Nomad,Marbled,Spacecraft,3f4IpVpRtA6wzlpyZ5kDSj,0.768,0.297,0,-10.384,1,0.0984,9.32e-05,0.249,0.357,99.87,175750,4,30.0,Blue
+80,Abhi The Nomad,Marbled,So Long,1E8t8Gtb6BQfMMpEgVNyIh,0.899,0.573,9,-5.47,1,0.0556,4.67e-06,0.0854,0.826,120.006,211000,4,44.0,Blue
+81,Abhi The Nomad,Marbled,Somebody to Love,3pdHWxpeFJqai3skQcRr41,0.827,0.525,6,-5.823,0,0.0309,0.00674,0.107,0.883,119.985,250000,4,52.0,Blue
+82,Abhi The Nomad,Marbled,Headcase,1caLffCBOYy7xJFvt8LBkm,0.746,0.836,0,-5.178,0,0.0455,2.11e-05,0.184,0.651,126.966,264750,4,31.0,Blue
+83,Abhi The Nomad,Marbled,Planes,7efL8Jm6ZJFfJNAANmRVwj,0.783,0.765,9,-4.589,0,0.419,0.0,0.344,0.705,96.032,253500,4,30.0,Blue
+84,Abhi The Nomad,Marbled,Pressure,1q2OIZRPuwPFrJzaPgXUKL,0.636,0.74,5,-4.889,1,0.35,0.0,0.236,0.431,78.575,239250,4,28.0,Blue
+85,Abhi The Nomad,Where Are My Friends?,Download God,3IkIMuBw9aN3txtFajfNpx,0.589,0.651,11,-6.218,0,0.0656,0.0,0.129,0.4,106.048,268242,4,0.0,Blue
+86,Tom Petty and the Heartbreakers,Anthology: Through The Years,Mary Jane's Last Dance,5eYwDBLucWfWI5KsV7oYX2,0.402,0.814,10,-4.954,1,0.14,1.19e-06,0.266,0.516,170.02,272267,4,0.0,Blue
+87,Mac Miller,Buttons,Buttons,0ZBchpb4CLk5Qqu3895Etp,0.578,0.714,7,-4.853,1,0.19,0.0,0.277,0.524,75.064,228440,4,60.0,Blue
+88,Gorillaz,The Now Now,Humility (feat. George Benson),3NeiYiBn3rQBgurfVk92Zm,0.632,0.807,0,-5.893,1,0.126,0.0211,0.125,0.784,160.174,197933,4,64.0,Blue
+89,Childish Gambino,Summer Pack,Feels Like Summer,7p4vHnYXkxlzvfePJVpcTr,0.55,0.596,7,-8.214,1,0.134,0.00481,0.0805,0.253,165.736,297404,4,72.0,Blue
+90,Tunng,Flatland,Flatland,4RcLBW0t3ydrndNyHmXHaj,0.75,0.394,4,-13.741,0,0.0457,0.0699,0.111,0.508,90.002,211200,4,3.0,Blue
+91,The Soundcarriers,Entropicalia,Low Light,0D6sB55ghk8IOOtoCoG83Z,0.289,0.735,9,-6.303,1,0.0574,0.561,0.209,0.558,81.942,232904,4,0.0,Blue
+92,Mac Miller,The Divine Feminine,My Favorite Part,66wkCYWlXzSTQAfnsPBptt,0.861,0.33,6,-7.194,1,0.0526,1.93e-06,0.14,0.718,95.016,216000,4,73.0,Blue
+93,Mac Miller,Swimming,Come Back to Earth,01z2fBGB8Hl3Jd3zXe4IXR,0.272,0.238,2,-12.148,0,0.0349,0.00925,0.275,0.119,83.507,161840,4,73.0,Blue
+94,Mac Miller,Swimming,Small Worlds,4gT3mNJA8lnlkYFqGZ8IA2,0.516,0.546,5,-9.105,1,0.249,4.5e-06,0.0995,0.515,78.267,271733,4,73.0,Blue
+95,Mac Miller,Swimming,Perfecto,0Xcy81PsJCOO6mhLZaQyQ4,0.599,0.317,1,-11.212,1,0.174,0.0,0.111,0.203,148.09,215413,4,64.0,Blue
+96,Mac Miller,Swimming,Self Care,5bJ1DrEM4hNCafcDd1oxHx,0.52,0.538,1,-8.109,1,0.206,0.00187,0.119,0.177,141.894,345133,4,79.0,Blue
+97,Mac Miller,Swimming,Conversation Pt. 1,1oFEAWvPHP5TdSlmIs77sV,0.787,0.472,6,-10.032,0,0.113,5.22e-05,0.11,0.264,144.998,210253,4,62.0,Blue
+98,Mac Miller,Swimming,So It Goes,0EA2RhRHL4KWeNa7JfD1Yw,0.576,0.556,0,-6.474,1,0.231,0.125,0.0943,0.294,148.173,312960,4,66.0,Blue
+99,Travis Scott,ASTROWORLD,COFFEE BEAN,6vnfObZ4Ys70SBAtti1xZ9,0.81,0.582,5,-5.098,0,0.125,0.00681,0.207,0.503,95.004,209116,4,70.0,Blue
