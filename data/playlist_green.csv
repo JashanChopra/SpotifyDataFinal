@@ -1,101 +1,101 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,popularity,playlist_name
-0,Dispatch,"America, Location 12",Windylike,5wOD1GjxOE4ePx48BritEb,0.569,0.665,0,-6.55,1,0.0279,0,0.396,0.494,93.999,299960,4,27.0,Green
-1,Joey Bada$$,ALL-AMERIKKKAN BADA$$,FOR MY PEOPLE,5URYXSFGks9Q8eYePlgVdL,0.672,0.704,11,-6.628,0,0.165,0,0.115,0.188,100.986,232765,4,0.0,Green
-2,Kodak Black,Painting Pictures,Day for Day,6YOgXjBp1fLqnZfKLCNYhd,0.718,0.557,5,-8.227,1,0.379,0,0.0682,0.493,80.963,168312,4,20.0,Green
-3,Kendrick Lamar,DAMN.,GOD.,5p3NP9mQblDsVJLdfNZJ3I,0.706,0.557,0,-5.8,1,0.0813,0,0.276,0.205,132.98,248827,4,61.0,Green
-4,Cheers Elephant,Like Wind Blows Fire,Peoples,2C8Xjk2DrEywKBfBb7ITZK,0.639,0.767,4,-6.195,1,0.0366,9.66e-05,0.332,0.643,125.031,199373,4,36.0,Green
-5,Tame Impala,InnerSpeaker (Collector's Edition),Sundown Syndrome,14VLdNJSXtMwiDpKGjvr9A,0.362,0.707,1,-4.784,0,0.0333,0.49,0.115,0.34,68.301,349334,4,0.0,Green
-6,Sam Stan,Happy Raps,Happy Place,36hsrp4h4wKhzYcgAh6PpN,0.663,0.624,5,-5.733,0,0.227,0.00014,0.08,0.588,80.093,144039,4,36.0,Green
-7,MF DOOM,MM...FOOD,Rapp Snitch Knishes feat. Mr. Fantastik,25kGNSv0yGXZKaC79xzrvg,0.728,0.832,7,-6.827,1,0.269,0,0.504,0.825,95.049,172893,4,0.0,Green
-8,Woodie Smalls,Lucky Strike,Lucky Strike,1hxwW2ny6MdBjWP3rOHZMn,0.587,0.586,11,-9.149,0,0.149,2.1e-06,0.121,0.635,175.434,189600,4,34.0,Green
-9,Blended Babies,Family (Blended Babies Remix) [feat. Chance the Rapper & Vic Mensa],Family (Blended Babies Remix) [feat. Chance the Rapper & Vic Mensa],6rktW7ir6seXSqBoMaoJih,0.667,0.637,9,-7.697,1,0.295,0,0.345,0.737,93.005,185966,4,39.0,Green
-10,Frank Ocean,Blonde,Ivy,2ZWlPOoWh0626oTaHrnl2a,0.567,0.388,9,-9.579,0,0.0384,0.000309,0.248,0.452,116.362,249191,4,78.0,Green
-11,Bas,Last Winter,My Nigga Just Made Bail,2pUrFLAbWbUqZnnSgJ2u5I,0.814,0.619,11,-7.82,0,0.218,0,0.0829,0.625,124.073,216907,4,56.0,Green
-12,Peter Doherty,Hamburg Demonstrations,Kolly Kibber,4NwhdN21I3hLAbYLuLNmLc,0.537,0.504,7,-8.101,1,0.0296,2.24e-05,0.245,0.352,110.072,237810,4,27.0,Green
-13,Dr. Dog,"Shame, Shame (Deluxe Edition)",Where'd All the Time Go?,0UV5zxRMz6AO4ZwUOZNIKI,0.454,0.82,2,-4.193,1,0.0567,0.000969,0.115,0.575,166.303,234800,4,78.0,Green
-14,CASTLEBEAT,CASTLEBEAT,Rope,1E0qUJvzXVCwcnbtNnBF6I,0.511,0.858,4,-8.212,1,0.0332,0.531,0.164,0.608,159.969,237741,4,33.0,Green
-15,Isaiah Rashad,Cilvia Demo,Heavenly Father,0qLt7pQhm8LDxFgI0YXdlY,0.608,0.676,1,-7.56,1,0.248,0,0.347,0.57,80.939,260632,4,61.0,Green
-16,Jaden,SYRE,Icon,22nyEAEM29tcBRhukR089b,0.786,0.82,9,-5.093,0,0.232,0,0.575,0.49,119.982,220996,4,73.0,Green
-17,Modest Mouse,Good News For People Who Love Bad News,Float On,2lwwrWVKdf3LR9lbbhnr6R,0.649,0.888,6,-4.807,1,0.0293,2.23e-06,0.0888,0.553,100.975,208467,4,72.0,Green
-18,Death Cab for Cutie,Narrow Stairs,Grapevine Fires,1x3bxSSANgIxkoyGldhmdX,0.619,0.427,10,-10.737,1,0.04,0.00238,0.0823,0.436,61.75,247360,4,49.0,Green
-19,Taylor Bennett,Minimum Wage,Minimum Wage,41iJtG6bvXqf12ZTiYy4cG,0.858,0.749,0,-6.574,1,0.319,0,0.0759,0.555,134.074,167610,4,29.0,Green
-20,BROCKHAMPTON,ALL-AMERICAN TRASH,HOME,2anAr4t1wpiy2qBK9CGnyn,0.534,0.36,11,-12.942,0,0.0778,0.00158,0.382,0.387,153.985,302393,4,40.0,Green
-21,Berhana,Berhana,Grey Luh,6I8M0qc0XP4Q5Ig8K16FWJ,0.543,0.298,0,-9.167,1,0.0683,1.49e-06,0.0804,0.254,125.523,261103,4,0.0,Green
-22,Healy,Winse,Winse,0uPBYnoltG0oiZ2bOTy7iI,0.886,0.503,8,-7.189,1,0.0437,0.000692,0.104,0.55,106.024,256000,4,41.0,Green
-23,Big Sean,I Decided.,Light,0URaKGzNTtzKRtsJN1RkA9,0.505,0.611,7,-5.976,0,0.0648,0,0.108,0.176,85.944,210507,4,47.0,Green
-24,Unknown Mortal Orchestra,II (Deluxe Edition),So Good at Being in Trouble,0LPODKihyn7XCxFevkE3KY,0.829,0.435,0,-10.136,1,0.0515,0.878,0.119,0.594,103.816,230147,4,19.0,Green
-25,Father John Misty,Pure Comedy,Total Entertainment Forever,10tS3AWz8aUWArbnxIrUL6,0.35,0.755,7,-5.905,0,0.053,8.73e-06,0.151,0.519,158.478,173893,4,0.0,Green
-26,Gyyps,Darryl: A Mixtape by Gyyps,"Women, Weed & 808's",44ac8fgxDhIgOj6x2o8Bw7,0.84,0.349,0,-11.774,1,0.115,0,0.0881,0.162,125.028,233880,4,0.0,Green
-27,Noname,Telefone,Sunny Duet (feat. the Mind),1ZEpge1j4gAi4R7pU9oor5,0.56,0.463,7,-9.601,1,0.421,0,0.128,0.896,155.711,162490,4,49.0,Green
-28,Milky Chance,Cocoon,Cocoon,39bpQHvHkE0K7UUD2HL9oI,0.732,0.708,10,-5.978,1,0.0324,0.000161,0.0824,0.749,114.033,254013,4,0.0,Green
-29,Sublime,Sublime Greatest Hits,Doin' Time,4mAqG6KNWZQiekSthr2QtL,0.711,0.724,7,-5.97,1,0.0851,3.81e-06,0.141,0.482,80.975,251120,4,0.0,Green
-30,Khalid,Young Dumb & Broke REMIX (feat. Rae Sremmurd & Lil Yachty),Young Dumb & Broke REMIX (feat. Rae Sremmurd & Lil Yachty),6LxEtvMKSwmPdd5Fh1PCof,0.795,0.56,1,-5.773,1,0.0479,0,0.158,0.459,136.988,263277,4,52.0,Green
-31,Donnie Trumpet & The Social Experiment,Surf,Sunday Candy,6fTdcGsjxlAD9PSkoPaLMX,0.511,0.596,0,-6.56,1,0.224,0,0.0798,0.554,158.063,226014,4,65.0,Green
-32,Isaiah Rashad,The Sun's Tirade,Find a Topic (homies begged),17JA4HlieSH7TY3pQk21MJ,0.91,0.567,7,-5.208,1,0.0987,5.29e-05,0.498,0.545,130.999,166688,4,49.0,Green
-33,Post Malone,Go Flex,Go Flex,3e7pB02vXiqVYaDTymYY1t,0.663,0.511,5,-8.229,1,0.105,0,0.0525,0.116,81.946,182000,4,0.0,Green
-34,Drake,Nice For What,Nice For What,1cTZMwcBJT0Ka3UJPXOeeN,0.567,0.913,8,-6.471,1,0.0736,0.000124,0.114,0.792,93.35,210926,4,1.0,Green
-35,Swae Lee,Guatemala (feat. Slim Jxmmi),Guatemala (feat. Slim Jxmmi) - From Swaecation,6sTDhYVVXU3HSDuG7mBLRU,0.849,0.699,4,-5.193,0,0.0574,0.00118,0.0954,0.0778,100.989,256341,4,0.0,Green
-36,Action Bronson,Mr. Wonderful,Baby Blue (feat. Chance the Rapper),7gDwRzJhLs0fFHaGtMDJVM,0.828,0.487,6,-6.142,0,0.0343,1.86e-05,0.136,0.761,85.027,280160,4,64.0,Green
-37,Aminé,Caroline,Caroline,5GFDrUTLGJix84sNhjCG0g,0.945,0.394,10,-8.571,1,0.492,0,0.131,0.743,120.058,209747,4,0.0,Green
-38,Arctic Monkeys,Favourite Worst Nightmare,Fluorescent Adolescent,2x8evxqUlF0eRabbW2JBJd,0.654,0.828,1,-5.377,0,0.0281,0.000144,0.122,0.79,112.056,183893,4,76.0,Green
-39,Bas,Too High To Riot,Clouds Never Get Old,4z3X794EXFeZLsaF7FEwTj,0.643,0.557,5,-5.412,0,0.308,0,0.394,0.327,136.393,188933,5,43.0,Green
-40,Blur,13,Coffee & TV,5eSllZgRWCIJsDTAqFRwQw,0.743,0.743,2,-10.117,1,0.0367,0.233,0.0987,0.707,121.604,358773,4,65.0,Green
-41,Brian Fresco,Higher (feat. Chance the Rapper & Blue Hawaii),Higher,4uWeGIum5DAZaoSLhIib3S,0.818,0.51,4,-8.085,0,0.157,2.21e-06,0.37,0.417,119.919,241807,4,20.0,Green
-42,Calvin Harris,Funk Wav Bounces Vol.1,Prayers Up (feat. Travis Scott & A-Trak),4KaIJ1FWXUoAAnOts1YWjD,0.821,0.637,9,-4.276,0,0.161,0,0.209,0.778,86.01,204280,4,55.0,Green
-43,Calvin Harris,Funk Wav Bounces Vol.1,"Holiday (feat. Snoop Dogg, John Legend & Takeoff)",08Wc3X7XNSyF8WYBPt2L8E,0.836,0.769,6,-2.334,0,0.0773,0.00157,0.0804,0.585,103.991,169693,4,49.0,Green
-44,Calvin Harris,Rollin (feat. Future & Khalid),Rollin (feat. Future & Khalid),3FDrI0FLKzrYQiWxPhqV2W,0.754,0.762,6,-4.486,0,0.0849,6.67e-05,0.224,0.673,92.002,272667,4,64.0,Green
-45,Calvin Harris,Slide (feat. Frank Ocean & Migos),Slide (feat. Frank Ocean & Migos),6gpcs5eMhJwax4mIfKDYQk,0.736,0.795,1,-3.299,0,0.0545,1.21e-06,0.254,0.511,104.066,230813,4,73.0,Green
-46,Chance the Rapper,Coloring Book,No Problem (feat. Lil Wayne & 2 Chainz),0v9Wz8o0BT8DU38R4ddjeH,0.652,0.795,11,-5.192,0,0.174,0,0.123,0.788,135.018,304607,4,70.0,Green
-47,Chance the Rapper,Coloring Book,Summer Friends (feat. Jeremih & Francis & The Lights),2fl0B0OaXjWbjHCQFx2O8W,0.693,0.426,8,-12.476,1,0.302,1.03e-05,0.115,0.477,144.796,290316,4,58.0,Green
-48,Chance the Rapper,Coloring Book,Smoke Break (feat. Future),1Uq3IOIy1CUlHUgP6vWpum,0.705,0.453,3,-8.174,1,0.196,0,0.143,0.283,124.942,226494,4,60.0,Green
-49,Cheers Elephant,Like Wind Blows Fire,Like Wind Blows Fire,24a8M5kbjckrYX37actmtV,0.486,0.789,2,-7.433,0,0.0402,3.8e-05,0.225,0.617,152.016,210467,4,14.0,Green
-50,Cheers Elephant,Suitcase,Suitcase,6SpdkXxxEdnCeDRNoS0A06,0.623,0.854,1,-5.219,1,0.0419,0.00321,0.122,0.763,89.995,237736,4,10.0,Green
-51,Dispatch,"America, Location 12",Midnight Lorry,0OoODSk0hu4WWmi3yKbRP3,0.497,0.638,0,-6.564,1,0.0316,0.00249,0.133,0.569,82.285,339360,4,54.0,Green
-52,Dispatch,"America, Location 12",Begin Again,4vDivBSeIfKym60ddu80DT,0.63,0.432,11,-9.776,0,0.0404,0.000551,0.148,0.541,124.197,173880,4,29.0,Green
-53,Dispatch,"America, Location 12",Atticus Cobain,3y1o7EO6GR71sIXpZ2FdDK,0.588,0.796,11,-4.865,1,0.0424,0,0.261,0.784,93.957,228773,4,29.0,Green
-54,Dispatch,Only the Wild Ones,Only the Wild Ones,2acbW2I3x82OmRfKdV4hZq,0.492,0.7,8,-7.001,1,0.0437,0.00013,0.0996,0.605,110.741,253165,4,0.0,Green
-55,Dispatch,Silent Steeples,Flying Horses,5bO5xc5BHe1aTsaqyRZLNU,0.465,0.74,4,-6.295,0,0.0791,0,0.0853,0.644,112.193,323613,4,43.0,Green
-56,Donnie Trumpet & The Social Experiment,Surf,Familiar,6byH2KwTyfq76lucjvwX2I,0.804,0.387,11,-9.56,1,0.255,0,0.0527,0.584,104.065,233618,4,42.0,Green
-57,EARTHGANG,Robots,Robots,62bvu8hO9tPS0DQ3WzYYwp,0.684,0.617,8,-8.004,1,0.317,0,0.052,0.721,145.928,249156,4,32.0,Green
-58,Fleece,Voyager,On My Mind,0DbMOz6MrPJ9nfYXgGarLw,0.737,0.445,0,-7.485,1,0.0471,0.000912,0.102,0.87,130.222,139633,4,0.0,Green
-59,Glass Animals,How To Be A Human Being,Youth,1LPGwuFgIzbJoShfDdw7MY,0.648,0.718,9,-7.765,0,0.0298,0.00156,0.112,0.785,96.017,230693,4,68.0,Green
-60,The Greeting Committee,It’s Not All That Bad,Hands Down,0dqJjKKxuKD5Dt3QH2n4CG,0.426,0.634,4,-7.116,1,0.0341,0.00356,0.222,0.284,98.925,257693,4,58.0,Green
-61,J. Cole,2014 Forest Hills Drive,Apparently,1HNs07uZxZniPNmniw2GTa,0.8,0.543,5,-9.236,1,0.0911,0,0.116,0.534,133.98,293040,4,69.0,Green
-62,Jdam,Stupid Karma,Stupid Karma,3d2JSZa5RGiGYHzl1CjzeN,0.852,0.368,5,-9.681,0,0.064,0,0.0735,0.738,139.98,213603,4,29.0,Green
-63,Joey Bada$$,ALL-AMERIKKKAN BADA$$,TEMPTATION,2UmGLsZjIXYB2FFKIO79s9,0.775,0.707,10,-5.339,0,0.151,0,0.873,0.78,104.979,244198,4,0.0,Green
-64,Joey Bada$$,Brooklyn's Own,Brooklyn's Own,0IZurWvFvqoFBD9h6KR1vB,0.731,0.815,7,-4.72,1,0.296,0,0.225,0.495,93.607,219530,4,0.0,Green
-65,Kaiydo,Fruit Punch,Fruit Punch,0lpRp9KzzMbC0w1uiL7H7f,0.8,0.586,0,-7.344,1,0.176,0,0.074,0.749,104.002,221623,4,52.0,Green
-66,Kendrick Lamar,To Pimp A Butterfly,Complexion (A Zulu Love),72hFOhhhnOJZnnp6uVOgPn,0.665,0.558,2,-7.863,0,0.303,4.57e-06,0.219,0.37,89.953,263360,4,57.0,Green
-67,Khalid,American Teen,Location,152lZdxL1OR0ZMW6KquMif,0.736,0.449,1,-11.462,0,0.425,0.000162,0.0898,0.326,80.126,219080,4,79.0,Green
-68,KYLE,iSpy,iSpy,0WjYgf4qH3B0v0HmW61doL,0.746,0.653,7,-6.745,1,0.289,0,0.229,0.672,75.016,253107,4,0.0,Green
-69,Childish Gambino,Because The Internet,3005,3Z2sglqDj1rDRMF5x0Sz2R,0.473,0.461,6,-6.474,0,0.333,0,0.0973,0.615,165.985,234213,4,0.0,Green
-70,Bas,Boca Raton (with A$AP Ferg),Boca Raton (with A$AP Ferg),6WNrh21Eeq2pQMW9EgO5PA,0.903,0.625,10,-7.025,0,0.219,1.78e-05,0.215,0.399,129.993,196760,4,0.0,Green
-71,Mac DeMarco,2,Ode to Viceroy,601KiLiZtBJRTXBrTjeieP,0.514,0.632,2,-6.305,1,0.0501,0.0132,0.115,0.31,94.569,233818,4,32.0,Green
-72,Dispatch,Black Land Prairie,Black Land Prairie,7nHAoJdknKLdMK9Sp7o6pD,0.498,0.652,0,-6.093,1,0.0288,0.0335,0.0837,0.178,82.961,258171,4,0.0,Green
-73,Mac Miller,The Divine Feminine,Cinderella (feat. Ty Dolla $ign),2lpygKqzPFtItQ4ss3cgfb,0.545,0.534,8,-6.874,0,0.047,0,0.345,0.24,140.021,480187,4,67.0,Green
-74,STRFKR,Starfucker,Rawnald Gregory Erickson the Second,4j4pPKE3xAblPIbhxScC1j,0.9,0.538,7,-7.879,1,0.0343,0.843,0.287,0.713,95.508,173693,4,67.0,Green
-75,Phony Ppl,Yesterday's Tomorrow,Why iii Love The Moon.,2x5Frs6ts14U4MSLrQQlXg,0.706,0.483,1,-7.929,1,0.0393,1.94e-06,0.136,0.663,92.002,331827,4,64.0,Green
-76,Noname,Room 25,Self,2wUnFLr2k5491Pv4cUYd83,0.808,0.541,3,-6.525,1,0.252,0.000977,0.142,0.811,92.132,94933,4,0.0,Green
-77,Mac DeMarco,2,Cooking Up Something Good,5CqmSwn8D1DuleBV1fOiCG,0.751,0.442,0,-7.551,1,0.0313,0.00141,0.123,0.851,98.071,161043,3,25.0,Green
-78,Noname,Room 25,Montego Bae,1g2mY3SYKNI90COS9x8dgB,0.59,0.554,5,-10.872,0,0.0858,0.177,0.0827,0.69,151.936,163616,4,0.0,Green
-79,Kooley High,Presents...David Thompson,Dear Raleigh,0siQP9KiIRRrgvlDJQG7Us,0.587,0.799,7,-6.271,1,0.158,0,0.329,0.649,85.884,275907,4,32.0,Green
-80,Dispatch,Location 13,Cross the World,6sn4BdTIIDRJguMuTXg4T4,0.635,0.714,5,-5.533,1,0.0714,0,0.0974,0.544,77.127,237568,4,0.0,Green
-81,The O'My's,"Bout a Dolla (feat. Chuck Inglish, Chance the Rapper, Chip tha Ripper & Twista)","Bout a Dolla (feat. Chuck Inglish, Chance the Rapper, Chip tha Ripper & Twista)",6QLohX5uCc2NC5LGTRnmDT,0.743,0.617,7,-7.829,1,0.186,7.47e-06,0.33,0.56,90.046,290168,4,37.0,Green
-82,Lightheaded,Pure Thoughts,Completion,0DqRjRhT2tnSdKCMFtJeea,0.765,0.723,4,-7.174,0,0.31,9.12e-06,0.054,0.735,89.602,204013,4,10.0,Green
-83,Fleece,Voyager,Under the Light,6HBSSVm0X3z178D6FaXj9d,0.455,0.579,5,-8.172,1,0.0307,0.555,0.0925,0.495,140.015,285655,4,0.0,Green
-84,Jungle,For Ever,Casio,33wUd3GgaRf2rux2aJ71yb,0.816,0.492,10,-7.464,0,0.0752,0.0899,0.0995,0.766,115.989,234370,4,1.0,Green
-85,Psychedelic Porn Crumpets,"High Visceral, Pt. 1",Denmark / Van Gogh & Gone,7sP57RtB31LWReHyQ02RxX,0.397,0.432,5,-7.747,1,0.0291,0.417,0.11,0.0439,134.886,449347,4,46.0,Green
-86,Saba,CARE FOR ME,BUSY / SIRENS,4YdRnTnXYwgI48kkzWy6uk,0.667,0.465,1,-10.337,1,0.344,0,0.101,0.474,133.832,329542,4,59.0,Green
-87,Anderson .Paak,Oxnard,Headlow (feat. Norelle),0L38hbPRV0C4x6CH7WZe1W,0.751,0.724,1,-8.053,0,0.0734,0.000141,0.208,0.509,100.044,250773,4,47.0,Green
-88,Anderson .Paak,Oxnard,"Anywhere (feat. Snoop Dogg & The Last Artful, Dodgr)",4n02GblHZte3q5AzcLHlIK,0.768,0.686,7,-7.37,0,0.095,8.28e-05,0.155,0.778,79.031,226493,4,52.0,Green
-89,JID,DiCaprio 2,Hot Box (feat. Method Man & Joey Bada$$),37FFOyjlneevUqyT1RWPVU,0.744,0.697,7,-8.068,1,0.368,0,0.0747,0.64,79.202,291808,4,0.0,Green
-90,Portugal. The Man,Tidal Wave,Tidal Wave,07NAYx3UuWYtW7cAT6e8Rt,0.551,0.741,8,-4.245,1,0.029,0.00603,0.0707,0.399,79.984,211720,4,37.0,Green
-91,Pepper,Kona Town,Stone Love,1AO26gK1sI6PoFY9eUF8yV,0.837,0.478,6,-5.861,0,0.0627,0.00129,0.0569,0.81,78.746,254800,4,60.0,Green
-92,Pell,"In the Morning (feat. Stephen, Caleborate)","In The Morning (feat. Stephen, Caleborate)",4K1J4jNVi02rBWxTtTa4U1,0.553,0.616,2,-6.08,1,0.32,0,0.0773,0.324,81.608,206415,4,41.0,Green
-93,Wilco,Yankee Hotel Foxtrot,"Jesus, Etc.",4wd09wCccmxUB7XVJp0RNn,0.756,0.28,5,-14.27,1,0.0296,0.00033,0.414,0.695,109.413,231000,4,66.0,Green
-94,Smino,Kajun,Kajun,2CYDcunjh8q0F8wDEMW7F7,0.48,0.474,10,-8.119,1,0.602,0.000177,0.12,0.42,179.721,192187,4,30.0,Green
-95,Noname,Song 31,Song 31,5jEHZAJlxIf6bK9LkKnRH0,0.583,0.527,11,-7.876,1,0.0733,6.7e-06,0.154,0.395,97.346,187036,4,0.0,Green
-96,A Tribe Called Quest,People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),Can I Kick It?,3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,0,-6.547,1,0.274,0.000699,0.129,0.744,96.662,251573,4,70.0,Green
-97,Hippo Campus,warm glow,baseball,5lO1htX1UPjwyItDLurhR5,0.602,0.915,9,-3.62,1,0.0541,0,0.0967,0.581,111.512,198107,4,58.0,Green
-98,Still Woozy,Habit,Habit,1M321puDN1WBd5NF0ogOKW,0.766,0.402,1,-11.155,1,0.107,0.0007,0.106,0.466,125.107,153857,4,0.0,Green
-99,Big Search,To Feel in Love,To Feel in Love,35NWDxnzlmxAJq4CfbQAL2,0.56,0.708,5,-6.476,1,0.0288,0.112,0.317,0.554,148.159,374000,4,34.0,Green
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,acousticness,popularity,playlist_name,duration_s
+0,Dispatch,"America, Location 12",Windylike,5wOD1GjxOE4ePx48BritEb,0.569,0.665,0,-6.55,1,0.0279,0,0.396,0.494,93.999,299960,4,0.0897,28.0,Green,299.96
+1,Joey Bada$$,ALL-AMERIKKKAN BADA$$,FOR MY PEOPLE,5URYXSFGks9Q8eYePlgVdL,0.672,0.704,11,-6.628,0,0.165,0,0.115,0.188,100.986,232765,4,0.111,0.0,Green,232.765
+2,Kodak Black,Painting Pictures,Day for Day,6YOgXjBp1fLqnZfKLCNYhd,0.718,0.557,5,-8.227,1,0.379,0,0.0682,0.493,80.963,168312,4,0.311,20.0,Green,168.312
+3,Kendrick Lamar,DAMN.,GOD.,5p3NP9mQblDsVJLdfNZJ3I,0.706,0.557,0,-5.8,1,0.0813,0,0.276,0.205,132.98,248827,4,0.0347,61.0,Green,248.827
+4,Cheers Elephant,Like Wind Blows Fire,Peoples,2C8Xjk2DrEywKBfBb7ITZK,0.639,0.767,4,-6.195,1,0.0366,9.66e-05,0.332,0.643,125.031,199373,4,0.247,36.0,Green,199.373
+5,Tame Impala,InnerSpeaker (Collector's Edition),Sundown Syndrome,14VLdNJSXtMwiDpKGjvr9A,0.362,0.707,1,-4.784,0,0.0333,0.49,0.115,0.34,68.301,349334,4,0.0964,0.0,Green,349.334
+6,Sam Stan,Happy Raps,Happy Place,36hsrp4h4wKhzYcgAh6PpN,0.663,0.624,5,-5.733,0,0.227,0.00014,0.08,0.588,80.093,144039,4,0.0533,36.0,Green,144.039
+7,MF DOOM,MM...FOOD,Rapp Snitch Knishes feat. Mr. Fantastik,25kGNSv0yGXZKaC79xzrvg,0.728,0.832,7,-6.827,1,0.269,0,0.504,0.825,95.049,172893,4,0.325,0.0,Green,172.893
+8,Woodie Smalls,Lucky Strike,Lucky Strike,1hxwW2ny6MdBjWP3rOHZMn,0.587,0.586,11,-9.149,0,0.149,2.1e-06,0.121,0.635,175.434,189600,4,0.2,34.0,Green,189.6
+9,Blended Babies,Family (Blended Babies Remix) [feat. Chance the Rapper & Vic Mensa],Family (Blended Babies Remix) [feat. Chance the Rapper & Vic Mensa],6rktW7ir6seXSqBoMaoJih,0.667,0.637,9,-7.697,1,0.295,0,0.345,0.737,93.005,185966,4,0.0425,39.0,Green,185.966
+10,Frank Ocean,Blonde,Ivy,2ZWlPOoWh0626oTaHrnl2a,0.567,0.388,9,-9.579,0,0.0384,0.000309,0.248,0.452,116.362,249191,4,0.782,78.0,Green,249.191
+11,Bas,Last Winter,My Nigga Just Made Bail,2pUrFLAbWbUqZnnSgJ2u5I,0.814,0.619,11,-7.82,0,0.218,0,0.0829,0.625,124.073,216907,4,0.607,56.0,Green,216.907
+12,Peter Doherty,Hamburg Demonstrations,Kolly Kibber,4NwhdN21I3hLAbYLuLNmLc,0.537,0.504,7,-8.101,1,0.0296,2.24e-05,0.245,0.352,110.072,237810,4,0.349,27.0,Green,237.81
+13,Dr. Dog,"Shame, Shame (Deluxe Edition)",Where'd All the Time Go?,0UV5zxRMz6AO4ZwUOZNIKI,0.454,0.82,2,-4.193,1,0.0567,0.000969,0.115,0.575,166.303,234800,4,0.132,78.0,Green,234.8
+14,CASTLEBEAT,CASTLEBEAT,Rope,1E0qUJvzXVCwcnbtNnBF6I,0.511,0.858,4,-8.212,1,0.0332,0.531,0.164,0.608,159.969,237741,4,0.0889,33.0,Green,237.741
+15,Isaiah Rashad,Cilvia Demo,Heavenly Father,0qLt7pQhm8LDxFgI0YXdlY,0.608,0.676,1,-7.56,1,0.248,0,0.347,0.57,80.939,260632,4,0.212,61.0,Green,260.632
+16,Jaden,SYRE,Icon,22nyEAEM29tcBRhukR089b,0.786,0.82,9,-5.093,0,0.232,0,0.575,0.49,119.982,220996,4,0.222,73.0,Green,220.996
+17,Modest Mouse,Good News For People Who Love Bad News,Float On,2lwwrWVKdf3LR9lbbhnr6R,0.649,0.888,6,-4.807,1,0.0293,2.23e-06,0.0888,0.553,100.975,208467,4,0.013,72.0,Green,208.467
+18,Death Cab for Cutie,Narrow Stairs,Grapevine Fires,1x3bxSSANgIxkoyGldhmdX,0.619,0.427,10,-10.737,1,0.04,0.00238,0.0823,0.436,61.75,247360,4,0.699,49.0,Green,247.36
+19,Taylor Bennett,Minimum Wage,Minimum Wage,41iJtG6bvXqf12ZTiYy4cG,0.858,0.749,0,-6.574,1,0.319,0,0.0759,0.555,134.074,167610,4,0.401,29.0,Green,167.61
+20,BROCKHAMPTON,ALL-AMERICAN TRASH,HOME,2anAr4t1wpiy2qBK9CGnyn,0.534,0.36,11,-12.942,0,0.0778,0.00158,0.382,0.387,153.985,302393,4,0.296,40.0,Green,302.393
+21,Berhana,Berhana,Grey Luh,6I8M0qc0XP4Q5Ig8K16FWJ,0.543,0.298,0,-9.167,1,0.0683,1.49e-06,0.0804,0.254,125.523,261103,4,0.597,0.0,Green,261.103
+22,Healy,Winse,Winse,0uPBYnoltG0oiZ2bOTy7iI,0.886,0.503,8,-7.189,1,0.0437,0.000692,0.104,0.55,106.024,256000,4,0.131,41.0,Green,256.0
+23,Big Sean,I Decided.,Light,0URaKGzNTtzKRtsJN1RkA9,0.505,0.611,7,-5.976,0,0.0648,0,0.108,0.176,85.944,210507,4,0.826,47.0,Green,210.507
+24,Unknown Mortal Orchestra,II (Deluxe Edition),So Good at Being in Trouble,0LPODKihyn7XCxFevkE3KY,0.829,0.435,0,-10.136,1,0.0515,0.878,0.119,0.594,103.816,230147,4,0.0363,18.0,Green,230.147
+25,Father John Misty,Pure Comedy,Total Entertainment Forever,10tS3AWz8aUWArbnxIrUL6,0.35,0.755,7,-5.905,0,0.053,8.73e-06,0.151,0.519,158.478,173893,4,0.188,0.0,Green,173.893
+26,Gyyps,Darryl: A Mixtape by Gyyps,"Women, Weed & 808's",44ac8fgxDhIgOj6x2o8Bw7,0.84,0.349,0,-11.774,1,0.115,0,0.0881,0.162,125.028,233880,4,0.197,0.0,Green,233.88
+27,Noname,Telefone,Sunny Duet (feat. the Mind),1ZEpge1j4gAi4R7pU9oor5,0.56,0.463,7,-9.601,1,0.421,0,0.128,0.896,155.711,162490,4,0.775,49.0,Green,162.49
+28,Milky Chance,Cocoon,Cocoon,39bpQHvHkE0K7UUD2HL9oI,0.732,0.708,10,-5.978,1,0.0324,0.000161,0.0824,0.749,114.033,254013,4,0.0715,0.0,Green,254.013
+29,Sublime,Sublime Greatest Hits,Doin' Time,4mAqG6KNWZQiekSthr2QtL,0.711,0.724,7,-5.97,1,0.0851,3.81e-06,0.141,0.482,80.975,251120,4,0.0393,0.0,Green,251.12
+30,Khalid,Young Dumb & Broke REMIX (feat. Rae Sremmurd & Lil Yachty),Young Dumb & Broke REMIX (feat. Rae Sremmurd & Lil Yachty),6LxEtvMKSwmPdd5Fh1PCof,0.795,0.56,1,-5.773,1,0.0479,0,0.158,0.459,136.988,263277,4,0.184,52.0,Green,263.277
+31,Donnie Trumpet & The Social Experiment,Surf,Sunday Candy,6fTdcGsjxlAD9PSkoPaLMX,0.511,0.596,0,-6.56,1,0.224,0,0.0798,0.554,158.063,226014,4,0.53,65.0,Green,226.014
+32,Isaiah Rashad,The Sun's Tirade,Find a Topic (homies begged),17JA4HlieSH7TY3pQk21MJ,0.91,0.567,7,-5.208,1,0.0987,5.29e-05,0.498,0.545,130.999,166688,4,0.00274,49.0,Green,166.688
+33,Post Malone,Go Flex,Go Flex,3e7pB02vXiqVYaDTymYY1t,0.663,0.511,5,-8.229,1,0.105,0,0.0525,0.116,81.946,182000,4,0.209,0.0,Green,182.0
+34,Drake,Nice For What,Nice For What,1cTZMwcBJT0Ka3UJPXOeeN,0.567,0.913,8,-6.471,1,0.0736,0.000124,0.114,0.792,93.35,210926,4,0.0934,1.0,Green,210.926
+35,Swae Lee,Guatemala (feat. Slim Jxmmi),Guatemala (feat. Slim Jxmmi) - From Swaecation,6sTDhYVVXU3HSDuG7mBLRU,0.849,0.699,4,-5.193,0,0.0574,0.00118,0.0954,0.0778,100.989,256341,4,0.185,0.0,Green,256.341
+36,Action Bronson,Mr. Wonderful,Baby Blue (feat. Chance the Rapper),7gDwRzJhLs0fFHaGtMDJVM,0.828,0.487,6,-6.142,0,0.0343,1.86e-05,0.136,0.761,85.027,280160,4,0.247,64.0,Green,280.16
+37,Aminé,Caroline,Caroline,5GFDrUTLGJix84sNhjCG0g,0.945,0.394,10,-8.571,1,0.492,0,0.131,0.743,120.058,209747,4,0.303,0.0,Green,209.747
+38,Arctic Monkeys,Favourite Worst Nightmare,Fluorescent Adolescent,2x8evxqUlF0eRabbW2JBJd,0.654,0.828,1,-5.377,0,0.0281,0.000144,0.122,0.79,112.056,183893,4,0.00146,76.0,Green,183.893
+39,Bas,Too High To Riot,Clouds Never Get Old,4z3X794EXFeZLsaF7FEwTj,0.643,0.557,5,-5.412,0,0.308,0,0.394,0.327,136.393,188933,5,0.102,43.0,Green,188.933
+40,Blur,13,Coffee & TV,5eSllZgRWCIJsDTAqFRwQw,0.743,0.743,2,-10.117,1,0.0367,0.233,0.0987,0.707,121.604,358773,4,0.0511,65.0,Green,358.773
+41,Brian Fresco,Higher (feat. Chance the Rapper & Blue Hawaii),Higher,4uWeGIum5DAZaoSLhIib3S,0.818,0.51,4,-8.085,0,0.157,2.21e-06,0.37,0.417,119.919,241807,4,0.447,20.0,Green,241.807
+42,Calvin Harris,Funk Wav Bounces Vol.1,Prayers Up (feat. Travis Scott & A-Trak),4KaIJ1FWXUoAAnOts1YWjD,0.821,0.637,9,-4.276,0,0.161,0,0.209,0.778,86.01,204280,4,0.433,55.0,Green,204.28
+43,Calvin Harris,Funk Wav Bounces Vol.1,"Holiday (feat. Snoop Dogg, John Legend & Takeoff)",08Wc3X7XNSyF8WYBPt2L8E,0.836,0.769,6,-2.334,0,0.0773,0.00157,0.0804,0.585,103.991,169693,4,0.472,50.0,Green,169.693
+44,Calvin Harris,Rollin (feat. Future & Khalid),Rollin (feat. Future & Khalid),3FDrI0FLKzrYQiWxPhqV2W,0.754,0.762,6,-4.486,0,0.0849,6.67e-05,0.224,0.673,92.002,272667,4,0.45,64.0,Green,272.667
+45,Calvin Harris,Slide (feat. Frank Ocean & Migos),Slide (feat. Frank Ocean & Migos),6gpcs5eMhJwax4mIfKDYQk,0.736,0.795,1,-3.299,0,0.0545,1.21e-06,0.254,0.511,104.066,230813,4,0.498,73.0,Green,230.813
+46,Chance the Rapper,Coloring Book,No Problem (feat. Lil Wayne & 2 Chainz),0v9Wz8o0BT8DU38R4ddjeH,0.652,0.795,11,-5.192,0,0.174,0,0.123,0.788,135.018,304607,4,0.156,70.0,Green,304.607
+47,Chance the Rapper,Coloring Book,Summer Friends (feat. Jeremih & Francis & The Lights),2fl0B0OaXjWbjHCQFx2O8W,0.693,0.426,8,-12.476,1,0.302,1.03e-05,0.115,0.477,144.796,290316,4,0.675,58.0,Green,290.316
+48,Chance the Rapper,Coloring Book,Smoke Break (feat. Future),1Uq3IOIy1CUlHUgP6vWpum,0.705,0.453,3,-8.174,1,0.196,0,0.143,0.283,124.942,226494,4,0.257,60.0,Green,226.494
+49,Cheers Elephant,Like Wind Blows Fire,Like Wind Blows Fire,24a8M5kbjckrYX37actmtV,0.486,0.789,2,-7.433,0,0.0402,3.8e-05,0.225,0.617,152.016,210467,4,0.0119,14.0,Green,210.467
+50,Cheers Elephant,Suitcase,Suitcase,6SpdkXxxEdnCeDRNoS0A06,0.623,0.854,1,-5.219,1,0.0419,0.00321,0.122,0.763,89.995,237736,4,0.0126,10.0,Green,237.736
+51,Dispatch,"America, Location 12",Midnight Lorry,0OoODSk0hu4WWmi3yKbRP3,0.497,0.638,0,-6.564,1,0.0316,0.00249,0.133,0.569,82.285,339360,4,0.394,54.0,Green,339.36
+52,Dispatch,"America, Location 12",Begin Again,4vDivBSeIfKym60ddu80DT,0.63,0.432,11,-9.776,0,0.0404,0.000551,0.148,0.541,124.197,173880,4,0.348,29.0,Green,173.88
+53,Dispatch,"America, Location 12",Atticus Cobain,3y1o7EO6GR71sIXpZ2FdDK,0.588,0.796,11,-4.865,1,0.0424,0,0.261,0.784,93.957,228773,4,0.111,29.0,Green,228.773
+54,Dispatch,Only the Wild Ones,Only the Wild Ones,2acbW2I3x82OmRfKdV4hZq,0.492,0.7,8,-7.001,1,0.0437,0.00013,0.0996,0.605,110.741,253165,4,0.413,0.0,Green,253.165
+55,Dispatch,Silent Steeples,Flying Horses,5bO5xc5BHe1aTsaqyRZLNU,0.465,0.74,4,-6.295,0,0.0791,0,0.0853,0.644,112.193,323613,4,0.0535,43.0,Green,323.613
+56,Donnie Trumpet & The Social Experiment,Surf,Familiar,6byH2KwTyfq76lucjvwX2I,0.804,0.387,11,-9.56,1,0.255,0,0.0527,0.584,104.065,233618,4,0.28,42.0,Green,233.618
+57,EARTHGANG,Robots,Robots,62bvu8hO9tPS0DQ3WzYYwp,0.684,0.617,8,-8.004,1,0.317,0,0.052,0.721,145.928,249156,4,0.618,32.0,Green,249.156
+58,Fleece,Voyager,On My Mind,0DbMOz6MrPJ9nfYXgGarLw,0.737,0.445,0,-7.485,1,0.0471,0.000912,0.102,0.87,130.222,139633,4,0.105,0.0,Green,139.633
+59,Glass Animals,How To Be A Human Being,Youth,1LPGwuFgIzbJoShfDdw7MY,0.648,0.718,9,-7.765,0,0.0298,0.00156,0.112,0.785,96.017,230693,4,0.129,68.0,Green,230.693
+60,The Greeting Committee,It’s Not All That Bad,Hands Down,0dqJjKKxuKD5Dt3QH2n4CG,0.426,0.634,4,-7.116,1,0.0341,0.00356,0.222,0.284,98.925,257693,4,0.404,58.0,Green,257.693
+61,J. Cole,2014 Forest Hills Drive,Apparently,1HNs07uZxZniPNmniw2GTa,0.8,0.543,5,-9.236,1,0.0911,0,0.116,0.534,133.98,293040,4,0.564,69.0,Green,293.04
+62,Jdam,Stupid Karma,Stupid Karma,3d2JSZa5RGiGYHzl1CjzeN,0.852,0.368,5,-9.681,0,0.064,0,0.0735,0.738,139.98,213603,4,0.645,29.0,Green,213.603
+63,Joey Bada$$,ALL-AMERIKKKAN BADA$$,TEMPTATION,2UmGLsZjIXYB2FFKIO79s9,0.775,0.707,10,-5.339,0,0.151,0,0.873,0.78,104.979,244198,4,0.397,0.0,Green,244.198
+64,Joey Bada$$,Brooklyn's Own,Brooklyn's Own,0IZurWvFvqoFBD9h6KR1vB,0.731,0.815,7,-4.72,1,0.296,0,0.225,0.495,93.607,219530,4,0.152,0.0,Green,219.53
+65,Kaiydo,Fruit Punch,Fruit Punch,0lpRp9KzzMbC0w1uiL7H7f,0.8,0.586,0,-7.344,1,0.176,0,0.074,0.749,104.002,221623,4,0.037,52.0,Green,221.623
+66,Kendrick Lamar,To Pimp A Butterfly,Complexion (A Zulu Love),72hFOhhhnOJZnnp6uVOgPn,0.665,0.558,2,-7.863,0,0.303,4.57e-06,0.219,0.37,89.953,263360,4,0.566,57.0,Green,263.36
+67,Khalid,American Teen,Location,152lZdxL1OR0ZMW6KquMif,0.736,0.449,1,-11.462,0,0.425,0.000162,0.0898,0.326,80.126,219080,4,0.33,79.0,Green,219.08
+68,KYLE,iSpy,iSpy,0WjYgf4qH3B0v0HmW61doL,0.746,0.653,7,-6.745,1,0.289,0,0.229,0.672,75.016,253107,4,0.378,0.0,Green,253.107
+69,Childish Gambino,Because The Internet,3005,3Z2sglqDj1rDRMF5x0Sz2R,0.473,0.461,6,-6.474,0,0.333,0,0.0973,0.615,165.985,234213,4,0.149,0.0,Green,234.213
+70,Bas,Boca Raton (with A$AP Ferg),Boca Raton (with A$AP Ferg),6WNrh21Eeq2pQMW9EgO5PA,0.903,0.625,10,-7.025,0,0.219,1.78e-05,0.215,0.399,129.993,196760,4,0.149,0.0,Green,196.76
+71,Mac DeMarco,2,Ode to Viceroy,601KiLiZtBJRTXBrTjeieP,0.514,0.632,2,-6.305,1,0.0501,0.0132,0.115,0.31,94.569,233818,4,0.208,32.0,Green,233.818
+72,Dispatch,Black Land Prairie,Black Land Prairie,7nHAoJdknKLdMK9Sp7o6pD,0.498,0.652,0,-6.093,1,0.0288,0.0335,0.0837,0.178,82.961,258171,4,0.28,0.0,Green,258.171
+73,Mac Miller,The Divine Feminine,Cinderella (feat. Ty Dolla $ign),2lpygKqzPFtItQ4ss3cgfb,0.545,0.534,8,-6.874,0,0.047,0,0.345,0.24,140.021,480187,4,0.235,67.0,Green,480.187
+74,STRFKR,Starfucker,Rawnald Gregory Erickson the Second,4j4pPKE3xAblPIbhxScC1j,0.9,0.538,7,-7.879,1,0.0343,0.843,0.287,0.713,95.508,173693,4,0.229,67.0,Green,173.693
+75,Phony Ppl,Yesterday's Tomorrow,Why iii Love The Moon.,2x5Frs6ts14U4MSLrQQlXg,0.706,0.483,1,-7.929,1,0.0393,1.94e-06,0.136,0.663,92.002,331827,4,0.547,64.0,Green,331.827
+76,Noname,Room 25,Self,2wUnFLr2k5491Pv4cUYd83,0.808,0.541,3,-6.525,1,0.252,0.000977,0.142,0.811,92.132,94933,4,0.855,0.0,Green,94.933
+77,Mac DeMarco,2,Cooking Up Something Good,5CqmSwn8D1DuleBV1fOiCG,0.751,0.442,0,-7.551,1,0.0313,0.00141,0.123,0.851,98.071,161043,3,0.0803,25.0,Green,161.043
+78,Noname,Room 25,Montego Bae,1g2mY3SYKNI90COS9x8dgB,0.59,0.554,5,-10.872,0,0.0858,0.177,0.0827,0.69,151.936,163616,4,0.785,0.0,Green,163.616
+79,Kooley High,Presents...David Thompson,Dear Raleigh,0siQP9KiIRRrgvlDJQG7Us,0.587,0.799,7,-6.271,1,0.158,0,0.329,0.649,85.884,275907,4,0.228,32.0,Green,275.907
+80,Dispatch,Location 13,Cross the World,6sn4BdTIIDRJguMuTXg4T4,0.635,0.714,5,-5.533,1,0.0714,0,0.0974,0.544,77.127,237568,4,0.135,0.0,Green,237.568
+81,The O'My's,"Bout a Dolla (feat. Chuck Inglish, Chance the Rapper, Chip tha Ripper & Twista)","Bout a Dolla (feat. Chuck Inglish, Chance the Rapper, Chip tha Ripper & Twista)",6QLohX5uCc2NC5LGTRnmDT,0.743,0.617,7,-7.829,1,0.186,7.47e-06,0.33,0.56,90.046,290168,4,0.237,37.0,Green,290.168
+82,Lightheaded,Pure Thoughts,Completion,0DqRjRhT2tnSdKCMFtJeea,0.765,0.723,4,-7.174,0,0.31,9.12e-06,0.054,0.735,89.602,204013,4,0.0998,11.0,Green,204.013
+83,Fleece,Voyager,Under the Light,6HBSSVm0X3z178D6FaXj9d,0.455,0.579,5,-8.172,1,0.0307,0.555,0.0925,0.495,140.015,285655,4,0.403,0.0,Green,285.655
+84,Jungle,For Ever,Casio,33wUd3GgaRf2rux2aJ71yb,0.816,0.492,10,-7.464,0,0.0752,0.0899,0.0995,0.766,115.989,234370,4,0.431,1.0,Green,234.37
+85,Psychedelic Porn Crumpets,"High Visceral, Pt. 1",Denmark / Van Gogh & Gone,7sP57RtB31LWReHyQ02RxX,0.397,0.432,5,-7.747,1,0.0291,0.417,0.11,0.0439,134.886,449347,4,0.219,46.0,Green,449.347
+86,Saba,CARE FOR ME,BUSY / SIRENS,4YdRnTnXYwgI48kkzWy6uk,0.667,0.465,1,-10.337,1,0.344,0,0.101,0.474,133.832,329542,4,0.473,59.0,Green,329.542
+87,Anderson .Paak,Oxnard,Headlow (feat. Norelle),0L38hbPRV0C4x6CH7WZe1W,0.751,0.724,1,-8.053,0,0.0734,0.000141,0.208,0.509,100.044,250773,4,0.00353,47.0,Green,250.773
+88,Anderson .Paak,Oxnard,"Anywhere (feat. Snoop Dogg & The Last Artful, Dodgr)",4n02GblHZte3q5AzcLHlIK,0.768,0.686,7,-7.37,0,0.095,8.28e-05,0.155,0.778,79.031,226493,4,0.214,52.0,Green,226.493
+89,JID,DiCaprio 2,Hot Box (feat. Method Man & Joey Bada$$),37FFOyjlneevUqyT1RWPVU,0.744,0.697,7,-8.068,1,0.368,0,0.0747,0.64,79.202,291808,4,0.494,0.0,Green,291.808
+90,Portugal. The Man,Tidal Wave,Tidal Wave,07NAYx3UuWYtW7cAT6e8Rt,0.551,0.741,8,-4.245,1,0.029,0.00603,0.0707,0.399,79.984,211720,4,0.00648,37.0,Green,211.72
+91,Pepper,Kona Town,Stone Love,1AO26gK1sI6PoFY9eUF8yV,0.837,0.478,6,-5.861,0,0.0627,0.00129,0.0569,0.81,78.746,254800,4,0.0571,60.0,Green,254.8
+92,Pell,"In the Morning (feat. Stephen, Caleborate)","In The Morning (feat. Stephen, Caleborate)",4K1J4jNVi02rBWxTtTa4U1,0.553,0.616,2,-6.08,1,0.32,0,0.0773,0.324,81.608,206415,4,0.907,41.0,Green,206.415
+93,Wilco,Yankee Hotel Foxtrot,"Jesus, Etc.",4wd09wCccmxUB7XVJp0RNn,0.756,0.28,5,-14.27,1,0.0296,0.00033,0.414,0.695,109.413,231000,4,0.616,66.0,Green,231.0
+94,Smino,Kajun,Kajun,2CYDcunjh8q0F8wDEMW7F7,0.48,0.474,10,-8.119,1,0.602,0.000177,0.12,0.42,179.721,192187,4,0.593,30.0,Green,192.187
+95,Noname,Song 31,Song 31,5jEHZAJlxIf6bK9LkKnRH0,0.583,0.527,11,-7.876,1,0.0733,6.7e-06,0.154,0.395,97.346,187036,4,0.715,0.0,Green,187.036
+96,A Tribe Called Quest,People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),Can I Kick It?,3Ti0GdlrotgwsAVBBugv0I,0.848,0.666,0,-6.547,1,0.274,0.000699,0.129,0.744,96.662,251573,4,0.173,70.0,Green,251.573
+97,Hippo Campus,warm glow,baseball,5lO1htX1UPjwyItDLurhR5,0.602,0.915,9,-3.62,1,0.0541,0,0.0967,0.581,111.512,198107,4,0.0034,58.0,Green,198.107
+98,Still Woozy,Habit,Habit,1M321puDN1WBd5NF0ogOKW,0.766,0.402,1,-11.155,1,0.107,0.0007,0.106,0.466,125.107,153857,4,0.27,0.0,Green,153.857
+99,Big Search,To Feel in Love,To Feel in Love,35NWDxnzlmxAJq4CfbQAL2,0.56,0.708,5,-6.476,1,0.0288,0.112,0.317,0.554,148.159,374000,4,0.159,34.0,Green,374.0

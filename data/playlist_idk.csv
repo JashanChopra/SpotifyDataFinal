@@ -1,101 +1,101 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,popularity,playlist_name
-0,Rex Orange County,Pony,It's Not The Same Anymore,7vRia9rlEuTDQxkfXIKySi,0.666,0.317,5,-10.644,1,0.0327,3.74e-05,0.111,0.359,117.676,386200,4,71.0,idk.
-1,Sarcastic Sounds,change ur mind,change ur mind,58Mh6zmqSo9IvysPAXnG0h,0.627,0.575,4,-7.38,1,0.232,0.0,0.336,0.494,78.546,183451,4,63.0,idk.
-2,EKKSTACY,i walk this earth all by myself,i walk this earth all by myself,5a8QUc4ubHJqQm7vzs2YhA,0.595,0.588,10,-11.313,1,0.0624,0.781,0.113,0.518,166.061,145634,4,67.0,idk.
-3,brakence,argyle,argyle,5PlTDE2RLbcC9vBzbGAG4y,0.669,0.444,8,-8.021,0,0.0453,0.0,0.349,0.586,139.031,165333,4,64.0,idk.
-4,Alexander 23,IDK You Yet,IDK You Yet,47EWMOElkkbMp5m9SBkx7d,0.629,0.306,1,-11.735,1,0.0424,0.0776,0.124,0.191,76.994,184638,1,4.0,idk.
-5,Billie Eilish,Bored,Bored,04sN26COy28wTXYj3dMoiZ,0.614,0.318,7,-12.695,1,0.0478,0.00239,0.0795,0.112,119.959,180933,4,88.0,idk.
-6,Field Medic,song i made up to stop myself from having a panic attack just now,song i made up to stop myself from having a panic attack just now (ft. rich),2oe9nMUPInGrfKu6fdZjH9,0.574,0.0523,3,-15.428,1,0.428,0.0,0.167,0.249,119.927,41125,5,29.0,idk.
-7,Foster,fools (can't help falling in love) (feat. Sody),fools (can't help falling in love) (feat. Sody),4VEEDnEFLI9dUy5QA51rom,0.706,0.604,2,-6.932,1,0.303,0.0,0.242,0.361,82.03,165029,4,72.0,idk.
-8,gigi,Sometimes (Backwood),Sometimes (Backwood),5ysFFsqJFcsX8Rez67j2tv,0.41,0.174,3,-11.405,1,0.0328,0.00197,0.114,0.0694,105.292,153000,4,73.0,idk.
-9,Joji,Yeah Right,Yeah Right,2815rSBccLxZc67jEWBEvD,0.672,0.59,1,-9.574,1,0.129,0.236,0.0991,0.21,169.036,174358,4,0.0,idk.
-10,Christian Leave,Hope,Please Notice,36seMHoyXmLUNxcwzwjdF7,0.55,0.271,2,-8.451,1,0.0297,3.21e-06,0.107,0.198,111.344,116667,4,75.0,idk.
-11,Rex Orange County,Pony,Pluto Projector,4EWBhKf1fOFnyMtUzACXEc,0.379,0.219,5,-11.196,1,0.0307,0.000691,0.118,0.188,79.786,267520,4,79.0,idk.
-12,carolesdaughter,Violent,Violent,7CFfqRW50ffULvBv7lfIIg,0.797,0.755,2,-5.393,1,0.0293,2.26e-06,0.124,0.411,129.955,135878,4,75.0,idk.
-13,brakence,rosier,rosier,6ZUiIY6JQtDkrJggZ1OSQ7,0.572,0.257,11,-13.572,0,0.346,0.0,0.428,0.544,114.673,222493,4,50.0,idk.
-14,Conan Gray,Kid Krow,Heather,4xqrdfXkTW4T0RauPLv3WA,0.357,0.425,5,-7.301,1,0.0333,0.0,0.322,0.27,102.078,198040,3,87.0,idk.
-15,X Lovers,Haunt You (feat. chloe moriondo),Haunt You (feat. chloe moriondo),3vgf7gtRKDFNqFRJm7nA0m,0.566,0.532,3,-7.641,1,0.0374,0.0,0.54,0.497,100.778,167037,4,49.0,idk.
-16,Ber,Meant To Be,Meant To Be,136J2Jkg8sG7P5wilO9P1R,0.5,0.156,1,-11.472,1,0.0469,0.0,0.125,0.405,173.794,163227,4,70.0,idk.
-17,BERWYN,TAPE 2/FOMALHAUT,ANSWERS,6bm9OoERWQ8zfnIcN0pykg,0.539,0.396,10,-8.789,0,0.15,0.000267,0.127,0.659,99.349,245536,4,49.0,idk.
-18,Gracie Abrams,minor,minor,1G9YZPtxUGfl1yVw7kq4yc,0.705,0.281,2,-7.991,1,0.0863,0.0,0.117,0.211,84.882,160507,4,57.0,idk.
-19,keshi,drunk,drunk,3KkVd7Xg0jCAZSOatzQ6Td,0.716,0.388,4,-8.433,1,0.0348,0.0,0.0929,0.306,105.086,226772,4,0.0,idk.
-20,Sody,is your bedroom ceiling bored? (feat. Cavetown),is your bedroom ceiling bored? (feat. Cavetown),3ehrCQoouv7NW8LRgcMvRF,0.616,0.45,6,-9.832,1,0.114,1.58e-06,0.0926,0.195,123.851,207510,4,60.0,idk.
-21,Shiloh Dynasty,Love Is the Same as Sadness,Dance with Me,55rn9bs7vZBsEK4Y4URraH,0.593,0.275,6,-15.25,0,0.0638,0.0115,0.108,0.363,114.82,87411,4,74.0,idk.
-22,Powfu,tell me your feelings and i won't tell you mine,snowflake (feat. Jaden & Sarcastic Sounds),7KW1AtQKFToSoF1kmyk2wE,0.419,0.408,9,-10.899,0,0.25,0.0,0.35,0.502,62.829,187500,4,69.0,idk.
-23,Lil Peep,Star Shopping,Star Shopping,30bqVoKjX479ab90a8Pafp,0.585,0.471,4,-9.934,0,0.0616,0.0184,0.115,0.323,93.099,142000,4,84.0,idk.
-24,bülow,Lost,Lost,3WPYHZy8f7KIS5fVTUmliT,0.71,0.258,3,-10.632,1,0.034,0.000323,0.0998,0.337,112.922,237876,4,53.0,idk.
-25,badly,I'm Okay Now,I'm Okay Now,6xcfvAdi2nPQVRJG8eSHzE,0.627,0.548,2,-7.372,1,0.047,2.93e-05,0.315,0.509,101.078,182970,4,55.0,idk.
-26,Sara Kays,Home for the Summer,Home for the Summer,6zHP0OCcZYtxumAqmRuIXk,0.682,0.531,4,-9.865,1,0.0466,0.000266,0.102,0.407,126.981,155272,4,0.0,idk.
-27,yaeow,far away from here,far away from here,7nnpU2iHbi2k23GNPJMKUM,0.663,0.237,10,-15.844,0,0.0506,0.304,0.0788,0.236,74.97,132800,4,0.0,idk.
-28,Powfu,stay4ever (feat. Mounika.),stay4ever (feat. Mounika.),2KX7ZC9JL8BAeFnCrcVRHE,0.387,0.375,3,-9.172,1,0.273,0.000154,0.109,0.418,73.045,140720,4,54.0,idk.
-29,Sky McCreery,Insane,Insane,3mLFCocZgUvih60frphM6l,0.806,0.405,6,-11.277,0,0.0727,0.0915,0.104,0.329,119.961,166390,4,49.0,idk.
-30,mehro,lightning,lightning,58mYapf9OjU4waibyphRhP,0.602,0.528,3,-7.709,0,0.0304,4.1e-06,0.129,0.322,149.951,188683,4,49.0,idk.
-31,Conan Gray,Sunset Season,Lookalike,4K3gM7kzX4POAfrs71HomN,0.434,0.302,10,-10.117,1,0.0378,7.63e-06,0.149,0.173,121.645,220867,4,71.0,idk.
-32,Jack Gray,Selfish,Selfish,3fTd1AN7VM33g7OElNPJGb,0.645,0.327,5,-11.015,1,0.0567,0.0,0.212,0.455,95.004,177899,4,48.0,idk.
-33,Sofia Mills,Coffee Breath,Coffee Breath,28TkNtKHx6UnOZuoyv3Jzv,0.866,0.211,11,-12.676,0,0.0404,0.0,0.0987,0.198,101.295,163902,4,73.0,idk.
-34,Powfu,some boring love stories pt 5,the fire in your eyes keeps me warm,076YCyUBs1GlrzAmOsZkFU,0.83,0.598,0,-6.312,1,0.0627,0.0,0.0897,0.415,122.974,193171,4,54.0,idk.
-35,Sody,is your bedroom ceiling bored? (feat. Rxseboy) [Fudasca Remix],is your bedroom ceiling bored? (feat. Rxseboy) - Fudasca Remix,3XwEo4mEovAVPd3cNUN4Dy,0.521,0.347,6,-12.716,1,0.164,0.0,0.091,0.198,123.996,191119,4,50.0,idk.
-36,yaeow,how to live,how to live,1DiOSZ8PpnmwgriDH0RNQd,0.611,0.311,0,-12.199,1,0.0382,0.00409,0.111,0.194,100.092,146400,4,56.0,idk.
-37,marinelli,OH GOD,OH GOD,5jRsnHqasY3MPLsZq76KiO,0.458,0.399,11,-6.656,0,0.183,0.0,0.124,0.607,131.794,132323,4,47.0,idk.
-38,Post Malone,Stoney (Deluxe),Feeling Whitney,35r28RDot7nPE7y9K9H7l0,0.412,0.227,0,-12.696,1,0.0359,4.69e-06,0.282,0.226,80.111,257267,4,77.0,idk.
-39,Tucker Rivera,West Coast City,West Coast City,5AmzmWV5W2cGE3pHesHMmS,0.607,0.199,10,-17.95,1,0.0644,0.000876,0.146,0.11,139.835,195429,4,51.0,idk.
-40,"nothing,nowhere.",Trauma Factory,upside down,4co218tAwJM5xQrczWhkZk,0.7,0.696,1,-6.513,1,0.0328,0.0379,0.1,0.336,124.002,187274,4,56.0,idk.
-41,Isaac Dunbar,isaac's insects,suicide,0AXgLaqOI5w3uLXh4YOsIJ,0.593,0.479,2,-9.31,1,0.0335,0.609,0.142,0.256,97.017,257000,4,57.0,idk.
-42,Thomas Reid,Forever Misunderstood,"Falling Asleep in Your Arms, Dreading the Sunrise",7m18m0pH4WEFqOeUKrxZkw,0.809,0.333,9,-10.743,1,0.0687,0.024,0.378,0.213,127.003,154959,4,51.0,idk.
-43,Josh Golden,Violets,Violets,25ndwd0OLtkQLkFBaS9RjT,0.572,0.631,9,-6.152,0,0.0701,0.0,0.451,0.546,95.09,115263,4,55.0,idk.
-44,Powfu,the way that you see me (feat. Ayleen Valentine),the way that you see me (feat. Ayleen Valentine),5O6QAX1oI4iktfXP8HAmgi,0.548,0.341,0,-11.667,0,0.397,0.0,0.121,0.34,71.573,182417,4,62.0,idk.
-45,yaeow,I Need U,I Need U,5lbdxt9C6rsELTimTkyMn8,0.402,0.405,9,-12.486,1,0.0713,0.0167,0.155,0.072,84.873,142588,4,0.0,idk.
-46,Sista Prod,"Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)","Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)",4V7xZ1AiCLwFbNMNc4Gj1f,0.702,0.616,6,-4.903,1,0.326,0.0,0.145,0.507,80.482,156188,4,0.0,idk.
-47,beabadoobee,Patched Up,Tired,6F5mZpEEjhsAW8UEqbIpz1,0.63,0.418,7,-7.111,0,0.0254,0.15,0.111,0.345,140.037,199515,4,73.0,idk.
-48,Snøw,summer nights,summer nights,1YUWrIxYwmcrp30xtA9ZQ8,0.504,0.518,6,-7.62,1,0.0374,0.0,0.396,0.346,145.093,172138,4,0.0,idk.
-49,Thomas Reid,Are You Okay?,Are You Okay?,2U8tH2LXMh5EQvI6oBhSHJ,0.798,0.613,6,-9.037,1,0.204,0.0,0.762,0.229,97.013,220396,4,63.0,idk.
-50,brakence,fuckboy,fuckboy,7bHPn0RHLGSuR4PWiLsMiR,0.726,0.61,8,-7.784,0,0.246,0.0,0.144,0.799,146.882,157903,4,48.0,idk.
-51,Gracie Abrams,minor,"I miss you, I’m sorry",4nyF5lmSziBAt7ESAUjpbx,0.445,0.455,7,-6.405,1,0.0575,1.47e-06,0.124,0.151,109.885,167538,5,73.0,idk.
-52,yaeow,One More Time,One More Time,6SOjqqblrBD2PprPuav43M,0.623,0.242,10,-15.055,1,0.0698,0.000745,0.208,0.191,129.907,151385,4,53.0,idk.
-53,Tate McRae,you broke me first,you broke me first,45bE4HXI0AwGZXfZtMp8JR,0.667,0.373,4,-9.389,1,0.05,0.0,0.0906,0.0823,124.148,169266,4,86.0,idk.
-54,Troye Sivan,could cry just thinkin about you (Full Version),could cry just thinkin about you,3H7oAhHxkEkSf9iomv2mbG,0.515,0.323,6,-11.05,1,0.0429,0.0,0.106,0.188,147.972,158001,4,68.0,idk.
-55,Olivia Rodrigo,SOUR,hope ur ok,1zejeOnykpCoyVSit6Bwp3,0.443,0.298,0,-12.181,1,0.0644,1e-05,0.103,0.172,77.253,209560,4,78.0,idk.
-56,Yaiko Kaori,Maybe i'm alone,Maybe i'm alone,1uwl2FmnR4ux7sMkxDJ4xH,0.5,0.322,6,-15.58,0,0.361,0.555,0.648,0.263,158.708,141000,4,0.0,idk.
-57,yaeow,To Make It Right,To Make It Right,5e6fMSlENiMCn2yjxLHaw8,0.523,0.325,2,-14.126,1,0.0707,0.00444,0.0992,0.0794,149.488,118400,4,0.0,idk.
-58,benny blanco,FRIENDS KEEP SECRETS 2,Care (with Omar Apollo),296wnQ0NPmj0hwpdhICSRy,0.618,0.215,2,-12.8,1,0.04,0.00962,0.109,0.214,90.004,290466,4,47.0,idk.
-59,Tommy Lefroy,Shoot,Shoot,6UoWQZQch4z3T1sLcvglrM,0.361,0.172,7,-15.245,1,0.0356,0.168,0.132,0.15,177.118,157801,3,52.0,idk.
-60,Ritt Momney,Not Around,Not Around,1y1RZ1WceXGSr0X7Q6mG0M,0.372,0.43,7,-6.008,0,0.0298,0.000687,0.321,0.555,99.419,160200,3,49.0,idk.
-61,Ryan Woods,how i'm feeling,how i'm feeling,0Bo3X0RlboVKipzxpzwXfo,0.379,0.314,6,-9.05,1,0.0499,2.16e-06,0.127,0.165,134.032,171000,3,50.0,idk.
-62,Julia Alexa,everything i couldn't be,everything i couldn't be,0Fzt24jmCa6G0ED7pW3IM1,0.674,0.266,10,-15.74,0,0.0492,0.000669,0.108,0.194,120.046,130052,4,58.0,idk.
-63,Era,Tell Me,Tell Me,0WUEI3wb6ei1gRvCJChfxA,0.496,0.258,3,-10.709,1,0.0465,7.2e-05,0.323,0.24,117.654,229158,3,50.0,idk.
-64,creamy,Sweater Weather,Sweater Weather,6QOv3k9RU5QA8L4obUvozE,0.686,0.187,4,-17.733,0,0.0538,0.0,0.399,0.294,99.977,201600,4,47.0,idk.
-65,yaeow,Worn Out Heart,Do You Ever Think of Me?,3UsCeel9NuKKmpls5B4osK,0.771,0.253,1,-13.368,1,0.182,0.0,0.0627,0.662,129.944,125538,4,55.0,idk.
-66,Matt Maltese,As the World Caves In,As the World Caves In,4JE6agBLHGA5TaF6FlqfBD,0.331,0.45,10,-5.362,1,0.034,0.00464,0.22,0.18,123.829,218755,4,77.0,idk.
-67,renforshort,afterthoughts,afterthoughts,2UmyGp3esNouKw42vwG6b8,0.51,0.229,6,-11.394,1,0.0352,3.03e-05,0.118,0.107,93.309,175321,4,0.0,idk.
-68,Adam Youngman,Losing My Mind,Losing My Mind,01HyL2jwTXEt1FGwfccAhh,0.71,0.371,8,-11.315,1,0.112,0.659,0.404,0.269,147.976,175138,4,38.0,idk.
-69,SadBoyProlific,Dead and Cold,Dead and Cold,1A43TfohQt3H6K5zg28ExD,0.793,0.441,2,-10.297,0,0.579,0.0,0.111,0.753,74.746,89652,4,70.0,idk.
-70,sadeyes,don't cry,don't cry,2tB9EXMGGzvRdxxwyzIJCC,0.789,0.685,9,-10.596,1,0.914,0.0,0.0843,0.533,160.04,138008,4,59.0,idk.
-71,Olivia Rodrigo,SOUR,"1 step forward, 3 steps back",4wcBRRpIfesgcyUtis7PEg,0.473,0.203,2,-12.627,1,0.102,0.0,0.126,0.419,168.884,163587,4,80.0,idk.
-72,Verzache,The Loser,The Loser,0yTGQpPOgcsS8Xqp5bQO58,0.748,0.297,1,-10.613,1,0.132,0.27,0.138,0.114,123.983,131587,4,74.0,idk.
-73,Jess Benko,"Do You Love Me, or Are You Just Lonely?",A Soulmate Who Wasn’t Meant to Be,0gOz9JUXsaKVzLTSmFDtdo,0.571,0.0274,9,-20.274,0,0.0649,6.43e-06,0.322,0.087,124.209,316556,3,72.0,idk.
-74,Roiael,Looking at the Sky With You,Looking at the Sky With You,5AZVD9IcEuNG2Enr4ReoTG,0.641,0.619,8,-7.271,1,0.0738,0.0438,0.106,0.354,147.919,142703,4,0.0,idk.
-75,DBMK,Jump in The Dark,City,5TK9UrM3qEiBQ3il3SJNVq,0.437,0.243,7,-10.577,1,0.0281,1.62e-06,0.112,0.142,144.164,166542,4,47.0,idk.
-76,Lontalius,Someone Will Be There For You,I Walked Right Into It,5maC2QGPrm1E4WYMwwpDj7,0.413,0.258,9,-11.946,1,0.0286,0.0345,0.0969,0.24,131.371,298312,4,37.0,idk.
-77,Dylan Fraser,Losing Sleep,Losing Sleep,6NBP6H1F1L5THU7DFoCNgU,0.636,0.563,9,-5.809,1,0.0302,0.000244,0.115,0.539,144.924,222885,4,42.0,idk.
-78,Jack Kays,MY HEAD :(,MY HEAD :(,13Qe9Ad3zLm58cIb9n4YtG,0.942,0.439,0,-8.519,1,0.0864,0.0,0.107,0.231,125.018,92160,4,53.0,idk.
-79,Sky McCreery,If You Leave,If You Leave,6vOasXD4uE6zEPgcXD86Tq,0.562,0.0832,6,-14.119,0,0.0688,0.000341,0.241,0.0624,134.462,160007,3,0.0,idk.
-80,Rnla,Try to Be Better (Again),Try to Be Better (Again),6uPSExSu4Xt7HrtJRR1a2P,0.619,0.358,11,-12.621,1,0.0465,0.642,0.101,0.129,126.119,140982,4,54.0,idk.
-81,MASN,Hate Me!,Hate Me!,6GyNzLfyPlqOanu8S31vaH,0.684,0.622,6,-6.523,1,0.117,0.0,0.107,0.335,142.05,154739,4,0.0,idk.
-82,Snøw,You Don't Want Me Anymore,You Don't Want Me Anymore,0K4gxQ2u3545b0GAu85ObO,0.685,0.23,0,-12.525,0,0.0388,0.000971,0.101,0.0417,96.085,165000,4,70.0,idk.
-83,Powfu,Laying on my porch while we watch the world end.,Laying on my porch while we watch the world end.,1TYF5FyxFXC6bM2VOuNWhV,0.664,0.399,6,-11.661,1,0.0743,0.0,0.116,0.424,133.904,200602,4,62.0,idk.
-84,Kayou.,I Can't Hate You,I Can't Hate You,21NeQgKhabORuZ3pfsPfz5,0.687,0.436,10,-9.441,0,0.106,0.000195,0.0925,0.202,140.021,178481,4,60.0,idk.
-85,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",i love you,6CcJMwBtXByIz4zQLzFkKc,0.421,0.131,0,-18.435,1,0.0382,0.00453,0.109,0.12,137.446,291796,4,80.0,idk.
-86,SadBoyProlific,Alone,Alone,6tAqYm2Wcy2yrPixShJMS6,0.87,0.341,9,-14.15,1,0.439,0.0027,0.329,0.436,119.054,160105,4,65.0,idk.
-87,EKKSTACY,in love,in love,0jcDwzxkfzdRHLiVHiRQII,0.323,0.162,1,-12.661,1,0.0348,0.000963,0.104,0.143,67.408,152933,3,55.0,idk.
-88,Cavetown,This Is Home,This Is Home,2TI2fw9FWPeah6N4k1b4NU,0.81,0.266,7,-12.478,1,0.0407,1.05e-06,0.0962,0.212,130.041,226073,4,0.0,idk.
-89,Rnla,Free With You,Free With You,37KYM3zuGyozpEwDuO2OVw,0.708,0.356,3,-11.53,1,0.0501,0.0607,0.125,0.132,80.036,168038,4,58.0,idk.
-90,BROCKHAMPTON,GINGER,SUGAR,6U0FIYXCQ3TGrk4tFpLrEA,0.453,0.538,1,-8.212,1,0.0638,0.0,0.19,0.516,122.973,204533,4,76.0,idk.
-91,Kina,Tell Me About You (feat. Mishaal),Tell Me About You (feat. Mishaal),1haZCYSR61JHOAivPNOuQH,0.38,0.292,0,-14.282,1,0.054,0.0262,0.126,0.0777,75.572,194400,3,59.0,idk.
-92,Powfu,when the hospital was my home (feat. Rxseboy),when the hospital was my home (feat. Rxseboy),5qwfWcdl8h0EhhSVTTH8gN,0.741,0.553,2,-9.026,1,0.239,0.0,0.133,0.738,74.962,153600,4,51.0,idk.
-93,Teqkoi,You Broke My Heart Again,You Broke My Heart Again,3jZDWsoxRHzzp3DYV8qeXE,0.55,0.143,3,-15.685,1,0.241,0.0,0.195,0.224,74.918,103400,4,72.0,idk.
-94,yaeow,Lost In Between,Lost In Between,0rQV8yyM0fjQmZjlJnIR7Y,0.628,0.329,9,-13.577,1,0.104,0.0855,0.256,0.407,79.976,124500,4,56.0,idk.
-95,Scruffpuppie,Never Coming Home,Never Coming Home,417NzypnPVicWbske0doX7,0.431,0.46,6,-7.013,1,0.028,1.98e-06,0.125,0.159,81.889,240000,4,0.0,idk.
-96,Cavetown,Ur Gonna Wish U Believed Me,Ur Gonna Wish U Believed Me,3f9Xt5Bcu1QooplxlTPEtb,0.568,0.453,4,-7.453,1,0.0258,0.0224,0.135,0.224,134.996,271420,4,55.0,idk.
-97,the bootleg boy,i still think of you,i still think of you,7BrbGr8S8rjrnlGLqtfFwA,0.575,0.193,2,-15.494,1,0.179,0.0443,0.156,0.308,118.589,125052,4,55.0,idk.
-98,347aidan,Demons and Monsters,Demons and Monsters,6pgSQuEY2hJhRkC4YpZfJQ,0.786,0.319,9,-11.699,0,0.0718,1.07e-06,0.265,0.392,80.996,197882,4,0.0,idk.
-99,Deb Never,Sorry,Sorry,7ufvTDIjfqAhYZLXUX0lrF,0.828,0.325,0,-8.805,1,0.0675,1.65e-06,0.354,0.131,130.066,180270,4,46.0,idk.
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,acousticness,popularity,playlist_name,duration_s
+0,Rex Orange County,Pony,It's Not The Same Anymore,7vRia9rlEuTDQxkfXIKySi,0.666,0.317,5,-10.644,1,0.0327,3.74e-05,0.111,0.359,117.676,386200,4,0.873,71.0,idk.,386.2
+1,Sarcastic Sounds,change ur mind,change ur mind,58Mh6zmqSo9IvysPAXnG0h,0.627,0.575,4,-7.38,1,0.232,0.0,0.336,0.494,78.546,183451,4,0.78,63.0,idk.,183.451
+2,EKKSTACY,i walk this earth all by myself,i walk this earth all by myself,5a8QUc4ubHJqQm7vzs2YhA,0.595,0.588,10,-11.313,1,0.0624,0.781,0.113,0.518,166.061,145634,4,0.507,67.0,idk.,145.634
+3,brakence,argyle,argyle,5PlTDE2RLbcC9vBzbGAG4y,0.669,0.444,8,-8.021,0,0.0453,0.0,0.349,0.586,139.031,165333,4,0.412,64.0,idk.,165.333
+4,Alexander 23,IDK You Yet,IDK You Yet,47EWMOElkkbMp5m9SBkx7d,0.629,0.306,1,-11.735,1,0.0424,0.0776,0.124,0.191,76.994,184638,1,0.884,4.0,idk.,184.638
+5,Billie Eilish,Bored,Bored,04sN26COy28wTXYj3dMoiZ,0.614,0.318,7,-12.695,1,0.0478,0.00239,0.0795,0.112,119.959,180933,4,0.896,88.0,idk.,180.933
+6,Field Medic,song i made up to stop myself from having a panic attack just now,song i made up to stop myself from having a panic attack just now (ft. rich),2oe9nMUPInGrfKu6fdZjH9,0.574,0.0523,3,-15.428,1,0.428,0.0,0.167,0.249,119.927,41125,5,0.903,29.0,idk.,41.125
+7,Foster,fools (can't help falling in love) (feat. Sody),fools (can't help falling in love) (feat. Sody),4VEEDnEFLI9dUy5QA51rom,0.706,0.604,2,-6.932,1,0.303,0.0,0.242,0.361,82.03,165029,4,0.418,72.0,idk.,165.029
+8,carolesdaughter,Violent,Violent,7CFfqRW50ffULvBv7lfIIg,0.797,0.755,2,-5.393,1,0.0293,2.26e-06,0.124,0.411,129.955,135878,4,0.331,75.0,idk.,135.878
+9,Joji,Yeah Right,Yeah Right,2815rSBccLxZc67jEWBEvD,0.672,0.59,1,-9.574,1,0.129,0.236,0.0991,0.21,169.036,174358,4,0.624,0.0,idk.,174.358
+10,gigi,Sometimes (Backwood),Sometimes (Backwood),5ysFFsqJFcsX8Rez67j2tv,0.41,0.174,3,-11.405,1,0.0328,0.00197,0.114,0.0694,105.292,153000,4,0.767,73.0,idk.,153.0
+11,Ryan Woods,how i'm feeling,how i'm feeling,0Bo3X0RlboVKipzxpzwXfo,0.379,0.314,6,-9.05,1,0.0499,2.16e-06,0.127,0.165,134.032,171000,3,0.622,50.0,idk.,171.0
+12,Sody,is your bedroom ceiling bored? (feat. Cavetown),is your bedroom ceiling bored? (feat. Cavetown),3ehrCQoouv7NW8LRgcMvRF,0.616,0.45,6,-9.832,1,0.114,1.58e-06,0.0926,0.195,123.851,207510,4,0.529,60.0,idk.,207.51
+13,brakence,rosier,rosier,6ZUiIY6JQtDkrJggZ1OSQ7,0.572,0.257,11,-13.572,0,0.346,0.0,0.428,0.544,114.673,222493,4,0.65,50.0,idk.,222.493
+14,badly,I'm Okay Now,I'm Okay Now,6xcfvAdi2nPQVRJG8eSHzE,0.627,0.548,2,-7.372,1,0.047,2.93e-05,0.315,0.509,101.078,182970,4,0.297,55.0,idk.,182.97
+15,Christian Leave,Hope,Please Notice,36seMHoyXmLUNxcwzwjdF7,0.55,0.271,2,-8.451,1,0.0297,3.21e-06,0.107,0.198,111.344,116667,4,0.843,75.0,idk.,116.667
+16,Ber,Meant To Be,Meant To Be,136J2Jkg8sG7P5wilO9P1R,0.5,0.156,1,-11.472,1,0.0469,0.0,0.125,0.405,173.794,163227,4,0.87,70.0,idk.,163.227
+17,BERWYN,TAPE 2/FOMALHAUT,ANSWERS,6bm9OoERWQ8zfnIcN0pykg,0.539,0.396,10,-8.789,0,0.15,0.000267,0.127,0.659,99.349,245536,4,0.709,49.0,idk.,245.536
+18,Powfu,tell me your feelings and i won't tell you mine,snowflake (feat. Jaden & Sarcastic Sounds),7KW1AtQKFToSoF1kmyk2wE,0.419,0.408,9,-10.899,0,0.25,0.0,0.35,0.502,62.829,187500,4,0.95,69.0,idk.,187.5
+19,Conan Gray,Kid Krow,Heather,4xqrdfXkTW4T0RauPLv3WA,0.357,0.425,5,-7.301,1,0.0333,0.0,0.322,0.27,102.078,198040,3,0.584,87.0,idk.,198.04
+20,Gracie Abrams,minor,minor,1G9YZPtxUGfl1yVw7kq4yc,0.705,0.281,2,-7.991,1,0.0863,0.0,0.117,0.211,84.882,160507,4,0.856,57.0,idk.,160.507
+21,Shiloh Dynasty,Love Is the Same as Sadness,Dance with Me,55rn9bs7vZBsEK4Y4URraH,0.593,0.275,6,-15.25,0,0.0638,0.0115,0.108,0.363,114.82,87411,4,0.816,74.0,idk.,87.411
+22,Lil Peep,Star Shopping,Star Shopping,30bqVoKjX479ab90a8Pafp,0.585,0.471,4,-9.934,0,0.0616,0.0184,0.115,0.323,93.099,142000,4,0.0967,84.0,idk.,142.0
+23,X Lovers,Haunt You (feat. chloe moriondo),Haunt You (feat. chloe moriondo),3vgf7gtRKDFNqFRJm7nA0m,0.566,0.532,3,-7.641,1,0.0374,0.0,0.54,0.497,100.778,167037,4,0.549,50.0,idk.,167.037
+24,Rex Orange County,Pony,Pluto Projector,4EWBhKf1fOFnyMtUzACXEc,0.379,0.219,5,-11.196,1,0.0307,0.000691,0.118,0.188,79.786,267520,4,0.707,79.0,idk.,267.52
+25,Powfu,some boring love stories pt 5,the fire in your eyes keeps me warm,076YCyUBs1GlrzAmOsZkFU,0.83,0.598,0,-6.312,1,0.0627,0.0,0.0897,0.415,122.974,193171,4,0.821,54.0,idk.,193.171
+26,Sky McCreery,Insane,Insane,3mLFCocZgUvih60frphM6l,0.806,0.405,6,-11.277,0,0.0727,0.0915,0.104,0.329,119.961,166390,4,0.508,49.0,idk.,166.39
+27,Sofia Mills,Coffee Breath,Coffee Breath,28TkNtKHx6UnOZuoyv3Jzv,0.866,0.211,11,-12.676,0,0.0404,0.0,0.0987,0.198,101.295,163902,4,0.974,73.0,idk.,163.902
+28,Josh Golden,Violets,Violets,25ndwd0OLtkQLkFBaS9RjT,0.572,0.631,9,-6.152,0,0.0701,0.0,0.451,0.546,95.09,115263,4,0.638,56.0,idk.,115.263
+29,keshi,drunk,drunk,3KkVd7Xg0jCAZSOatzQ6Td,0.716,0.388,4,-8.433,1,0.0348,0.0,0.0929,0.306,105.086,226772,4,0.744,0.0,idk.,226.772
+30,Powfu,the way that you see me (feat. Ayleen Valentine),the way that you see me (feat. Ayleen Valentine),5O6QAX1oI4iktfXP8HAmgi,0.548,0.341,0,-11.667,0,0.397,0.0,0.121,0.34,71.573,182417,4,0.708,62.0,idk.,182.417
+31,Tucker Rivera,West Coast City,West Coast City,5AmzmWV5W2cGE3pHesHMmS,0.607,0.199,10,-17.95,1,0.0644,0.000876,0.146,0.11,139.835,195429,4,0.902,51.0,idk.,195.429
+32,Sara Kays,Home for the Summer,Home for the Summer,6zHP0OCcZYtxumAqmRuIXk,0.682,0.531,4,-9.865,1,0.0466,0.000266,0.102,0.407,126.981,155272,4,0.785,0.0,idk.,155.272
+33,Thomas Reid,Forever Misunderstood,"Falling Asleep in Your Arms, Dreading the Sunrise",7m18m0pH4WEFqOeUKrxZkw,0.809,0.333,9,-10.743,1,0.0687,0.024,0.378,0.213,127.003,154959,4,0.434,51.0,idk.,154.959
+34,DBMK,Jump in The Dark,City,5TK9UrM3qEiBQ3il3SJNVq,0.437,0.243,7,-10.577,1,0.0281,1.62e-06,0.112,0.142,144.164,166542,4,0.851,48.0,idk.,166.542
+35,mehro,lightning,lightning,58mYapf9OjU4waibyphRhP,0.602,0.528,3,-7.709,0,0.0304,4.1e-06,0.129,0.322,149.951,188683,4,0.849,49.0,idk.,188.683
+36,Sody,is your bedroom ceiling bored? (feat. Rxseboy) [Fudasca Remix],is your bedroom ceiling bored? (feat. Rxseboy) - Fudasca Remix,3XwEo4mEovAVPd3cNUN4Dy,0.521,0.347,6,-12.716,1,0.164,0.0,0.091,0.198,123.996,191119,4,0.463,50.0,idk.,191.119
+37,Roiael,Looking at the Sky With You,Looking at the Sky With You,5AZVD9IcEuNG2Enr4ReoTG,0.641,0.619,8,-7.271,1,0.0738,0.0438,0.106,0.354,147.919,142703,4,0.65,0.0,idk.,142.703
+38,bülow,Lost,Lost,3WPYHZy8f7KIS5fVTUmliT,0.71,0.258,3,-10.632,1,0.034,0.000323,0.0998,0.337,112.922,237876,4,0.84,53.0,idk.,237.876
+39,yaeow,I Need U,I Need U,5lbdxt9C6rsELTimTkyMn8,0.402,0.405,9,-12.486,1,0.0713,0.0167,0.155,0.072,84.873,142588,4,0.513,0.0,idk.,142.588
+40,Era,Tell Me,Tell Me,0WUEI3wb6ei1gRvCJChfxA,0.496,0.258,3,-10.709,1,0.0465,7.2e-05,0.323,0.24,117.654,229158,3,0.878,50.0,idk.,229.158
+41,Sista Prod,"Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)","Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)",4V7xZ1AiCLwFbNMNc4Gj1f,0.702,0.616,6,-4.903,1,0.326,0.0,0.145,0.507,80.482,156188,4,0.686,0.0,idk.,156.188
+42,Conan Gray,Sunset Season,Lookalike,4K3gM7kzX4POAfrs71HomN,0.434,0.302,10,-10.117,1,0.0378,7.63e-06,0.149,0.173,121.645,220867,4,0.766,71.0,idk.,220.867
+43,Snøw,summer nights,summer nights,1YUWrIxYwmcrp30xtA9ZQ8,0.504,0.518,6,-7.62,1,0.0374,0.0,0.396,0.346,145.093,172138,4,0.236,0.0,idk.,172.138
+44,Angus Maude,Orange Hoodie,Orange Hoodie,7zznnb4017w7BwU5tMiBi9,0.721,0.149,3,-9.041,1,0.041,0.0,0.0977,0.306,109.794,179427,4,0.848,40.0,idk.,179.427
+45,benny blanco,FRIENDS KEEP SECRETS 2,Care (with Omar Apollo),296wnQ0NPmj0hwpdhICSRy,0.618,0.215,2,-12.8,1,0.04,0.00962,0.109,0.214,90.004,290466,4,0.759,47.0,idk.,290.466
+46,yaeow,Worn Out Heart,Do You Ever Think of Me?,3UsCeel9NuKKmpls5B4osK,0.771,0.253,1,-13.368,1,0.182,0.0,0.0627,0.662,129.944,125538,4,0.7,55.0,idk.,125.538
+47,Powfu,stay4ever (feat. Mounika.),stay4ever (feat. Mounika.),2KX7ZC9JL8BAeFnCrcVRHE,0.387,0.375,3,-9.172,1,0.273,0.000154,0.109,0.418,73.045,140720,4,0.822,54.0,idk.,140.72
+48,Julia Alexa,everything i couldn't be,everything i couldn't be,0Fzt24jmCa6G0ED7pW3IM1,0.674,0.266,10,-15.74,0,0.0492,0.000669,0.108,0.194,120.046,130052,4,0.928,59.0,idk.,130.052
+49,Tommy Lefroy,Shoot,Shoot,6UoWQZQch4z3T1sLcvglrM,0.361,0.172,7,-15.245,1,0.0356,0.168,0.132,0.15,177.118,157801,3,0.874,52.0,idk.,157.801
+50,"nothing,nowhere.",Trauma Factory,upside down,4co218tAwJM5xQrczWhkZk,0.7,0.696,1,-6.513,1,0.0328,0.0379,0.1,0.336,124.002,187274,4,0.16,56.0,idk.,187.274
+51,Thomas Reid,Are You Okay?,Are You Okay?,2U8tH2LXMh5EQvI6oBhSHJ,0.798,0.613,6,-9.037,1,0.204,0.0,0.762,0.229,97.013,220396,4,0.363,63.0,idk.,220.396
+52,Post Malone,Stoney (Deluxe),Feeling Whitney,35r28RDot7nPE7y9K9H7l0,0.412,0.227,0,-12.696,1,0.0359,4.69e-06,0.282,0.226,80.111,257267,4,0.787,77.0,idk.,257.267
+53,Alann8h,Burger King Bathroom,Burger King Bathroom,4eGwQiJNa2zboopOEOvXjf,0.511,0.234,6,-11.048,1,0.0375,0.0,0.078,0.463,79.186,148663,4,0.835,38.0,idk.,148.663
+54,marinelli,OH GOD,OH GOD,5jRsnHqasY3MPLsZq76KiO,0.458,0.399,11,-6.656,0,0.183,0.0,0.124,0.607,131.794,132323,4,0.633,47.0,idk.,132.323
+55,yaeow,how to live,how to live,1DiOSZ8PpnmwgriDH0RNQd,0.611,0.311,0,-12.199,1,0.0382,0.00409,0.111,0.194,100.092,146400,4,0.904,56.0,idk.,146.4
+56,Yaiko Kaori,Maybe i'm alone,Maybe i'm alone,1uwl2FmnR4ux7sMkxDJ4xH,0.5,0.322,6,-15.58,0,0.361,0.555,0.648,0.263,158.708,141000,4,0.764,0.0,idk.,141.0
+57,Isaac Dunbar,isaac's insects,suicide,0AXgLaqOI5w3uLXh4YOsIJ,0.593,0.479,2,-9.31,1,0.0335,0.609,0.142,0.256,97.017,257000,4,0.769,57.0,idk.,257.0
+58,diveliner,basketball,basketball,5EdmaSUzXzlOcCc44Jo206,0.388,0.449,1,-9.114,1,0.236,0.0,0.214,0.262,180.181,141333,4,0.668,50.0,idk.,141.333
+59,Forrest Nolan,Second Base,Second Base,0krnQme22s9WqbuUq940fg,0.562,0.257,6,-12.937,1,0.0965,0.0,0.218,0.285,81.322,157930,4,0.882,47.0,idk.,157.93
+60,Olivia Rodrigo,SOUR,hope ur ok,1zejeOnykpCoyVSit6Bwp3,0.443,0.298,0,-12.181,1,0.0644,1e-05,0.103,0.172,77.253,209560,4,0.388,78.0,idk.,209.56
+61,Jess Benko,"Do You Love Me, or Are You Just Lonely?",A Soulmate Who Wasn’t Meant to Be,0gOz9JUXsaKVzLTSmFDtdo,0.571,0.0274,9,-20.274,0,0.0649,6.43e-06,0.322,0.087,124.209,316556,3,0.948,72.0,idk.,316.556
+62,brakence,fuckboy,fuckboy,7bHPn0RHLGSuR4PWiLsMiR,0.726,0.61,8,-7.784,0,0.246,0.0,0.144,0.799,146.882,157903,4,0.373,48.0,idk.,157.903
+63,Ritt Momney,Not Around,Not Around,1y1RZ1WceXGSr0X7Q6mG0M,0.372,0.43,7,-6.008,0,0.0298,0.000687,0.321,0.555,99.419,160200,3,0.859,49.0,idk.,160.2
+64,yaeow,far away from here,far away from here,7nnpU2iHbi2k23GNPJMKUM,0.663,0.237,10,-15.844,0,0.0506,0.304,0.0788,0.236,74.97,132800,4,0.892,0.0,idk.,132.8
+65,Cavetown,Ur Gonna Wish U Believed Me,Ur Gonna Wish U Believed Me,3f9Xt5Bcu1QooplxlTPEtb,0.568,0.453,4,-7.453,1,0.0258,0.0224,0.135,0.224,134.996,271420,4,0.626,55.0,idk.,271.42
+66,Jack Gray,Selfish,Selfish,3fTd1AN7VM33g7OElNPJGb,0.645,0.327,5,-11.015,1,0.0567,0.0,0.212,0.455,95.004,177899,4,0.951,48.0,idk.,177.899
+67,Lontalius,Someone Will Be There For You,I Walked Right Into It,5maC2QGPrm1E4WYMwwpDj7,0.413,0.258,9,-11.946,1,0.0286,0.0345,0.0969,0.24,131.371,298312,4,0.69,38.0,idk.,298.312
+68,sadeyes,don't cry,don't cry,2tB9EXMGGzvRdxxwyzIJCC,0.789,0.685,9,-10.596,1,0.914,0.0,0.0843,0.533,160.04,138008,4,0.635,60.0,idk.,138.008
+69,yaeow,To Make It Right,To Make It Right,5e6fMSlENiMCn2yjxLHaw8,0.523,0.325,2,-14.126,1,0.0707,0.00444,0.0992,0.0794,149.488,118400,4,0.537,0.0,idk.,118.4
+70,Olivia Rodrigo,SOUR,"1 step forward, 3 steps back",4wcBRRpIfesgcyUtis7PEg,0.473,0.203,2,-12.627,1,0.102,0.0,0.126,0.419,168.884,163587,4,0.941,80.0,idk.,163.587
+71,Sky McCreery,If You Leave,If You Leave,6vOasXD4uE6zEPgcXD86Tq,0.562,0.0832,6,-14.119,0,0.0688,0.000341,0.241,0.0624,134.462,160007,3,0.906,0.0,idk.,160.007
+72,SadBoyProlific,Dead and Cold,Dead and Cold,1A43TfohQt3H6K5zg28ExD,0.793,0.441,2,-10.297,0,0.579,0.0,0.111,0.753,74.746,89652,4,0.867,70.0,idk.,89.652
+73,Sally Boy,just friends now,just friends now,7s0rwBRkSicawdu4SV0X3v,0.801,0.221,11,-11.015,0,0.0555,0.0,0.166,0.594,139.911,98639,4,0.796,38.0,idk.,98.639
+74,Aidan,all i want is you,all i want is you,6IBJR6RxxAc9wfJjDaYJoJ,0.628,0.42,3,-13.711,1,0.0301,0.00663,0.221,0.659,119.925,132021,4,0.736,48.0,idk.,132.021
+75,Leo Bhanji,Heathers,Heathers,182cdDTn18w690fru2aXvp,0.72,0.628,11,-7.126,0,0.195,0.000502,0.122,0.499,81.006,157668,4,0.866,36.0,idk.,157.668
+76,Tate McRae,you broke me first,you broke me first,45bE4HXI0AwGZXfZtMp8JR,0.667,0.373,4,-9.389,1,0.05,0.0,0.0906,0.0823,124.148,169266,4,0.785,87.0,idk.,169.266
+77,Dylan Fraser,Losing Sleep,Losing Sleep,6NBP6H1F1L5THU7DFoCNgU,0.636,0.563,9,-5.809,1,0.0302,0.000244,0.115,0.539,144.924,222885,4,0.587,42.0,idk.,222.885
+78,yaeow,I'm Just a Ghost,I'm Just a Ghost,1pVOzdVV02VudQS4VKHoUO,0.426,0.238,4,-19.704,1,0.113,0.608,0.357,0.249,109.78,181091,4,0.905,0.0,idk.,181.091
+79,Troye Sivan,could cry just thinkin about you (Full Version),could cry just thinkin about you,3H7oAhHxkEkSf9iomv2mbG,0.515,0.323,6,-11.05,1,0.0429,0.0,0.106,0.188,147.972,158001,4,0.318,68.0,idk.,158.001
+80,Jimi Somewhere,Nothing Gold Can Stay,"Tears, 2016",1BisD4JGmDWFPbSJz25j3V,0.217,0.219,1,-11.193,0,0.0318,0.000386,0.11,0.0577,92.085,304500,4,0.69,36.0,idk.,304.5
+81,Oliver Malcolm,Outside,Outside,0YCCXfwkqezFE8sjRoaKmi,0.754,0.388,6,-9.741,0,0.0787,0.0,0.504,0.638,76.798,138000,4,0.769,44.0,idk.,138.0
+82,Healy,Tungsten,Everything's Fine,1hQM22L8FSThJB5drLpfQs,0.676,0.402,1,-9.305,1,0.0459,0.425,0.235,0.335,121.909,232131,4,0.745,46.0,idk.,232.131
+83,Gracie Abrams,minor,"I miss you, I’m sorry",4nyF5lmSziBAt7ESAUjpbx,0.445,0.455,7,-6.405,1,0.0575,1.47e-06,0.124,0.151,109.885,167538,5,0.731,73.0,idk.,167.538
+84,yaeow,One More Time,One More Time,6SOjqqblrBD2PprPuav43M,0.623,0.242,10,-15.055,1,0.0698,0.000745,0.208,0.191,129.907,151385,4,0.877,53.0,idk.,151.385
+85,John MacLane,Leaves,Leaves,0PP2siOtzEjx8eACGM0QLf,0.813,0.357,7,-13.636,1,0.0917,0.886,0.142,0.616,80.972,151482,4,0.841,33.0,idk.,151.482
+86,Jack Kays,MY HEAD :(,MY HEAD :(,13Qe9Ad3zLm58cIb9n4YtG,0.942,0.439,0,-8.519,1,0.0864,0.0,0.107,0.231,125.018,92160,4,0.346,53.0,idk.,92.16
+87,Snøw,You Don't Want Me Anymore,You Don't Want Me Anymore,0K4gxQ2u3545b0GAu85ObO,0.685,0.23,0,-12.525,0,0.0388,0.000971,0.101,0.0417,96.085,165000,4,0.367,70.0,idk.,165.0
+88,the bootleg boy,i still think of you,i still think of you,7BrbGr8S8rjrnlGLqtfFwA,0.575,0.193,2,-15.494,1,0.179,0.0443,0.156,0.308,118.589,125052,4,0.951,55.0,idk.,125.052
+89,loyalties,Second Place,Second Place,5vO71tywH4g5RnxVcRWGLz,0.652,0.218,6,-16.49,0,0.0393,0.00139,0.109,0.22,127.794,128731,4,0.868,40.0,idk.,128.731
+90,EKKSTACY,in love,in love,0jcDwzxkfzdRHLiVHiRQII,0.323,0.162,1,-12.661,1,0.0348,0.000963,0.104,0.143,67.408,152933,3,0.925,55.0,idk.,152.933
+91,yaeow,Behind the Clouds,Behind the Clouds,6l8mSWXw3Jy7TvM0r8W6LR,0.579,0.109,3,-16.129,1,0.0379,0.0344,0.108,0.276,134.98,160000,4,0.938,52.0,idk.,160.0
+92,brakence,punk2,dropout,6BI0Na9AtisZ3PpkPqEeXk,0.752,0.273,1,-11.269,1,0.138,0.0,0.155,0.629,141.039,200923,4,0.445,0.0,idk.,200.923
+93,Verzache,The Loser,The Loser,0yTGQpPOgcsS8Xqp5bQO58,0.748,0.297,1,-10.613,1,0.132,0.27,0.138,0.114,123.983,131587,4,0.485,74.0,idk.,131.587
+94,Kamal.,lose,lose,74NGwGnDUHnsHWM54qAEqV,0.406,0.196,2,-13.202,1,0.0347,0.0,0.119,0.107,127.719,176367,4,0.689,44.0,idk.,176.367
+95,Ryan Woods,There’s No Insurance For a Broken Heart,There’s No Insurance For a Broken Heart,24vHN1HCkhlQ0t29PTmagg,0.676,0.469,9,-9.428,1,0.0604,0.0,0.15,0.312,128.079,203526,3,0.734,37.0,idk.,203.526
+96,tøm hughes,Did You?,Did You?,2AdOnjGkvA9w87SHnrlRGC,0.8,0.144,2,-17.291,1,0.0655,0.351,0.107,0.318,85.969,106764,4,0.904,43.0,idk.,106.764
+97,yaeow,Town I Called My Home,Town I Called My Home,0omwXDRLUssZ7fgl9vkL4m,0.554,0.295,0,-13.619,1,0.098,0.541,0.103,0.206,200.144,139200,4,0.816,0.0,idk.,139.2
+98,Matt Maltese,As the World Caves In,As the World Caves In,4JE6agBLHGA5TaF6FlqfBD,0.331,0.45,10,-5.362,1,0.034,0.00464,0.22,0.18,123.829,218755,4,0.365,77.0,idk.,218.755
+99,Rnla,Try to Be Better (Again),Try to Be Better (Again),6uPSExSu4Xt7HrtJRR1a2P,0.619,0.358,11,-12.621,1,0.0465,0.642,0.101,0.129,126.119,140982,4,0.956,54.0,idk.,140.982

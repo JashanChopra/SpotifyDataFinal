@@ -1,101 +1,101 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,popularity,playlist_name
-0,M.I.A.,Kala,Paper Planes,1kusepF3AacIEtUTYrw4GV,0.447,0.848,2,-6.175,1,0.222,7.45e-05,0.722,0.485,172.247,203760,4,47.0,Yellow
-1,Portugal. The Man,Evil Friends,Purple Yellow Red and Blue,4WMuY659P2MKnoW40oGXe8,0.601,0.859,4,-6.311,0,0.0397,0.331,0.144,0.431,101.003,249747,4,57.0,Yellow
-2,Alex Wiley,Vibration (Extended Version),Vibration (Extended Version),3WYjyqO2AUQvcS6GJZMF39,0.599,0.817,1,-5.498,1,0.0779,0.0,0.115,0.494,136.32,242755,4,0.0,Yellow
-3,Eazy El Loco,Occasionally Loco,Rescue,0YuldR7QdfFM2ph13WRy5n,0.775,0.483,1,-13.021,1,0.0479,2.32e-06,0.126,0.446,136.008,197904,4,0.0,Yellow
-4,Alex Wiley,Village Party 2: Heaven's Gate,Navigator Truck,3SAxrWGQnLIuM7lI7dDKal,0.809,0.523,7,-6.335,0,0.206,0.0,0.277,0.827,133.921,203327,4,41.0,Yellow
-5,Kanye West,The Life Of Pablo,Facts (Charlie Heat Version),3MnbXlC1N7GdS9M8HzA6no,0.777,0.662,1,-3.761,0,0.143,0.0,0.168,0.4,142.059,200733,4,60.0,Yellow
-6,Foreign Air,Free Animal,Free Animal,5l8oNQsDDPNFUIV5M4lzRJ,0.579,0.584,5,-7.151,0,0.0438,0.0,0.0958,0.393,80.001,180400,4,0.0,Yellow
-7,Kendrick Lamar,To Pimp A Butterfly,Alright,3iVcZ5G6tvkXZkZKlMpIUs,0.796,0.766,7,-5.974,1,0.238,0.0,0.0827,0.558,110.034,219333,4,75.0,Yellow
-8,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",The Recipe (Black Hippy Remix) - Bonus Track,5UHjWOJA6MDl1g3x2HC68V,0.723,0.758,1,-7.303,0,0.148,0.0,0.357,0.628,131.051,262920,4,52.0,Yellow
-9,N.E.R.D,NO ONE EVER REALLY DIES,Kites,65UcBkHqJoIk33vfxqUzvm,0.571,0.725,1,-6.809,1,0.397,0.0,0.0856,0.687,200.03,290933,4,43.0,Yellow
-10,BROCKHAMPTON,SATURATION,GOLD,7HRv1sYuwgoea1m0JRvChV,0.808,0.647,11,-6.947,0,0.166,0.000466,0.205,0.29,110.036,266000,4,61.0,Yellow
-11,Tame Impala,Currents,The Less I Know The Better,6K4t31amVTZDgR3sKmwUJJ,0.64,0.74,4,-4.083,1,0.0284,0.00678,0.167,0.785,116.879,216320,4,84.0,Yellow
-12,Gorillaz,Demon Days,Feel Good Inc.,0d28khcov6AiegSCpG5TuT,0.818,0.705,6,-6.679,1,0.177,0.00233,0.613,0.772,138.559,222640,4,83.0,Yellow
-13,Mystic Braves,Desert Island,Bright Blue Day Haze,1RNybormZ5O0s3DCIRQWq4,0.309,0.909,7,-4.349,1,0.0759,0.0,0.146,0.427,134.422,252160,4,49.0,Yellow
-14,N.E.R.D,NO ONE EVER REALLY DIES,Don't Don't Do It!,2svutFGaCycRmYc1mWbfQh,0.799,0.871,2,-5.784,1,0.138,0.0,0.0688,0.811,77.013,257707,4,44.0,Yellow
-15,Lance Skiiiwalker,Introverted Intuition,Toaster (feat. ScHoolboy Q),4KcKi3vvugwztcL3AHJPky,0.584,0.666,11,-4.371,1,0.411,0.000137,0.146,0.656,172.859,108541,4,26.0,Yellow
-16,Childish Gambino,EP (2011 Re-Release),Freaks And Geeks,7xTY3rJMgj0nh6OOPHgsLw,0.667,0.873,10,-5.605,1,0.314,0.0,0.0725,0.799,81.052,217104,4,58.0,Yellow
-17,Kendrick Lamar,DAMN.,ELEMENT.,1EaKU4dMbesXXd3BrLCtYG,0.748,0.705,4,-4.547,0,0.485,0.0,0.246,0.483,189.891,208733,4,71.0,Yellow
-18,ScHoolboy Q,Blank Face LP,JoHn Muir,7sr74Bz3GBTNMQe1m4F5Ut,0.683,0.921,2,-4.833,1,0.227,1.46e-06,0.225,0.625,160.088,219027,4,56.0,Yellow
-19,Madvillain,Madvillainy,Meat Grinder,60PZUWKsJC52uXaPlPcEVf,0.571,0.717,6,-8.333,1,0.336,3.12e-06,0.797,0.881,87.54,131867,4,8.0,Yellow
-20,Madvillain,Madvillainy,America's Most Blunted,4BtGch9Jl7HIehy9dK9UzR,0.624,0.896,9,-7.915,1,0.47,0.0,0.969,0.652,95.97,234040,4,2.0,Yellow
-21,nite swim,Everybody's Someone in LA,Everybody's Someone in LA,0Bq786zqpKxYNeos7Tn5Kk,0.756,0.583,10,-10.627,0,0.0517,0.0265,0.159,0.549,89.962,160000,4,25.0,Yellow
-22,The Palms,Mulholland Dr.,Keep Me Young,4mzTYONCU6EtwO67KFTJV0,0.582,0.841,1,-4.643,0,0.035,0.0248,0.124,0.336,115.019,214595,4,22.0,Yellow
-23,Funkadelic,Standing On The Verge Of Getting It On,I'll Stay,0TkZzL5bCSXMbqkBvwgpFX,0.634,0.565,2,-8.733,1,0.0279,0.294,0.0938,0.616,142.379,258227,4,0.0,Yellow
-24,Jaden,SYRE,George Jeff,0grimyaxHH66oGelb2eHtM,0.723,0.57,4,-2.892,0,0.266,0.0,0.371,0.646,160.008,137617,4,50.0,Yellow
-25,Cage The Elephant,Cage The Elephant,Ain't No Rest for the Wicked,3kb72STxc2959ZqsTwu52i,0.634,0.849,0,-7.075,1,0.105,0.0,0.363,0.919,156.004,175493,4,0.0,Yellow
-26,Anderson .Paak,Malibu,Am I Wrong (feat. ScHoolboy Q),1UjyF6okUHhnVxaLV8ojsA,0.729,0.799,11,-7.378,0,0.0779,0.00218,0.0948,0.532,115.04,253520,4,58.0,Yellow
-27,Anderson .Paak,Malibu,Come Down,276zciJ7Fg7Jk6Ta6QuLkp,0.841,0.898,8,-7.135,1,0.104,0.0151,0.304,0.931,98.401,169727,4,66.0,Yellow
-28,Two Door Cinema Club,Beacon (Deluxe Version),Wake Up,4ObmBaVHilvAw9LDEq69bM,0.521,0.811,10,-4.413,0,0.038,0.523,0.715,0.682,134.949,225800,4,0.0,Yellow
-29,Two Door Cinema Club,Tourist History,What You Know,6jrMVRReY24qzCfe1BRrww,0.556,0.763,6,-3.952,0,0.0413,6.79e-06,0.071,0.814,138.986,191400,4,0.0,Yellow
-30,alt-J,In Cold Blood,In Cold Blood,6sIvAyM1AtnSGz3anRLcDo,0.495,0.745,11,-5.475,0,0.035,0.000441,0.194,0.589,143.398,206027,4,19.0,Yellow
-31,Danny Brown,Hot Soup,Dance,3MtH6dHcVRthHHkRvDBDGK,0.716,0.875,10,-5.763,0,0.272,4.1e-06,0.467,0.618,97.416,201487,4,33.0,Yellow
-32,Gyyps,Canoga Park EP,Canoga Park,1cMMa7Y8G1hb8JK6jD8iL9,0.928,0.545,1,-7.992,1,0.141,0.0,0.0872,0.317,97.979,161125,4,0.0,Yellow
-33,Froth,Patterns,Lost My Mind,2QSK81oPtjNIC1kOOR4VOw,0.389,0.54,7,-9.878,1,0.0266,0.0942,0.185,0.516,101.244,218593,4,0.0,Yellow
-34,Post Malone,Stoney (Deluxe),Congratulations,3a1lNhkSLSkpJE4MSHpDu9,0.63,0.804,6,-4.183,1,0.0363,0.0,0.253,0.492,123.146,220293,4,82.0,Yellow
-35,Captain Cuts,Cocaina,Cocaina,4dHh7DeKSg5zDhMOn7jnlw,0.812,0.836,4,-4.377,0,0.0567,0.0,0.16,0.841,120.016,208507,4,35.0,Yellow
-36,A$AP Rocky,Cocky (feat. London On Da Track),Cocky (feat. London On Da Track),1nO2NjuFkGaAWcMdJ1pNrp,0.797,0.633,5,-4.815,1,0.238,0.0,0.109,0.577,156.015,232413,4,55.0,Yellow
-37,Flatbush Zombies,Vacation In Hell,Crown (feat. Portugal. The Man),0kDHiwkrZutBHfjypFUzc2,0.715,0.574,11,-10.243,0,0.098,6.68e-05,0.128,0.345,137.579,297369,4,48.0,Yellow
-38,Thane,Topia,Garden,3cbLwW7CY14JNdXLmYaMJj,0.549,0.676,4,-7.583,0,0.042,0.886,0.338,0.211,106.846,194664,4,37.0,Yellow
-39,Kanye West,My Beautiful Dark Twisted Fantasy,POWER,2gZUPNdnz5Y45eiGxpHGSc,0.542,0.914,0,-4.747,0,0.113,0.0,0.744,0.576,153.993,292093,4,79.0,Yellow
-40,Alex Wiley,Club Wiley,"Spaceship II (feat. Chance The Rapper, GLC)",1b4K9bkZxI7f0dqKD20FmH,0.476,0.703,4,-6.261,0,0.174,0.0,0.579,0.288,89.736,217087,3,0.0,Yellow
-41,alt-J,This Is All Yours,Left Hand Free (Extended Version),3ctLY76Pygth1ggcsiEATo,0.697,0.877,3,-4.465,1,0.0462,0.00943,0.083,0.802,101.99,173627,4,0.0,Yellow
-42,Black Eyed Peas,STREET LIVIN',STREET LIVIN',6NjcOqkCcsbO65KhM5Af2K,0.693,0.73,4,-4.27,0,0.221,0.0,0.382,0.592,99.633,185413,4,43.0,Yellow
-43,The Black Keys,Brothers,Tighten Up,0MhwaBVJghoZsEzHbr0qjl,0.491,0.706,1,-6.207,0,0.0669,3.98e-06,0.496,0.573,108.927,211122,4,33.0,Yellow
-44,The Black Keys,Brothers,She's Long Gone,26ZnmGlPGXaOzPDydAP9D5,0.349,0.866,11,-6.676,0,0.112,0.0406,0.216,0.488,167.951,186000,4,49.0,Yellow
-45,Calvin Harris,Funk Wav Bounces Vol.1,"Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)",0Ws8D3EWUDgY962Xftb0h5,0.722,0.79,4,-4.867,0,0.241,0.0,0.0349,0.434,94.965,235973,4,54.0,Yellow
-46,Chance the Rapper,Coloring Book,All We Got (feat. Kanye West & Chicago Children's Choir),3ZLyt2ndLFBh148XRYjYYZ,0.531,0.544,0,-8.615,0,0.462,1.89e-06,0.0835,0.398,131.921,203794,4,59.0,Yellow
-47,Depeche Mode,Construction Time Again,Everything Counts,3HbA5x1laxQ2y3dvfFD22R,0.634,0.802,9,-6.214,0,0.0256,3.73e-06,0.144,0.658,113.623,239547,4,0.0,Yellow
-48,The Doors,The Doors,Break on Through (To the Other Side),6ToM0uwxtPKo9CMpbPGYvM,0.421,0.751,9,-9.584,1,0.0472,0.0,0.17,0.789,89.839,145867,4,72.0,Yellow
-49,Eagles,Hotel California (2013 Remaster),Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,0.579,0.508,2,-9.484,1,0.027,0.000494,0.0575,0.609,147.125,391376,4,83.0,Yellow
-50,Frank Ocean,Novacane,Novacane,4osgfFTICMkcGbbigdsa53,0.762,0.508,3,-9.112,1,0.0919,0.00126,0.16,0.37,93.51,302347,4,74.0,Yellow
-51,Holy Wave,Freaks of Nurture,Western Playland,7v4BPLK13UHPlTKgeot1c1,0.356,0.789,5,-6.687,1,0.0288,0.815,0.416,0.629,110.079,308969,4,33.0,Yellow
-52,Joey Bada$$,Devastated,Devastated,08X9m3tpcthgrItjPVAmCu,0.837,0.481,10,-8.522,0,0.0801,0.0,0.309,0.578,122.98,208398,4,0.0,Yellow
-53,A$AP Rocky,TESTING,Praise The Lord (Da Shine) (feat. Skepta),7ycWLEP1GsNjVvcjawXz3z,0.854,0.569,5,-8.151,0,0.106,0.0816,0.1,0.294,80.015,205040,4,82.0,Yellow
-54,Dispatch,Daft Alchemist,Daft Alchemist,0paOOMJ2a1DKRP3KQA1Jxm,0.487,0.689,0,-5.927,1,0.0311,0.00058,0.165,0.59,107.896,199560,4,0.0,Yellow
-55,BROCKHAMPTON,1999 WILDFIRE,1999 WILDFIRE,1t4pPnbkOjzoA5RvsDjvUU,0.811,0.57,5,-8.093,1,0.129,0.0,0.148,0.814,128.066,251250,4,62.0,Yellow
-56,Mac Miller,The Divine Feminine,Dang! (feat. Anderson .Paak),5iUQMwxUPdJBFeGkePtM66,0.836,0.67,5,-6.907,0,0.23,0.000355,0.0837,0.556,107.018,305350,4,73.0,Yellow
-57,Kendrick Lamar,Section.80,Rigamortus,2b3KgzISdjZVNPJJ1945nw,0.52,0.807,2,-6.281,1,0.409,0.00257,0.199,0.628,178.012,168591,4,0.0,Yellow
-58,The Rolling Stones,Let It Bleed,Gimme Shelter,1dv3ePjze9tPq2pk8eWJdR,0.63,0.616,1,-8.128,0,0.0309,0.0408,0.173,0.509,118.65,270773,4,0.0,Yellow
-59,The Rolling Stones,GRRR! (Deluxe Version),"Paint It, Black",1Kvjmr2oqZjzhryoEKzqij,0.471,0.75,1,-10.877,1,0.089,0.00221,0.323,0.61,159.038,203053,4,0.0,Yellow
-60,The Rolling Stones,GRRR! (Deluxe Version),Sympathy For The Devil,6yEUiL5pQomd6zow9YSxIk,0.565,0.672,9,-11.208,1,0.267,0.0,0.0419,0.578,114.376,377800,4,0.0,Yellow
-61,Tame Impala,InnerSpeaker (Collector's Edition),Sundown Syndrome,14VLdNJSXtMwiDpKGjvr9A,0.362,0.707,1,-4.784,0,0.0333,0.49,0.115,0.34,68.301,349334,4,0.0,Yellow
-62,Portugal. The Man,In the Mountain in the Cloud,All Your Light (Times Like These),3UOlYczxtt70Xj1VplXgj8,0.533,0.676,2,-6.469,1,0.065,0.000224,0.122,0.377,76.444,266093,4,46.0,Yellow
-63,Mystic Braves,Mystic Braves,Vicious Cycle,2qq1kNBscYrzgYhaAA094h,0.384,0.828,6,-6.616,0,0.0737,0.000577,0.32,0.688,116.325,291973,4,29.0,Yellow
-64,Kembe X,Kembe X,As I Unfold (feat. Ab Soul),0BtTvqcC6gmlRHZPkyPWhQ,0.735,0.719,7,-8.8,1,0.262,0.0,0.48,0.761,119.974,196001,4,20.0,Yellow
-65,Portugal. The Man,Evil Friends,Atomic Man,43QhrhgRrH9NWy6eoUro4X,0.63,0.736,10,-7.302,0,0.0384,0.00244,0.109,0.919,137.948,227253,4,50.0,Yellow
-66,Logic,YSIV,ICONIC (ft. Jaden Smith),1FmdAhS8FqRoEJ4jcSfuKZ,0.388,0.777,1,-5.55,1,0.241,0.0,0.288,0.192,175.933,298133,4,57.0,Yellow
-67,Anderson .Paak,Tints (feat. Kendrick Lamar),Tints (feat. Kendrick Lamar),1gnwGVoG7V08vMX3hyr90x,0.805,0.833,1,-6.73,0,0.12,0.0,0.0578,0.703,109.076,268400,4,54.0,Yellow
-68,Milky Chance,Blossom (Deluxe),Blossom,3vmE845FU7PdYh4tuoWUU2,0.75,0.676,4,-6.651,1,0.0281,3.15e-05,0.0749,0.851,119.99,254587,4,51.0,Yellow
-69,Tunji Ige,Missed Calls,Bring Yo Friends,54twSJr4f3abwuxtjiYIUv,0.583,0.808,11,-5.9,0,0.313,0.0,0.103,0.58,114.147,217368,5,42.0,Yellow
-70,Milky Chance,Blossom (Deluxe),Doing Good,4KAs4IcxluXDFGuV4XCEJa,0.71,0.73,9,-8.381,0,0.0481,0.105,0.098,0.729,98.015,250587,4,48.0,Yellow
-71,MGMT,Oracular Spectacular,Electric Feel,3FtYbEfBqAlGO46NUDQSAt,0.763,0.803,1,-3.713,1,0.0351,0.285,0.348,0.561,103.04,229640,3,78.0,Yellow
-72,"Tyler, The Creator",Flower Boy,"Enjoy Right Now, Today",3R1Vu4Ws7UitwDxDHTol0P,0.729,0.675,1,-6.008,1,0.187,0.847,0.0891,0.654,162.126,235400,4,58.0,Yellow
-73,Portugal. The Man,Woodstock,Feel It Still,6QgjcU0zLnzq5OrUoSZ3OK,0.801,0.795,1,-5.115,0,0.0504,0.000113,0.0717,0.754,79.028,163253,4,77.0,Yellow
-74,Milky Chance,Sadnecessary,Flashed Junk Mind,5mpLcXEsk3jjzLFGuNKk5I,0.839,0.84,11,-8.721,1,0.0474,0.0319,0.114,0.904,117.98,262000,4,63.0,Yellow
-75,Young the Giant,Home of the Strange,Silvertongue,0yTJtxZJ5VLfBEHhiNUNeY,0.673,0.789,0,-4.288,1,0.0408,0.0,0.752,0.841,100.043,197427,4,63.0,Yellow
-76,Anderson .Paak,Who R U?,Who R U?,6dmJzZNWQQEjdCVZPVUfLn,0.834,0.826,1,-7.429,0,0.157,0.0,0.0932,0.819,92.009,168520,4,34.0,Yellow
-77,Anderson .Paak,Oxnard,The Chase (feat. Kadhja Bonet),48Y9pNe30o273HGYKyMKj9,0.475,0.579,1,-9.061,1,0.165,0.000192,0.674,0.475,103.288,203573,4,43.0,Yellow
-78,Anderson .Paak,Oxnard,6 Summers,0lG7iyNSstVOLV6faMIHdD,0.649,0.587,5,-10.5,0,0.316,0.0,0.377,0.513,92.871,282987,4,51.0,Yellow
-79,Anderson .Paak,Oxnard,Smile/Petty (feat. Sonyae Elise),4mnetrP6ozVrc5lkM07WP3,0.557,0.671,2,-7.178,1,0.3,0.0,0.116,0.602,91.914,282947,4,43.0,Yellow
-80,Anderson .Paak,Oxnard,Cheers (feat. Q-Tip),4qNijbGeHqlcFWrGrATFOX,0.727,0.518,2,-7.825,1,0.396,0.0,0.0893,0.485,88.255,334733,4,53.0,Yellow
-81,Anderson .Paak,Oxnard,Left To Right,5sEKWiSjsWKsmV9IOvYKhD,0.829,0.913,1,-5.773,1,0.109,0.0,0.211,0.801,98.026,235400,4,40.0,Yellow
-82,Portugal. The Man,The Satanic Satanist,The Home,2UXHal3m81cCI9rlQ0IfnA,0.599,0.603,7,-6.47,0,0.0302,1.73e-06,0.185,0.446,80.025,176840,4,0.0,Yellow
-83,STRFKR,Miracle Mile,While I'm Alive,6wtcxwSJs82tpdeIoj93LF,0.706,0.69,9,-5.538,0,0.0308,0.465,0.281,0.81,100.002,230053,4,54.0,Yellow
-84,Milky Chance,Sadnecessary,Stolen Dance,6vECYJHxYmm3Ydt3fF01pE,0.885,0.581,11,-8.813,1,0.0378,0.000204,0.0759,0.728,114.016,313684,4,74.0,Yellow
-85,21 Savage,i am > i was,monster,2FUNBaa5DwItJtYEBgAblU,0.89,0.607,9,-6.916,0,0.124,0.000228,0.118,0.224,134.022,233040,4,63.0,Yellow
-86,The Growlers,Casual Acquaintances,Thing for Trouble,4s1vbFFUByS8QgK83ICYgQ,0.532,0.861,9,-4.893,0,0.0295,1.44e-06,0.167,0.834,119.938,187974,4,33.0,Yellow
-87,U.S. Girls,In a Poem Unlimited,Rage of Plastics,3iXCFenXZlNm5rZHdkaGCo,0.582,0.711,9,-4.982,0,0.0446,0.00132,0.222,0.63,135.322,267959,3,0.0,Yellow
-88,Daniele Luppi,Milano,Talisa,215ZoC6259dx2Wt0HVUU9g,0.351,0.921,7,-5.68,1,0.231,0.0,0.12,0.618,191.149,140426,4,29.0,Yellow
-89,Danger Mouse,Rome,Black (feat. Norah Jones),5H43dazn2x2O9dkDVvaiDS,0.454,0.638,5,-9.916,1,0.0292,0.398,0.102,0.748,170.388,211507,4,50.0,Yellow
-90,exmagician,Scan the Blue,Place Your Bets,14VQXTT2maxHcrdwQVB2J6,0.516,0.837,9,-5.534,1,0.03,0.42,0.373,0.697,151.008,244493,4,0.0,Yellow
-91,Dick Dale,Guitar Legend: The Very Best Of Dick Dale,Misirlou,1p791U7Bx5PmvCwucN4PQN,0.293,0.951,4,-5.846,1,0.0652,0.916,0.572,0.561,173.439,136093,4,44.0,Yellow
-92,Dick Dale and his Del-Tones,Greatest Hits 1961 - 1976,The Victor,1O3SDezDy0NcFggeJ7o4hn,0.498,0.692,0,-9.935,1,0.0299,0.66,0.144,0.798,147.633,197827,4,14.0,Yellow
-93,The Holydrug Couple,Forever End,Forever End,5Us84EGGXQU06uFj20NRPB,0.362,0.749,11,-6.083,0,0.0357,0.000382,0.102,0.459,149.941,240469,4,4.0,Yellow
-94,Foreign Air,The Therapist,The Therapist,00aEvruq9NQRUzYMn1rEPs,0.601,0.846,4,-4.1,0,0.0308,0.0,0.0746,0.369,92.127,181866,4,0.0,Yellow
-95,Portugal. The Man,Woodstock,Rich Friends,18admrko96XeSCmgD76wlM,0.607,0.881,8,-5.354,1,0.053,0.000344,0.285,0.34,94.994,221627,4,48.0,Yellow
-96,Tame Impala,Currents,Let It Happen,2X485T9Z5Ly0xyaghN73ed,0.602,0.881,1,-5.875,0,0.0443,0.0266,0.111,0.577,125.012,467587,4,75.0,Yellow
-97,MGMT,Oracular Spectacular,Kids,1jJci4qxiYcOHhQR247rEU,0.451,0.931,9,-3.871,1,0.0719,0.0049,0.361,0.172,122.961,302840,4,78.0,Yellow
-98,The Strokes,Is This It,Last Nite,3SUusuA9jH1v6PVwtYMbdv,0.624,0.899,0,-5.709,1,0.0296,0.000137,0.0975,0.79,104.061,193373,4,67.0,Yellow
-99,MGMT,Little Dark Age,Little Dark Age,7pWUwNDBL7J0eMAUi2gPb3,0.709,0.71,6,-6.192,1,0.0372,0.00107,0.166,0.612,97.5,299293,4,0.0,Yellow
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,acousticness,popularity,playlist_name,duration_s
+0,M.I.A.,Kala,Paper Planes,1kusepF3AacIEtUTYrw4GV,0.447,0.848,2,-6.175,1,0.222,7.45e-05,0.722,0.485,172.247,203760,4,0.033,47.0,Yellow,203.76
+1,Portugal. The Man,Evil Friends,Purple Yellow Red and Blue,4WMuY659P2MKnoW40oGXe8,0.601,0.859,4,-6.311,0,0.0397,0.331,0.144,0.431,101.003,249747,4,0.0351,57.0,Yellow,249.747
+2,Alex Wiley,Vibration (Extended Version),Vibration (Extended Version),3WYjyqO2AUQvcS6GJZMF39,0.599,0.817,1,-5.498,1,0.0779,0.0,0.115,0.494,136.32,242755,4,0.0442,0.0,Yellow,242.755
+3,Eazy El Loco,Occasionally Loco,Rescue,0YuldR7QdfFM2ph13WRy5n,0.775,0.483,1,-13.021,1,0.0479,2.32e-06,0.126,0.446,136.008,197904,4,0.197,0.0,Yellow,197.904
+4,Alex Wiley,Village Party 2: Heaven's Gate,Navigator Truck,3SAxrWGQnLIuM7lI7dDKal,0.809,0.523,7,-6.335,0,0.206,0.0,0.277,0.827,133.921,203327,4,0.48,41.0,Yellow,203.327
+5,Kanye West,The Life Of Pablo,Facts (Charlie Heat Version),3MnbXlC1N7GdS9M8HzA6no,0.777,0.662,1,-3.761,0,0.143,0.0,0.168,0.4,142.059,200733,4,0.0518,61.0,Yellow,200.733
+6,Foreign Air,Free Animal,Free Animal,5l8oNQsDDPNFUIV5M4lzRJ,0.579,0.584,5,-7.151,0,0.0438,0.0,0.0958,0.393,80.001,180400,4,0.0856,0.0,Yellow,180.4
+7,Kendrick Lamar,To Pimp A Butterfly,Alright,3iVcZ5G6tvkXZkZKlMpIUs,0.796,0.766,7,-5.974,1,0.238,0.0,0.0827,0.558,110.034,219333,4,0.0742,75.0,Yellow,219.333
+8,Kendrick Lamar,"good kid, m.A.A.d city (Deluxe)",The Recipe (Black Hippy Remix) - Bonus Track,5UHjWOJA6MDl1g3x2HC68V,0.723,0.758,1,-7.303,0,0.148,0.0,0.357,0.628,131.051,262920,4,0.000588,52.0,Yellow,262.92
+9,N.E.R.D,NO ONE EVER REALLY DIES,Kites,65UcBkHqJoIk33vfxqUzvm,0.571,0.725,1,-6.809,1,0.397,0.0,0.0856,0.687,200.03,290933,4,0.104,43.0,Yellow,290.933
+10,BROCKHAMPTON,SATURATION,GOLD,7HRv1sYuwgoea1m0JRvChV,0.808,0.647,11,-6.947,0,0.166,0.000466,0.205,0.29,110.036,266000,4,0.0716,61.0,Yellow,266.0
+11,Tame Impala,Currents,The Less I Know The Better,6K4t31amVTZDgR3sKmwUJJ,0.64,0.74,4,-4.083,1,0.0284,0.00678,0.167,0.785,116.879,216320,4,0.0115,84.0,Yellow,216.32
+12,Gorillaz,Demon Days,Feel Good Inc.,0d28khcov6AiegSCpG5TuT,0.818,0.705,6,-6.679,1,0.177,0.00233,0.613,0.772,138.559,222640,4,0.00836,83.0,Yellow,222.64
+13,Mystic Braves,Desert Island,Bright Blue Day Haze,1RNybormZ5O0s3DCIRQWq4,0.309,0.909,7,-4.349,1,0.0759,0.0,0.146,0.427,134.422,252160,4,7.36e-05,49.0,Yellow,252.16
+14,N.E.R.D,NO ONE EVER REALLY DIES,Don't Don't Do It!,2svutFGaCycRmYc1mWbfQh,0.799,0.871,2,-5.784,1,0.138,0.0,0.0688,0.811,77.013,257707,4,0.12,44.0,Yellow,257.707
+15,Lance Skiiiwalker,Introverted Intuition,Toaster (feat. ScHoolboy Q),4KcKi3vvugwztcL3AHJPky,0.584,0.666,11,-4.371,1,0.411,0.000137,0.146,0.656,172.859,108541,4,0.284,26.0,Yellow,108.541
+16,Childish Gambino,EP (2011 Re-Release),Freaks And Geeks,7xTY3rJMgj0nh6OOPHgsLw,0.667,0.873,10,-5.605,1,0.314,0.0,0.0725,0.799,81.052,217104,4,0.124,58.0,Yellow,217.104
+17,Kendrick Lamar,DAMN.,ELEMENT.,1EaKU4dMbesXXd3BrLCtYG,0.748,0.705,4,-4.547,0,0.485,0.0,0.246,0.483,189.891,208733,4,0.204,71.0,Yellow,208.733
+18,ScHoolboy Q,Blank Face LP,JoHn Muir,7sr74Bz3GBTNMQe1m4F5Ut,0.683,0.921,2,-4.833,1,0.227,1.46e-06,0.225,0.625,160.088,219027,4,0.08,56.0,Yellow,219.027
+19,Madvillain,Madvillainy,Meat Grinder,60PZUWKsJC52uXaPlPcEVf,0.571,0.717,6,-8.333,1,0.336,3.12e-06,0.797,0.881,87.54,131867,4,0.359,7.0,Yellow,131.867
+20,Madvillain,Madvillainy,America's Most Blunted,4BtGch9Jl7HIehy9dK9UzR,0.624,0.896,9,-7.915,1,0.47,0.0,0.969,0.652,95.97,234040,4,0.349,2.0,Yellow,234.04
+21,nite swim,Everybody's Someone in LA,Everybody's Someone in LA,0Bq786zqpKxYNeos7Tn5Kk,0.756,0.583,10,-10.627,0,0.0517,0.0265,0.159,0.549,89.962,160000,4,0.0749,25.0,Yellow,160.0
+22,The Palms,Mulholland Dr.,Keep Me Young,4mzTYONCU6EtwO67KFTJV0,0.582,0.841,1,-4.643,0,0.035,0.0248,0.124,0.336,115.019,214595,4,0.0494,22.0,Yellow,214.595
+23,Funkadelic,Standing On The Verge Of Getting It On,I'll Stay,0TkZzL5bCSXMbqkBvwgpFX,0.634,0.565,2,-8.733,1,0.0279,0.294,0.0938,0.616,142.379,258227,4,0.289,0.0,Yellow,258.227
+24,Jaden,SYRE,George Jeff,0grimyaxHH66oGelb2eHtM,0.723,0.57,4,-2.892,0,0.266,0.0,0.371,0.646,160.008,137617,4,0.322,50.0,Yellow,137.617
+25,Cage The Elephant,Cage The Elephant,Ain't No Rest for the Wicked,3kb72STxc2959ZqsTwu52i,0.634,0.849,0,-7.075,1,0.105,0.0,0.363,0.919,156.004,175493,4,0.0438,0.0,Yellow,175.493
+26,Anderson .Paak,Malibu,Am I Wrong (feat. ScHoolboy Q),1UjyF6okUHhnVxaLV8ojsA,0.729,0.799,11,-7.378,0,0.0779,0.00218,0.0948,0.532,115.04,253520,4,0.0588,58.0,Yellow,253.52
+27,Anderson .Paak,Malibu,Come Down,276zciJ7Fg7Jk6Ta6QuLkp,0.841,0.898,8,-7.135,1,0.104,0.0151,0.304,0.931,98.401,169727,4,0.271,66.0,Yellow,169.727
+28,Two Door Cinema Club,Beacon (Deluxe Version),Wake Up,4ObmBaVHilvAw9LDEq69bM,0.521,0.811,10,-4.413,0,0.038,0.523,0.715,0.682,134.949,225800,4,3.03e-05,0.0,Yellow,225.8
+29,Two Door Cinema Club,Tourist History,What You Know,6jrMVRReY24qzCfe1BRrww,0.556,0.763,6,-3.952,0,0.0413,6.79e-06,0.071,0.814,138.986,191400,4,0.000728,0.0,Yellow,191.4
+30,alt-J,In Cold Blood,In Cold Blood,6sIvAyM1AtnSGz3anRLcDo,0.495,0.745,11,-5.475,0,0.035,0.000441,0.194,0.589,143.398,206027,4,0.142,20.0,Yellow,206.027
+31,Danny Brown,Hot Soup,Dance,3MtH6dHcVRthHHkRvDBDGK,0.716,0.875,10,-5.763,0,0.272,4.1e-06,0.467,0.618,97.416,201487,4,0.00811,34.0,Yellow,201.487
+32,Gyyps,Canoga Park EP,Canoga Park,1cMMa7Y8G1hb8JK6jD8iL9,0.928,0.545,1,-7.992,1,0.141,0.0,0.0872,0.317,97.979,161125,4,0.0179,0.0,Yellow,161.125
+33,Froth,Patterns,Lost My Mind,2QSK81oPtjNIC1kOOR4VOw,0.389,0.54,7,-9.878,1,0.0266,0.0942,0.185,0.516,101.244,218593,4,0.0188,0.0,Yellow,218.593
+34,Post Malone,Stoney (Deluxe),Congratulations,3a1lNhkSLSkpJE4MSHpDu9,0.63,0.804,6,-4.183,1,0.0363,0.0,0.253,0.492,123.146,220293,4,0.215,82.0,Yellow,220.293
+35,Captain Cuts,Cocaina,Cocaina,4dHh7DeKSg5zDhMOn7jnlw,0.812,0.836,4,-4.377,0,0.0567,0.0,0.16,0.841,120.016,208507,4,0.00444,35.0,Yellow,208.507
+36,A$AP Rocky,Cocky (feat. London On Da Track),Cocky (feat. London On Da Track),1nO2NjuFkGaAWcMdJ1pNrp,0.797,0.633,5,-4.815,1,0.238,0.0,0.109,0.577,156.015,232413,4,0.223,55.0,Yellow,232.413
+37,Flatbush Zombies,Vacation In Hell,Crown (feat. Portugal. The Man),0kDHiwkrZutBHfjypFUzc2,0.715,0.574,11,-10.243,0,0.098,6.68e-05,0.128,0.345,137.579,297369,4,0.00248,48.0,Yellow,297.369
+38,Thane,Topia,Garden,3cbLwW7CY14JNdXLmYaMJj,0.549,0.676,4,-7.583,0,0.042,0.886,0.338,0.211,106.846,194664,4,0.702,37.0,Yellow,194.664
+39,Kanye West,My Beautiful Dark Twisted Fantasy,POWER,2gZUPNdnz5Y45eiGxpHGSc,0.542,0.914,0,-4.747,0,0.113,0.0,0.744,0.576,153.993,292093,4,0.0161,79.0,Yellow,292.093
+40,Alex Wiley,Club Wiley,"Spaceship II (feat. Chance The Rapper, GLC)",1b4K9bkZxI7f0dqKD20FmH,0.476,0.703,4,-6.261,0,0.174,0.0,0.579,0.288,89.736,217087,3,0.00866,0.0,Yellow,217.087
+41,alt-J,This Is All Yours,Left Hand Free (Extended Version),3ctLY76Pygth1ggcsiEATo,0.697,0.877,3,-4.465,1,0.0462,0.00943,0.083,0.802,101.99,173627,4,0.462,0.0,Yellow,173.627
+42,Black Eyed Peas,STREET LIVIN',STREET LIVIN',6NjcOqkCcsbO65KhM5Af2K,0.693,0.73,4,-4.27,0,0.221,0.0,0.382,0.592,99.633,185413,4,0.147,43.0,Yellow,185.413
+43,The Black Keys,Brothers,Tighten Up,0MhwaBVJghoZsEzHbr0qjl,0.491,0.706,1,-6.207,0,0.0669,3.98e-06,0.496,0.573,108.927,211122,4,0.00118,33.0,Yellow,211.122
+44,The Black Keys,Brothers,She's Long Gone,26ZnmGlPGXaOzPDydAP9D5,0.349,0.866,11,-6.676,0,0.112,0.0406,0.216,0.488,167.951,186000,4,0.0361,49.0,Yellow,186.0
+45,Calvin Harris,Funk Wav Bounces Vol.1,"Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)",0Ws8D3EWUDgY962Xftb0h5,0.722,0.79,4,-4.867,0,0.241,0.0,0.0349,0.434,94.965,235973,4,0.152,54.0,Yellow,235.973
+46,Chance the Rapper,Coloring Book,All We Got (feat. Kanye West & Chicago Children's Choir),3ZLyt2ndLFBh148XRYjYYZ,0.531,0.544,0,-8.615,0,0.462,1.89e-06,0.0835,0.398,131.921,203794,4,0.308,59.0,Yellow,203.794
+47,Depeche Mode,Construction Time Again,Everything Counts,3HbA5x1laxQ2y3dvfFD22R,0.634,0.802,9,-6.214,0,0.0256,3.73e-06,0.144,0.658,113.623,239547,4,0.0688,0.0,Yellow,239.547
+48,The Doors,The Doors,Break on Through (To the Other Side),6ToM0uwxtPKo9CMpbPGYvM,0.421,0.751,9,-9.584,1,0.0472,0.0,0.17,0.789,89.839,145867,4,0.2,72.0,Yellow,145.867
+49,Eagles,Hotel California (2013 Remaster),Hotel California - 2013 Remaster,40riOy7x9W7GXjyGp4pjAv,0.579,0.508,2,-9.484,1,0.027,0.000494,0.0575,0.609,147.125,391376,4,0.00574,83.0,Yellow,391.376
+50,Frank Ocean,Novacane,Novacane,4osgfFTICMkcGbbigdsa53,0.762,0.508,3,-9.112,1,0.0919,0.00126,0.16,0.37,93.51,302347,4,0.0584,74.0,Yellow,302.347
+51,Holy Wave,Freaks of Nurture,Western Playland,7v4BPLK13UHPlTKgeot1c1,0.356,0.789,5,-6.687,1,0.0288,0.815,0.416,0.629,110.079,308969,4,8.2e-05,33.0,Yellow,308.969
+52,Joey Bada$$,Devastated,Devastated,08X9m3tpcthgrItjPVAmCu,0.837,0.481,10,-8.522,0,0.0801,0.0,0.309,0.578,122.98,208398,4,0.12,0.0,Yellow,208.398
+53,A$AP Rocky,TESTING,Praise The Lord (Da Shine) (feat. Skepta),7ycWLEP1GsNjVvcjawXz3z,0.854,0.569,5,-8.151,0,0.106,0.0816,0.1,0.294,80.015,205040,4,0.0609,82.0,Yellow,205.04
+54,Dispatch,Daft Alchemist,Daft Alchemist,0paOOMJ2a1DKRP3KQA1Jxm,0.487,0.689,0,-5.927,1,0.0311,0.00058,0.165,0.59,107.896,199560,4,0.273,0.0,Yellow,199.56
+55,BROCKHAMPTON,1999 WILDFIRE,1999 WILDFIRE,1t4pPnbkOjzoA5RvsDjvUU,0.811,0.57,5,-8.093,1,0.129,0.0,0.148,0.814,128.066,251250,4,0.253,62.0,Yellow,251.25
+56,Mac Miller,The Divine Feminine,Dang! (feat. Anderson .Paak),5iUQMwxUPdJBFeGkePtM66,0.836,0.67,5,-6.907,0,0.23,0.000355,0.0837,0.556,107.018,305350,4,0.00826,73.0,Yellow,305.35
+57,Kendrick Lamar,Section.80,Rigamortus,2b3KgzISdjZVNPJJ1945nw,0.52,0.807,2,-6.281,1,0.409,0.00257,0.199,0.628,178.012,168591,4,0.24,0.0,Yellow,168.591
+58,The Rolling Stones,Let It Bleed,Gimme Shelter,1dv3ePjze9tPq2pk8eWJdR,0.63,0.616,1,-8.128,0,0.0309,0.0408,0.173,0.509,118.65,270773,4,0.463,0.0,Yellow,270.773
+59,The Rolling Stones,GRRR! (Deluxe Version),"Paint It, Black",1Kvjmr2oqZjzhryoEKzqij,0.471,0.75,1,-10.877,1,0.089,0.00221,0.323,0.61,159.038,203053,4,0.0625,0.0,Yellow,203.053
+60,The Rolling Stones,GRRR! (Deluxe Version),Sympathy For The Devil,6yEUiL5pQomd6zow9YSxIk,0.565,0.672,9,-11.208,1,0.267,0.0,0.0419,0.578,114.376,377800,4,0.598,0.0,Yellow,377.8
+61,Tame Impala,InnerSpeaker (Collector's Edition),Sundown Syndrome,14VLdNJSXtMwiDpKGjvr9A,0.362,0.707,1,-4.784,0,0.0333,0.49,0.115,0.34,68.301,349334,4,0.0964,0.0,Yellow,349.334
+62,Portugal. The Man,In the Mountain in the Cloud,All Your Light (Times Like These),3UOlYczxtt70Xj1VplXgj8,0.533,0.676,2,-6.469,1,0.065,0.000224,0.122,0.377,76.444,266093,4,0.0832,47.0,Yellow,266.093
+63,Mystic Braves,Mystic Braves,Vicious Cycle,2qq1kNBscYrzgYhaAA094h,0.384,0.828,6,-6.616,0,0.0737,0.000577,0.32,0.688,116.325,291973,4,0.288,29.0,Yellow,291.973
+64,Kembe X,Kembe X,As I Unfold (feat. Ab Soul),0BtTvqcC6gmlRHZPkyPWhQ,0.735,0.719,7,-8.8,1,0.262,0.0,0.48,0.761,119.974,196001,4,0.00789,20.0,Yellow,196.001
+65,Portugal. The Man,Evil Friends,Atomic Man,43QhrhgRrH9NWy6eoUro4X,0.63,0.736,10,-7.302,0,0.0384,0.00244,0.109,0.919,137.948,227253,4,0.0507,50.0,Yellow,227.253
+66,Logic,YSIV,ICONIC (ft. Jaden Smith),1FmdAhS8FqRoEJ4jcSfuKZ,0.388,0.777,1,-5.55,1,0.241,0.0,0.288,0.192,175.933,298133,4,0.00575,57.0,Yellow,298.133
+67,Anderson .Paak,Tints (feat. Kendrick Lamar),Tints (feat. Kendrick Lamar),1gnwGVoG7V08vMX3hyr90x,0.805,0.833,1,-6.73,0,0.12,0.0,0.0578,0.703,109.076,268400,4,0.0859,54.0,Yellow,268.4
+68,Milky Chance,Blossom (Deluxe),Blossom,3vmE845FU7PdYh4tuoWUU2,0.75,0.676,4,-6.651,1,0.0281,3.15e-05,0.0749,0.851,119.99,254587,4,0.0295,51.0,Yellow,254.587
+69,Tunji Ige,Missed Calls,Bring Yo Friends,54twSJr4f3abwuxtjiYIUv,0.583,0.808,11,-5.9,0,0.313,0.0,0.103,0.58,114.147,217368,5,0.239,42.0,Yellow,217.368
+70,Milky Chance,Blossom (Deluxe),Doing Good,4KAs4IcxluXDFGuV4XCEJa,0.71,0.73,9,-8.381,0,0.0481,0.105,0.098,0.729,98.015,250587,4,0.293,48.0,Yellow,250.587
+71,MGMT,Oracular Spectacular,Electric Feel,3FtYbEfBqAlGO46NUDQSAt,0.763,0.803,1,-3.713,1,0.0351,0.285,0.348,0.561,103.04,229640,3,0.0709,78.0,Yellow,229.64
+72,"Tyler, The Creator",Flower Boy,"Enjoy Right Now, Today",3R1Vu4Ws7UitwDxDHTol0P,0.729,0.675,1,-6.008,1,0.187,0.847,0.0891,0.654,162.126,235400,4,0.037,58.0,Yellow,235.4
+73,Portugal. The Man,Woodstock,Feel It Still,6QgjcU0zLnzq5OrUoSZ3OK,0.801,0.795,1,-5.115,0,0.0504,0.000113,0.0717,0.754,79.028,163253,4,0.0417,77.0,Yellow,163.253
+74,Milky Chance,Sadnecessary,Flashed Junk Mind,5mpLcXEsk3jjzLFGuNKk5I,0.839,0.84,11,-8.721,1,0.0474,0.0319,0.114,0.904,117.98,262000,4,0.389,63.0,Yellow,262.0
+75,Young the Giant,Home of the Strange,Silvertongue,0yTJtxZJ5VLfBEHhiNUNeY,0.673,0.789,0,-4.288,1,0.0408,0.0,0.752,0.841,100.043,197427,4,0.00975,63.0,Yellow,197.427
+76,Anderson .Paak,Who R U?,Who R U?,6dmJzZNWQQEjdCVZPVUfLn,0.834,0.826,1,-7.429,0,0.157,0.0,0.0932,0.819,92.009,168520,4,0.0429,34.0,Yellow,168.52
+77,Anderson .Paak,Oxnard,The Chase (feat. Kadhja Bonet),48Y9pNe30o273HGYKyMKj9,0.475,0.579,1,-9.061,1,0.165,0.000192,0.674,0.475,103.288,203573,4,0.0344,43.0,Yellow,203.573
+78,Anderson .Paak,Oxnard,6 Summers,0lG7iyNSstVOLV6faMIHdD,0.649,0.587,5,-10.5,0,0.316,0.0,0.377,0.513,92.871,282987,4,0.0774,51.0,Yellow,282.987
+79,Anderson .Paak,Oxnard,Smile/Petty (feat. Sonyae Elise),4mnetrP6ozVrc5lkM07WP3,0.557,0.671,2,-7.178,1,0.3,0.0,0.116,0.602,91.914,282947,4,0.0528,43.0,Yellow,282.947
+80,Anderson .Paak,Oxnard,Cheers (feat. Q-Tip),4qNijbGeHqlcFWrGrATFOX,0.727,0.518,2,-7.825,1,0.396,0.0,0.0893,0.485,88.255,334733,4,0.0888,53.0,Yellow,334.733
+81,Anderson .Paak,Oxnard,Left To Right,5sEKWiSjsWKsmV9IOvYKhD,0.829,0.913,1,-5.773,1,0.109,0.0,0.211,0.801,98.026,235400,4,0.0263,41.0,Yellow,235.4
+82,Portugal. The Man,The Satanic Satanist,The Home,2UXHal3m81cCI9rlQ0IfnA,0.599,0.603,7,-6.47,0,0.0302,1.73e-06,0.185,0.446,80.025,176840,4,0.425,0.0,Yellow,176.84
+83,STRFKR,Miracle Mile,While I'm Alive,6wtcxwSJs82tpdeIoj93LF,0.706,0.69,9,-5.538,0,0.0308,0.465,0.281,0.81,100.002,230053,4,0.0538,54.0,Yellow,230.053
+84,Milky Chance,Sadnecessary,Stolen Dance,6vECYJHxYmm3Ydt3fF01pE,0.885,0.581,11,-8.813,1,0.0378,0.000204,0.0759,0.728,114.016,313684,4,0.427,74.0,Yellow,313.684
+85,21 Savage,i am > i was,monster,2FUNBaa5DwItJtYEBgAblU,0.89,0.607,9,-6.916,0,0.124,0.000228,0.118,0.224,134.022,233040,4,0.158,63.0,Yellow,233.04
+86,The Growlers,Casual Acquaintances,Thing for Trouble,4s1vbFFUByS8QgK83ICYgQ,0.532,0.861,9,-4.893,0,0.0295,1.44e-06,0.167,0.834,119.938,187974,4,0.000687,33.0,Yellow,187.974
+87,U.S. Girls,In a Poem Unlimited,Rage of Plastics,3iXCFenXZlNm5rZHdkaGCo,0.582,0.711,9,-4.982,0,0.0446,0.00132,0.222,0.63,135.322,267959,3,0.0528,0.0,Yellow,267.959
+88,Daniele Luppi,Milano,Talisa,215ZoC6259dx2Wt0HVUU9g,0.351,0.921,7,-5.68,1,0.231,0.0,0.12,0.618,191.149,140426,4,0.131,29.0,Yellow,140.426
+89,Danger Mouse,Rome,Black (feat. Norah Jones),5H43dazn2x2O9dkDVvaiDS,0.454,0.638,5,-9.916,1,0.0292,0.398,0.102,0.748,170.388,211507,4,0.14,51.0,Yellow,211.507
+90,exmagician,Scan the Blue,Place Your Bets,14VQXTT2maxHcrdwQVB2J6,0.516,0.837,9,-5.534,1,0.03,0.42,0.373,0.697,151.008,244493,4,0.0109,0.0,Yellow,244.493
+91,Dick Dale,Guitar Legend: The Very Best Of Dick Dale,Misirlou,1p791U7Bx5PmvCwucN4PQN,0.293,0.951,4,-5.846,1,0.0652,0.916,0.572,0.561,173.439,136093,4,0.00345,44.0,Yellow,136.093
+92,Dick Dale and his Del-Tones,Greatest Hits 1961 - 1976,The Victor,1O3SDezDy0NcFggeJ7o4hn,0.498,0.692,0,-9.935,1,0.0299,0.66,0.144,0.798,147.633,197827,4,0.000421,14.0,Yellow,197.827
+93,The Holydrug Couple,Forever End,Forever End,5Us84EGGXQU06uFj20NRPB,0.362,0.749,11,-6.083,0,0.0357,0.000382,0.102,0.459,149.941,240469,4,0.000552,4.0,Yellow,240.469
+94,Foreign Air,The Therapist,The Therapist,00aEvruq9NQRUzYMn1rEPs,0.601,0.846,4,-4.1,0,0.0308,0.0,0.0746,0.369,92.127,181866,4,0.0837,0.0,Yellow,181.866
+95,Portugal. The Man,Woodstock,Rich Friends,18admrko96XeSCmgD76wlM,0.607,0.881,8,-5.354,1,0.053,0.000344,0.285,0.34,94.994,221627,4,0.00545,48.0,Yellow,221.627
+96,Tame Impala,Currents,Let It Happen,2X485T9Z5Ly0xyaghN73ed,0.602,0.881,1,-5.875,0,0.0443,0.0266,0.111,0.577,125.012,467587,4,0.00462,75.0,Yellow,467.587
+97,MGMT,Oracular Spectacular,Kids,1jJci4qxiYcOHhQR247rEU,0.451,0.931,9,-3.871,1,0.0719,0.0049,0.361,0.172,122.961,302840,4,0.00076,78.0,Yellow,302.84
+98,The Strokes,Is This It,Last Nite,3SUusuA9jH1v6PVwtYMbdv,0.624,0.899,0,-5.709,1,0.0296,0.000137,0.0975,0.79,104.061,193373,4,0.0221,67.0,Yellow,193.373
+99,MGMT,Little Dark Age,Little Dark Age,7pWUwNDBL7J0eMAUi2gPb3,0.709,0.71,6,-6.192,1,0.0372,0.00107,0.166,0.612,97.5,299293,4,0.0103,0.0,Yellow,299.293

@@ -36,7 +36,7 @@ def call_playlist(creator, playlist_id, sp):
                 "danceability","energy","key","loudness",
                 "mode", "speechiness","instrumentalness",
                 "liveness","valence","tempo", "duration_ms",
-                "time_signature"] 
+                "time_signature", "acousticness"]
 
     playlist_df = pd.DataFrame(columns = features)
     
@@ -62,6 +62,9 @@ def call_playlist(creator, playlist_id, sp):
 
         # add the playlist name 
         playlist_features["playlist_name"] = playlist["name"]
+
+        # convert duration_ms to seconds for plotting purposes later
+        playlist_features["duration_s"] = playlist_features["duration_ms"]/1000
 
         # Concat the dfs
         track_df = pd.DataFrame(playlist_features, index = [0])

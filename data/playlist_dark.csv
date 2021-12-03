@@ -1,101 +1,101 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,popularity,playlist_name
-0,Phoebe Bridgers,Garden Song,Garden Song,1LTWcRVy9o96Zzn29wXLsa,0.371,0.256,0,-16.7,1,0.227,0.00507,0.112,0.171,195.674,220065,4,28.0,noir
-1,Samia,Big Wheel / Stellate,Big Wheel,366DDVYAJoT1Cc8ijYN9FM,0.553,0.512,5,-7.759,1,0.0465,3.87e-05,0.107,0.259,94.96,195773,4,17.0,noir
-2,Julien Baker,Little Oblivions,Favor,3alP0rX4ErhOszTpx6sFN2,0.487,0.582,5,-8.938,1,0.0268,0.301,0.0971,0.271,104.003,278213,4,46.0,noir
-3,Rachael Jenkins,untitled,untitled,2PMo0BYsGBY2TgHJ5Gm4oT,0.372,0.237,1,-13.404,1,0.0369,0.425,0.103,0.0966,119.436,225640,4,48.0,noir
-4,Snail Mail,Valentine,Light Blue,1arhLLK6PZNd5g4OupOJyZ,0.361,0.241,8,-10.316,1,0.0292,3.64e-06,0.111,0.152,72.925,154213,3,58.0,noir
-5,Lucy Dacus,Thumbs,Thumbs,79pcC3KJRMA2L8xIb5mu3G,0.474,0.0964,7,-15.87,0,0.0406,0.0,0.134,0.272,97.595,265440,4,40.0,noir
-6,Billie Marten,Garden of Eden,Garden of Eden,6jF6VwQeIiy18FUH0wuIQN,0.577,0.72,5,-8.08,1,0.0421,0.00423,0.0977,0.465,150.085,199480,4,43.0,noir
-7,dodie,Cool Girl,Cool Girl,0FSOenCj42lbikl1vd5ah9,0.73,0.205,2,-15.489,1,0.0957,0.0593,0.095,0.206,124.989,199385,4,56.0,noir
-8,Samia,The Baby,Is There Something in the Movies?,1n96oXchJtgq5FGyvVLrvE,0.453,0.101,7,-13.013,1,0.0502,0.0,0.0889,0.153,75.145,210173,4,50.0,noir
-9,Phoebe Bridgers,Stranger in the Alps,Smoke Signals,5g97GAdru7XfeJyJhViIll,0.342,0.237,10,-14.601,1,0.0384,0.000267,0.112,0.186,117.824,324773,5,32.0,noir
-10,Squirrel Flower,Planet (i),I'll Go Running,3pdzD05LaKcxuToCrM2w7b,0.502,0.213,5,-8.092,0,0.032,0.000355,0.135,0.162,72.8,236611,4,37.0,noir
-11,Soccer Mommy,yellow is the color of her eyes,yellow is the color of her eyes,4D3nttJPU6L0M2epr7sId6,0.452,0.515,11,-7.351,1,0.0255,0.12,0.14,0.191,80.537,435080,4,0.0,noir
-12,Holly Humberstone,Deep End,Deep End,3DXEbjIftmPeBj638CxyJD,0.368,0.314,0,-8.491,1,0.0316,1.69e-06,0.126,0.371,109.143,171663,4,62.0,noir
-13,Hand Habits,Fun House,Just to Hear You (feat. Perfume Genius),6fFMXz0mLLaql9UyyBQB9a,0.756,0.367,2,-10.849,1,0.0397,0.19,0.106,0.523,127.894,173303,4,52.0,noir
-14,Julien Baker,boygenius,Souvenir,1JPRgRUK044O15wgv8uZO1,0.598,0.3,6,-11.044,0,0.0264,0.502,0.0946,0.167,109.034,212467,4,0.0,noir
-15,Maddie Medley,Wild Parts,Wild Parts,3RG5SUMbOTOEaQoOuCBSgG,0.639,0.391,4,-9.705,1,0.0314,0.0423,0.134,0.34,111.781,239980,4,43.0,noir
-16,Allison Ponthier,Faking My Own Death,Faking My Own Death,0GoTonjhYLPM7NVKqliTTt,0.383,0.419,11,-9.835,0,0.0564,0.000268,0.221,0.211,81.206,238829,4,55.0,noir
-17,Haley Heynderickx,I Need to Start a Garden,Drinking Song,5KkoM9rbevlWf8EePOrwfS,0.621,0.219,0,-11.305,1,0.0381,1.4e-05,0.111,0.253,120.495,195846,3,51.0,noir
-18,Bedouine,Thirteen,Thirteen,0BuGTUaFGGjeOz1U3CwHrc,0.697,0.248,10,-10.54,1,0.0278,0.000901,0.11,0.382,101.981,184870,4,23.0,noir
-19,Fenne Lily,BREACH,Berlin,2P9p3GVQ7S6bJ5xaE7f8gH,0.525,0.356,8,-9.894,1,0.0269,0.812,0.119,0.305,143.49,219680,4,10.0,noir
-20,Hayley Williams,FLOWERS for VASES / descansos,Over Those Hills,5afKJ9yqFQ5L2FxuGiZMPQ,0.561,0.372,3,-9.494,1,0.0425,0.00248,0.124,0.365,110.062,191950,4,51.0,noir
-21,Ainslie Wills,This Is What Our Love Looks Like Now,This Is What Our Love Looks Like Now,0EIjCvMJeFZC8aysCilaFg,0.354,0.113,4,-12.009,1,0.039,1.2e-06,0.112,0.181,94.947,243243,3,33.0,noir
-22,Joy Oladokun,wish you the best (feat. Jensen McRae),wish you the best (feat. Jensen McRae),35xkenzfDhEA1LEpJsprKu,0.509,0.185,2,-13.358,1,0.0286,0.0,0.259,0.0455,102.936,192098,4,0.0,noir
-23,Maddie Medley,Buzz,Buzz,55pp6iI1wvxZL93k25vzXn,0.51,0.385,8,-8.546,1,0.0298,0.0369,0.108,0.115,173.945,261476,4,0.0,noir
-24,Sharon Van Etten,Love More (By Fiona Apple),Love More (By Fiona Apple),6wleKOJoHGaOPtJJWvJes6,0.605,0.442,8,-14.252,1,0.0623,0.0122,0.219,0.72,139.979,272068,4,38.0,noir
-25,Sun June,Somewhere,Everything I had,42lN5xgSw3ytN4zsSNWISb,0.743,0.345,4,-11.337,1,0.0271,0.497,0.0893,0.19,103.993,246667,4,12.0,noir
-26,Jenny Owen Youngs,Vampire Weeknight,Vampire Weeknight,3pEGK96mXlfsavPTQdUHOr,0.553,0.37,0,-12.015,0,0.0618,0.0302,0.0619,0.223,178.821,204973,4,28.0,noir
-27,Skullcrusher,Places/Plans,Places/Plans,05SnceLITolxkYVPD0Ww4i,0.515,0.111,5,-14.303,1,0.0292,0.000708,0.124,0.197,131.809,183116,4,0.0,noir
-28,Ayoni,Unmoved (A Black Woman Truth),Unmoved (A Black Woman Truth),2zmLkPOV4Y3NTwh5P6gM51,0.411,0.249,6,-9.739,1,0.0296,8.73e-05,0.112,0.266,123.471,256452,4,45.0,noir
-29,Overcoats,The Fight,New Shoes,2Nh201cURlNgpcMDnDlNaL,0.577,0.222,7,-10.568,1,0.0291,3.1e-05,0.359,0.166,136.048,198373,3,45.0,noir
-30,Matilda Mann,Because I Wanted You to Know,Paper Mache World,3Maqlu2aPlU8NluW19O8JD,0.479,0.754,2,-5.818,1,0.0849,5.82e-06,0.127,0.575,180.109,179083,4,43.0,noir
-31,Ada Lea,one hand on the steering wheel the other sewing a garden,damn,5mgWktGBliaIdAaBtZ8ff3,0.687,0.457,8,-8.896,0,0.0494,0.000946,0.197,0.599,142.13,261173,4,45.0,noir
-32,Twin Oaks,Luster,Luster,1TEWu9IdgiwAe5q0bQqwDQ,0.31,0.226,1,-9.828,1,0.0303,0.0134,0.114,0.124,140.956,200670,3,26.0,noir
-33,Uwade,The Man Who Sees Tomorrow / Lodarore,The Man Who Sees Tomorrow,3tML0isKJJ3DJUQKcm3L0e,0.257,0.213,11,-11.787,1,0.0364,0.0,0.363,0.209,55.309,211733,3,47.0,noir
-34,Maple Glider,Swimming,Swimming,7dJR6TWnJns4w9OVYeMY2P,0.715,0.432,9,-6.769,1,0.0275,0.000109,0.164,0.175,109.927,252413,4,32.0,noir
-35,Liza Anne,Desire,Desire,12rpkK6BHssFJ3ORBGON5c,0.659,0.578,7,-5.27,1,0.0302,0.00195,0.119,0.58,110.978,179893,4,36.0,noir
-36,Amythyst Kiah,Wild Turkey,Wild Turkey,4aX4dqpYXTxRMTcjekxPyp,0.584,0.275,6,-11.356,1,0.0292,5.01e-05,0.0924,0.266,103.088,272080,4,47.0,noir
-37,Rosie Carney,The Bends,High And Dry,0GehqN1MkS7feXJWWk97KU,0.474,0.145,4,-14.402,1,0.0348,0.000991,0.126,0.157,106.597,232000,5,59.0,noir
-38,Molly Parden,Kitchen Table,Kitchen Table,1XxLV1Ag179JlXq1gwICcl,0.586,0.35,3,-10.414,1,0.0279,0.000173,0.12,0.359,132.98,208800,4,34.0,noir
-39,Laura Marling,Held Down,Held Down,2PHeCBCWESSAqfxpORbxKA,0.392,0.495,7,-7.881,1,0.0364,1.04e-06,0.338,0.38,78.585,247933,4,44.0,noir
-40,Helena Deland,Someone New,Someone New,68JDi93FyrXp06NIQjkUWD,0.535,0.763,1,-10.16,0,0.0788,0.573,0.103,0.166,148.027,229502,4,0.0,noir
-41,Saint Sister,Dynamite,Dynamite,2WDY2kjGeNmhb8UwKmixJi,0.642,0.583,1,-8.047,1,0.0329,0.00539,0.375,0.362,152.027,201937,4,42.0,noir
-42,S.G. Goodman,Old Time Feeling,If It Ain't Me Babe,39j6F8ulgcWZn1M4R4hRSu,0.548,0.47,4,-9.662,0,0.0296,0.0154,0.113,0.217,116.02,308707,4,34.0,noir
-43,Ada Lea,hurt,hurt,1MttfRoP6yd3VaXBsrLOSZ,0.704,0.29,5,-10.27,1,0.0403,0.0071,0.108,0.114,126.975,211522,4,4.0,noir
-44,LUMP,Animal,We Cannot Resist,068ZytZuPeqoSgaffebBVD,0.695,0.453,1,-10.626,1,0.0923,0.00122,0.113,0.256,145.999,285760,4,39.0,noir
-45,SOAK,Grim Town,Maybe,4dGjMKCXok3F866sHnDgQy,0.562,0.681,7,-6.344,1,0.0315,0.0139,0.156,0.245,130.011,270664,4,0.0,noir
-46,Jess Williamson,Pictures of Flowers,Pictures of Flowers,5d8GwNDbnQu60hgSImNR5B,0.693,0.499,4,-10.103,1,0.0266,0.000733,0.367,0.427,100.642,260458,4,33.0,noir
-47,Madi Diaz,"New Person, Old Place","New Person, Old Place",00xsWxrnp7wT3kI5AZqQIU,0.603,0.443,0,-7.73,1,0.0288,2.24e-06,0.097,0.421,134.891,246227,4,50.0,noir
-48,Holly Humberstone,Haunted House,Haunted House,4vNxFySlHhuWuxOHvphZuP,0.366,0.269,9,-9.197,1,0.0439,0.0,0.101,0.238,127.523,133227,4,55.0,noir
-49,Rosie Carney,Party Dress,Party Dress,2G2IOxSv0G4zOitsfFpFQl,0.479,0.24,8,-12.062,0,0.0336,0.000724,0.105,0.279,122.186,194943,4,46.0,noir
-50,Julia Jacklin,Body,Body,1RqQvfdYJBMsltegb00yN2,0.803,0.168,9,-12.006,0,0.0354,0.0143,0.111,0.0892,84.99,307613,4,0.0,noir
-51,Humbird,"Lincoln, Nebraska","Lincoln, Nebraska",0wjgbfx3N3bYqJUgs80gQi,0.698,0.198,2,-9.753,1,0.0303,0.00331,0.267,0.325,135.464,143674,4,34.0,noir
-52,Indigo Sparke,Echo,Everything Everything,33WlDnFFCjmlqCL7H4lUcl,0.5,0.171,9,-16.361,0,0.035,0.503,0.0997,0.16,119.255,206951,3,7.0,noir
-53,Molly Payton,Porcupine,I'm Too Smart,3cHUgy2YScaImqEk8ovZBz,0.368,0.465,2,-7.678,1,0.0463,0.0,0.0791,0.254,144.06,304773,4,28.0,noir
-54,Charli Adams,Bullseye,Seventeen Again (feat. Novo Amor),1BJicMsGWyW8xTQb22N8Ye,0.335,0.283,3,-10.901,1,0.0295,0.0,0.111,0.0945,141.283,204520,3,38.0,noir
-55,Lizzy McAlpine,Means Something,Means Something,7k57OymCjtuqtg0Pv6VQri,0.429,0.2,8,-14.629,1,0.0511,1.71e-06,0.367,0.362,95.319,144632,4,38.0,noir
-56,Lomelda,It's Infinite,It's Infinite,6lOHvNgGKFK0HVzSu4HEca,0.555,0.24,0,-17.224,1,0.0303,0.241,0.111,0.437,136.951,174465,4,30.0,noir
-57,Brooke Bentham,Heavy Head (Keep It Near),Heavy Head (Keep It Near),6GDUqLI7Wh88WNyZqCsYuQ,0.532,0.171,9,-12.822,1,0.0301,1.21e-05,0.112,0.23,106.959,257148,4,26.0,noir
-58,Marika Hackman,We Slept at Last,Drown,1fw7XQl4AGxM8ppPAR6y2i,0.287,0.243,7,-15.119,1,0.0341,0.283,0.114,0.0383,117.886,231671,4,40.0,noir
-59,This Is The Kit,This Is What You Did,This Is What You Did,35e4UTDLUpqOzGqjWz3AoT,0.619,0.802,7,-8.926,1,0.0658,0.529,0.101,0.414,134.726,192981,4,0.0,noir
-60,Sloppy Jane,Jesus and Your Living Room Floor,Party Anthem,2MdwGmJXbMSL0KJHgYKm6z,0.412,0.513,8,-7.363,1,0.0377,8.09e-05,0.104,0.271,130.124,201147,3,24.0,noir
-61,Anna Mieke,Idle Mind,Warped Window,0C0ESa1ZZ5taXaYUxwnvx9,0.514,0.0533,8,-16.276,1,0.045,1.16e-05,0.113,0.176,113.861,295266,4,0.0,noir
-62,Land of Talk,Calming Night Partner,Moment Feed,6JsUqtsVNboWCl8fWZMX1o,0.451,0.679,2,-8.923,1,0.032,0.814,0.0984,0.505,144.053,267148,4,27.0,noir
-63,The Weather Station,Ignorance,Robber,1ZKSWtwZDRT1SWZSE0wrqH,0.714,0.614,7,-9.823,0,0.0385,0.281,0.093,0.352,118.993,320525,4,24.0,noir
-64,Anna Ash,L. A. Flame,Earthquake,2U0U5tUzmzAd0tjzvXwHqN,0.594,0.47,2,-7.448,1,0.0293,0.00849,0.102,0.381,84.402,190947,4,27.0,noir
-65,Molly Payton,When Skies Were Always Blue,When Skies Were Always Blue,1cxfKJMjgB4OY0mm3QVB6n,0.417,0.369,5,-9.279,1,0.0259,0.0,0.0915,0.099,79.954,255227,4,31.0,noir
-66,Becca Mancari,Golden,Golden,2WtZ0pGY93BnZfuGVenMb9,0.348,0.246,3,-11.534,1,0.028,0.00125,0.0996,0.193,136.1,313296,4,25.0,noir
-67,Maya De Vitry,How to Break a Fall,Better and Better,1o24Xqw0n5tQHJqpZDCXp7,0.55,0.324,0,-10.713,1,0.0453,0.000486,0.106,0.431,74.003,180416,4,31.0,noir
-68,Charm of Finches,Pockets Of Stones,Pockets Of Stones,287I3ix4mUm7NsrYLklUfT,0.525,0.401,6,-9.352,1,0.0376,0.0,0.0973,0.249,141.858,240125,4,24.0,noir
-69,Lucy Dacus,No Burden,...Familiar Place,0lp0bQqzyLmNNHHFYRaaJf,0.214,0.148,7,-17.775,1,0.037,0.058,0.113,0.0277,46.591,175778,4,3.0,noir
-70,Samantha Crain,Garden Dove,Garden Dove,3wYl7lRiqN3Z685E7LuA6k,0.584,0.543,4,-5.391,1,0.0277,0.000169,0.0589,0.71,169.11,230067,4,22.0,noir
-71,Hannah Georgas,Same Mistakes,Same Mistakes,7l6ootXc12jVyxTybFGKt8,0.727,0.278,11,-11.13,1,0.0413,0.137,0.0985,0.426,104.986,167531,4,9.0,noir
-72,Jade Bird,Something American,Cathedral,528i0bBEVKFO8P1WwUYtEp,0.612,0.631,5,-4.991,0,0.0804,0.0,0.125,0.46,94.985,170373,4,0.0,noir
-73,Lala Lala,Prove It,Prove It,6DK7eKgThVAYH0VtQhtG6x,0.804,0.619,7,-8.44,1,0.0655,0.433,0.0842,0.599,100.13,167262,4,31.0,noir
-74,Humbird,May,May,4JhCFrz0W9JuwsgT1c4HJT,0.408,0.338,2,-10.863,1,0.0281,5.79e-05,0.0998,0.0993,82.174,238516,4,37.0,noir
-75,Samantha Crain,Pick Apart,Pick Apart,0ssUuvHbzmex6n2ZojDvuS,0.636,0.668,5,-5.861,1,0.0282,0.000103,0.233,0.687,117.003,215794,4,38.0,noir
-76,Shannon Lay,Coast,Coast,6AtvqLh6eSczO0QGi6BFIm,0.393,0.204,4,-13.405,0,0.0353,0.186,0.121,0.245,115.962,196625,4,23.0,noir
-77,TORRES,Gracious Day,Good Scare,3UrZ77Jh8iL2h5Apvswrwm,0.559,0.846,7,-8.868,1,0.0377,0.0226,0.0794,0.501,93.098,215695,4,0.0,noir
-78,Patricia Lalor,Vessel (b side),Vessel,2j5hmpI2xDopXJz4rwwanJ,0.532,0.281,5,-10.604,1,0.0284,0.000313,0.0824,0.138,105.077,208242,4,15.0,noir
-79,The Wild Reeds,Capable,Capable,51Vj9FdgpfeKzgEvzOICdy,0.413,0.603,0,-6.786,1,0.0371,0.000864,0.101,0.225,172.204,257173,4,0.0,noir
-80,Fenne Lily,Spotify Singles,"More Than You Know - Recorded at Metropolis Studios, London",0IBjwCuG1fEjk5OenvuL6B,0.45,0.243,6,-16.042,0,0.0317,0.0,0.102,0.352,130.797,220060,4,0.0,noir
-81,Lia Ices,Family Album,Family Album,0ydnbv4CT5dUh7WMdHtWBN,0.309,0.385,2,-6.612,1,0.0305,0.0163,0.124,0.159,97.868,307880,3,26.0,noir
-82,Vagabon,Infinite Worlds,Fear & Force,1iKVQiRDpHueFlbC9LJBvN,0.596,0.223,0,-11.288,1,0.0275,0.00182,0.108,0.0384,141.848,213607,4,0.0,noir
-83,Laura Elliott,Blue,Blue,1oAeR6SrUeAMrIM0CD3EdD,0.602,0.25,2,-13.433,1,0.028,1.43e-06,0.109,0.324,138.871,252292,4,32.0,noir
-84,Angie McMahon,A Couple Of Songs,Slow Mover,2lTU0gr2BfZaXGi6qxojv0,0.544,0.478,3,-7.099,1,0.0446,0.0,0.0824,0.422,94.935,190093,4,25.0,noir
-85,Julia Jacklin,Eastwick / Cold Caller,Cold Caller,67eBpn7WYYSUcwI76Et8iN,0.466,0.423,9,-9.09,1,0.0257,0.0,0.126,0.297,112.299,237016,3,31.0,noir
-86,Aoife O'Donovan,In The Magic Hour,The King Of All Birds,3X4VOeSsQs7knyH0Uztslz,0.468,0.621,9,-7.373,1,0.0339,0.00473,0.115,0.262,81.433,236400,4,0.0,noir
-87,Jade Bird,Something American,Something American,2a1V9QpXiVGHkb6m0vabRU,0.456,0.405,7,-5.236,1,0.0315,0.0,0.126,0.295,158.818,183667,3,0.0,noir
-88,Courtney Hartman,Hollow,Hollow,6kEIzzsomuC1yknzS8TAwD,0.423,0.328,9,-12.168,1,0.0301,0.19,0.0851,0.191,130.997,258141,3,0.0,noir
-89,Lera Lynn,Let Me Tell You Something,Let Me Tell You Something,5GV0Yeo76b1UubEPVOQKUd,0.545,0.542,0,-8.704,1,0.0876,0.0183,0.359,0.342,87.882,194440,4,24.0,noir
-90,Wolf Alice,My Love Is Cool,Turn To Dust,6M1lGjZRnXL4vZvY0p3kTv,0.511,0.434,6,-12.864,0,0.0284,0.0584,0.23,0.242,80.995,187933,3,33.0,noir
-91,Bre Kennedy,The Hardest Part,The Hardest Part,4Gcikn8y1cLRXki0xguC5G,0.409,0.177,2,-12.589,1,0.0563,1.28e-06,0.106,0.365,163.379,260521,4,44.0,noir
-92,Rosier,Légèrement,Paula Collins,3haHJcTZKjxgnMT9XfCU3D,0.519,0.308,4,-12.706,1,0.0269,0.00316,0.352,0.366,151.96,195495,4,15.0,noir
-93,She Keeps Bees,Coyote,Coyote,7ArPT2eBw3IVvnYFoChx7s,0.627,0.379,4,-10.357,1,0.0275,0.192,0.135,0.0883,136.681,245351,4,15.0,noir
-94,Jess Williamson,Heart Song,Snake Song,5Kc1BdIbe3KZSTiVeomy8d,0.314,0.225,4,-10.239,0,0.0313,0.0101,0.115,0.0814,101.412,239761,4,0.0,noir
-95,Nina June,World on Fire,World on Fire,1scIYTBV3xIM475LYQKclp,0.477,0.408,7,-9.192,1,0.0261,0.00628,0.207,0.103,97.959,243000,4,35.0,noir
-96,Eleni Drake,Can't Stop The Dawn,Sun Bear,6QwBW6cnRH06QhIi7aZVCf,0.579,0.475,0,-11.93,1,0.0319,0.00036,0.11,0.252,133.965,261500,4,27.0,noir
-97,Sharon Van Etten,Are We There,Tarifa,1nEUk2DYbi8pzgB3LZxo7o,0.276,0.328,0,-9.152,1,0.0289,0.000333,0.0871,0.103,72.931,290613,3,14.0,noir
-98,Lizzie No,Holidays,Birthday Party,2QRxYrJkEg1iLdvudQHII1,0.883,0.25,4,-11.772,1,0.0564,0.0,0.0937,0.64,110.003,135376,4,21.0,noir
-99,TORRES,Thirstier,Big Leap,1eqNt1BoMPOBPWa1IRut2r,0.588,0.284,2,-12.614,1,0.0285,0.00301,0.119,0.0426,109.284,180181,4,27.0,noir
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,acousticness,popularity,playlist_name,duration_s
+0,Phoebe Bridgers,Garden Song,Garden Song,1LTWcRVy9o96Zzn29wXLsa,0.371,0.256,0,-16.7,1,0.227,0.00507,0.112,0.171,195.674,220065,4,0.868,28.0,noir,220.065
+1,Holly Humberstone,Deep End,Deep End,3DXEbjIftmPeBj638CxyJD,0.368,0.314,0,-8.491,1,0.0316,1.69e-06,0.126,0.371,109.143,171663,4,0.796,62.0,noir,171.663
+2,Julien Baker,Little Oblivions,Favor,3alP0rX4ErhOszTpx6sFN2,0.487,0.582,5,-8.938,1,0.0268,0.301,0.0971,0.271,104.003,278213,4,0.715,46.0,noir,278.213
+3,Rachael Jenkins,untitled,untitled,2PMo0BYsGBY2TgHJ5Gm4oT,0.372,0.237,1,-13.404,1,0.0369,0.425,0.103,0.0966,119.436,225640,4,0.938,48.0,noir,225.64
+4,Snail Mail,Valentine,Light Blue,1arhLLK6PZNd5g4OupOJyZ,0.361,0.241,8,-10.316,1,0.0292,3.64e-06,0.111,0.152,72.925,154213,3,0.91,58.0,noir,154.213
+5,Billie Marten,Garden of Eden,Garden of Eden,6jF6VwQeIiy18FUH0wuIQN,0.577,0.72,5,-8.08,1,0.0421,0.00423,0.0977,0.465,150.085,199480,4,0.0496,43.0,noir,199.48
+6,Hayley Williams,FLOWERS for VASES / descansos,Over Those Hills,5afKJ9yqFQ5L2FxuGiZMPQ,0.561,0.372,3,-9.494,1,0.0425,0.00248,0.124,0.365,110.062,191950,4,0.541,51.0,noir,191.95
+7,Samia,Big Wheel / Stellate,Big Wheel,366DDVYAJoT1Cc8ijYN9FM,0.553,0.512,5,-7.759,1,0.0465,3.87e-05,0.107,0.259,94.96,195773,4,0.569,17.0,noir,195.773
+8,dodie,Cool Girl,Cool Girl,0FSOenCj42lbikl1vd5ah9,0.73,0.205,2,-15.489,1,0.0957,0.0593,0.095,0.206,124.989,199385,4,0.872,56.0,noir,199.385
+9,Lizzy McAlpine,Means Something,Means Something,7k57OymCjtuqtg0Pv6VQri,0.429,0.2,8,-14.629,1,0.0511,1.71e-06,0.367,0.362,95.319,144632,4,0.825,38.0,noir,144.632
+10,Sun June,Somewhere,Everything I had,42lN5xgSw3ytN4zsSNWISb,0.743,0.345,4,-11.337,1,0.0271,0.497,0.0893,0.19,103.993,246667,4,0.625,12.0,noir,246.667
+11,Phoebe Bridgers,Stranger in the Alps,Smoke Signals,5g97GAdru7XfeJyJhViIll,0.342,0.237,10,-14.601,1,0.0384,0.000267,0.112,0.186,117.824,324773,5,0.945,32.0,noir,324.773
+12,Ayoni,Unmoved (A Black Woman Truth),Unmoved (A Black Woman Truth),2zmLkPOV4Y3NTwh5P6gM51,0.411,0.249,6,-9.739,1,0.0296,8.73e-05,0.112,0.266,123.471,256452,4,0.942,45.0,noir,256.452
+13,Matilda Mann,Because I Wanted You to Know,Paper Mache World,3Maqlu2aPlU8NluW19O8JD,0.479,0.754,2,-5.818,1,0.0849,5.82e-06,0.127,0.575,180.109,179083,4,0.455,43.0,noir,179.083
+14,Hand Habits,Fun House,Just to Hear You (feat. Perfume Genius),6fFMXz0mLLaql9UyyBQB9a,0.756,0.367,2,-10.849,1,0.0397,0.19,0.106,0.523,127.894,173303,4,0.582,52.0,noir,173.303
+15,Lomelda,It's Infinite,It's Infinite,6lOHvNgGKFK0HVzSu4HEca,0.555,0.24,0,-17.224,1,0.0303,0.241,0.111,0.437,136.951,174465,4,0.894,31.0,noir,174.465
+16,Allison Ponthier,Faking My Own Death,Faking My Own Death,0GoTonjhYLPM7NVKqliTTt,0.383,0.419,11,-9.835,0,0.0564,0.000268,0.221,0.211,81.206,238829,4,0.801,55.0,noir,238.829
+17,Overcoats,The Fight,New Shoes,2Nh201cURlNgpcMDnDlNaL,0.577,0.222,7,-10.568,1,0.0291,3.1e-05,0.359,0.166,136.048,198373,3,0.962,45.0,noir,198.373
+18,Samia,The Baby,Is There Something in the Movies?,1n96oXchJtgq5FGyvVLrvE,0.453,0.101,7,-13.013,1,0.0502,0.0,0.0889,0.153,75.145,210173,4,0.914,51.0,noir,210.173
+19,Lucy Dacus,Thumbs,Thumbs,79pcC3KJRMA2L8xIb5mu3G,0.474,0.0964,7,-15.87,0,0.0406,0.0,0.134,0.272,97.595,265440,4,0.961,40.0,noir,265.44
+20,Soccer Mommy,yellow is the color of her eyes,yellow is the color of her eyes,4D3nttJPU6L0M2epr7sId6,0.452,0.515,11,-7.351,1,0.0255,0.12,0.14,0.191,80.537,435080,4,0.757,0.0,noir,435.08
+21,Joy Oladokun,wish you the best (feat. Jensen McRae),wish you the best (feat. Jensen McRae),35xkenzfDhEA1LEpJsprKu,0.509,0.185,2,-13.358,1,0.0286,0.0,0.259,0.0455,102.936,192098,4,0.662,0.0,noir,192.098
+22,Holly Humberstone,Haunted House,Haunted House,4vNxFySlHhuWuxOHvphZuP,0.366,0.269,9,-9.197,1,0.0439,0.0,0.101,0.238,127.523,133227,4,0.871,55.0,noir,133.227
+23,Uwade,The Man Who Sees Tomorrow / Lodarore,The Man Who Sees Tomorrow,3tML0isKJJ3DJUQKcm3L0e,0.257,0.213,11,-11.787,1,0.0364,0.0,0.363,0.209,55.309,211733,3,0.77,47.0,noir,211.733
+24,Maddie Medley,Buzz,Buzz,55pp6iI1wvxZL93k25vzXn,0.51,0.385,8,-8.546,1,0.0298,0.0369,0.108,0.115,173.945,261476,4,0.312,0.0,noir,261.476
+25,Jenny Owen Youngs,Vampire Weeknight,Vampire Weeknight,3pEGK96mXlfsavPTQdUHOr,0.553,0.37,0,-12.015,0,0.0618,0.0302,0.0619,0.223,178.821,204973,4,0.891,28.0,noir,204.973
+26,Haley Heynderickx,I Need to Start a Garden,Drinking Song,5KkoM9rbevlWf8EePOrwfS,0.621,0.219,0,-11.305,1,0.0381,1.4e-05,0.111,0.253,120.495,195846,3,0.89,51.0,noir,195.846
+27,Helena Deland,Someone New,Someone New,68JDi93FyrXp06NIQjkUWD,0.535,0.763,1,-10.16,0,0.0788,0.573,0.103,0.166,148.027,229502,4,0.578,0.0,noir,229.502
+28,Squirrel Flower,Planet (i),I'll Go Running,3pdzD05LaKcxuToCrM2w7b,0.502,0.213,5,-8.092,0,0.032,0.000355,0.135,0.162,72.8,236611,4,0.711,37.0,noir,236.611
+29,Charli Adams,Bullseye,Seventeen Again (feat. Novo Amor),1BJicMsGWyW8xTQb22N8Ye,0.335,0.283,3,-10.901,1,0.0295,0.0,0.111,0.0945,141.283,204520,3,0.628,38.0,noir,204.52
+30,Sharon Van Etten,Love More (By Fiona Apple),Love More (By Fiona Apple),6wleKOJoHGaOPtJJWvJes6,0.605,0.442,8,-14.252,1,0.0623,0.0122,0.219,0.72,139.979,272068,4,0.29,38.0,noir,272.068
+31,Laura Elliott,Blue,Blue,1oAeR6SrUeAMrIM0CD3EdD,0.602,0.25,2,-13.433,1,0.028,1.43e-06,0.109,0.324,138.871,252292,4,0.0988,32.0,noir,252.292
+32,Humbird,"Lincoln, Nebraska","Lincoln, Nebraska",0wjgbfx3N3bYqJUgs80gQi,0.698,0.198,2,-9.753,1,0.0303,0.00331,0.267,0.325,135.464,143674,4,0.861,34.0,noir,143.674
+33,Fenne Lily,BREACH,Berlin,2P9p3GVQ7S6bJ5xaE7f8gH,0.525,0.356,8,-9.894,1,0.0269,0.812,0.119,0.305,143.49,219680,4,0.555,10.0,noir,219.68
+34,Maddie Medley,Wild Parts,Wild Parts,3RG5SUMbOTOEaQoOuCBSgG,0.639,0.391,4,-9.705,1,0.0314,0.0423,0.134,0.34,111.781,239980,4,0.575,43.0,noir,239.98
+35,Liza Anne,Desire,Desire,12rpkK6BHssFJ3ORBGON5c,0.659,0.578,7,-5.27,1,0.0302,0.00195,0.119,0.58,110.978,179893,4,0.0244,36.0,noir,179.893
+36,Saint Sister,Dynamite,Dynamite,2WDY2kjGeNmhb8UwKmixJi,0.642,0.583,1,-8.047,1,0.0329,0.00539,0.375,0.362,152.027,201937,4,0.464,42.0,noir,201.937
+37,Jess Williamson,Pictures of Flowers,Pictures of Flowers,5d8GwNDbnQu60hgSImNR5B,0.693,0.499,4,-10.103,1,0.0266,0.000733,0.367,0.427,100.642,260458,4,0.351,33.0,noir,260.458
+38,Ada Lea,one hand on the steering wheel the other sewing a garden,damn,5mgWktGBliaIdAaBtZ8ff3,0.687,0.457,8,-8.896,0,0.0494,0.000946,0.197,0.599,142.13,261173,4,0.538,46.0,noir,261.173
+39,Angie McMahon,A Couple Of Songs,Slow Mover,2lTU0gr2BfZaXGi6qxojv0,0.544,0.478,3,-7.099,1,0.0446,0.0,0.0824,0.422,94.935,190093,4,0.391,26.0,noir,190.093
+40,Skullcrusher,Places/Plans,Places/Plans,05SnceLITolxkYVPD0Ww4i,0.515,0.111,5,-14.303,1,0.0292,0.000708,0.124,0.197,131.809,183116,4,0.884,0.0,noir,183.116
+41,Bedouine,Thirteen,Thirteen,0BuGTUaFGGjeOz1U3CwHrc,0.697,0.248,10,-10.54,1,0.0278,0.000901,0.11,0.382,101.981,184870,4,0.875,23.0,noir,184.87
+42,Rosie Carney,The Bends,High And Dry,0GehqN1MkS7feXJWWk97KU,0.474,0.145,4,-14.402,1,0.0348,0.000991,0.126,0.157,106.597,232000,5,0.911,59.0,noir,232.0
+43,Maple Glider,Swimming,Swimming,7dJR6TWnJns4w9OVYeMY2P,0.715,0.432,9,-6.769,1,0.0275,0.000109,0.164,0.175,109.927,252413,4,0.724,32.0,noir,252.413
+44,Amythyst Kiah,Wild Turkey,Wild Turkey,4aX4dqpYXTxRMTcjekxPyp,0.584,0.275,6,-11.356,1,0.0292,5.01e-05,0.0924,0.266,103.088,272080,4,0.795,47.0,noir,272.08
+45,Julien Baker,boygenius,Souvenir,1JPRgRUK044O15wgv8uZO1,0.598,0.3,6,-11.044,0,0.0264,0.502,0.0946,0.167,109.034,212467,4,0.732,0.0,noir,212.467
+46,Madi Diaz,"New Person, Old Place","New Person, Old Place",00xsWxrnp7wT3kI5AZqQIU,0.603,0.443,0,-7.73,1,0.0288,2.24e-06,0.097,0.421,134.891,246227,4,0.533,50.0,noir,246.227
+47,Ainslie Wills,This Is What Our Love Looks Like Now,This Is What Our Love Looks Like Now,0EIjCvMJeFZC8aysCilaFg,0.354,0.113,4,-12.009,1,0.039,1.2e-06,0.112,0.181,94.947,243243,3,0.945,33.0,noir,243.243
+48,Rosie Carney,Party Dress,Party Dress,2G2IOxSv0G4zOitsfFpFQl,0.479,0.24,8,-12.062,0,0.0336,0.000724,0.105,0.279,122.186,194943,4,0.906,46.0,noir,194.943
+49,Anna Mieke,Idle Mind,Warped Window,0C0ESa1ZZ5taXaYUxwnvx9,0.514,0.0533,8,-16.276,1,0.045,1.16e-05,0.113,0.176,113.861,295266,4,0.932,0.0,noir,295.266
+50,Laura Marling,Held Down,Held Down,2PHeCBCWESSAqfxpORbxKA,0.392,0.495,7,-7.881,1,0.0364,1.04e-06,0.338,0.38,78.585,247933,4,0.17,44.0,noir,247.933
+51,Lucy Dacus,No Burden,...Familiar Place,0lp0bQqzyLmNNHHFYRaaJf,0.214,0.148,7,-17.775,1,0.037,0.058,0.113,0.0277,46.591,175778,4,0.0128,3.0,noir,175.778
+52,S.G. Goodman,Old Time Feeling,If It Ain't Me Babe,39j6F8ulgcWZn1M4R4hRSu,0.548,0.47,4,-9.662,0,0.0296,0.0154,0.113,0.217,116.02,308707,4,0.594,34.0,noir,308.707
+53,Molly Payton,Porcupine,I'm Too Smart,3cHUgy2YScaImqEk8ovZBz,0.368,0.465,2,-7.678,1,0.0463,0.0,0.0791,0.254,144.06,304773,4,0.441,28.0,noir,304.773
+54,Nina June,World on Fire,World on Fire,1scIYTBV3xIM475LYQKclp,0.477,0.408,7,-9.192,1,0.0261,0.00628,0.207,0.103,97.959,243000,4,0.566,35.0,noir,243.0
+55,Julia Jacklin,Body,Body,1RqQvfdYJBMsltegb00yN2,0.803,0.168,9,-12.006,0,0.0354,0.0143,0.111,0.0892,84.99,307613,4,0.693,0.0,noir,307.613
+56,SOAK,Grim Town,Maybe,4dGjMKCXok3F866sHnDgQy,0.562,0.681,7,-6.344,1,0.0315,0.0139,0.156,0.245,130.011,270664,4,0.0124,0.0,noir,270.664
+57,Brooke Bentham,Heavy Head (Keep It Near),Heavy Head (Keep It Near),6GDUqLI7Wh88WNyZqCsYuQ,0.532,0.171,9,-12.822,1,0.0301,1.21e-05,0.112,0.23,106.959,257148,4,0.916,26.0,noir,257.148
+58,Becca Mancari,Golden,Golden,2WtZ0pGY93BnZfuGVenMb9,0.348,0.246,3,-11.534,1,0.028,0.00125,0.0996,0.193,136.1,313296,4,0.764,25.0,noir,313.296
+59,Molly Parden,Kitchen Table,Kitchen Table,1XxLV1Ag179JlXq1gwICcl,0.586,0.35,3,-10.414,1,0.0279,0.000173,0.12,0.359,132.98,208800,4,0.794,34.0,noir,208.8
+60,This Is The Kit,This Is What You Did,This Is What You Did,35e4UTDLUpqOzGqjWz3AoT,0.619,0.802,7,-8.926,1,0.0658,0.529,0.101,0.414,134.726,192981,4,0.745,0.0,noir,192.981
+61,Anna Ash,L. A. Flame,Earthquake,2U0U5tUzmzAd0tjzvXwHqN,0.594,0.47,2,-7.448,1,0.0293,0.00849,0.102,0.381,84.402,190947,4,0.0275,27.0,noir,190.947
+62,Molly Payton,When Skies Were Always Blue,When Skies Were Always Blue,1cxfKJMjgB4OY0mm3QVB6n,0.417,0.369,5,-9.279,1,0.0259,0.0,0.0915,0.099,79.954,255227,4,0.0209,31.0,noir,255.227
+63,Twin Oaks,Luster,Luster,1TEWu9IdgiwAe5q0bQqwDQ,0.31,0.226,1,-9.828,1,0.0303,0.0134,0.114,0.124,140.956,200670,3,0.936,26.0,noir,200.67
+64,Jade Bird,Something American,Cathedral,528i0bBEVKFO8P1WwUYtEp,0.612,0.631,5,-4.991,0,0.0804,0.0,0.125,0.46,94.985,170373,4,0.747,0.0,noir,170.373
+65,Indigo Sparke,Echo,Everything Everything,33WlDnFFCjmlqCL7H4lUcl,0.5,0.171,9,-16.361,0,0.035,0.503,0.0997,0.16,119.255,206951,3,0.987,7.0,noir,206.951
+66,Ada Lea,hurt,hurt,1MttfRoP6yd3VaXBsrLOSZ,0.704,0.29,5,-10.27,1,0.0403,0.0071,0.108,0.114,126.975,211522,4,0.577,4.0,noir,211.522
+67,The Wild Reeds,Capable,Capable,51Vj9FdgpfeKzgEvzOICdy,0.413,0.603,0,-6.786,1,0.0371,0.000864,0.101,0.225,172.204,257173,4,0.175,0.0,noir,257.173
+68,LUMP,Animal,We Cannot Resist,068ZytZuPeqoSgaffebBVD,0.695,0.453,1,-10.626,1,0.0923,0.00122,0.113,0.256,145.999,285760,4,0.231,39.0,noir,285.76
+69,Career Woman,The Little Dipper,The Little Dipper,3GhDIsQqR6DCkK9cZ6McTM,0.636,0.334,0,-9.192,1,0.0295,0.000127,0.106,0.221,120.073,229761,4,0.268,21.0,noir,229.761
+70,Marika Hackman,We Slept at Last,Drown,1fw7XQl4AGxM8ppPAR6y2i,0.287,0.243,7,-15.119,1,0.0341,0.283,0.114,0.0383,117.886,231671,4,0.867,40.0,noir,231.671
+71,Jade Bird,Something American,Something American,2a1V9QpXiVGHkb6m0vabRU,0.456,0.405,7,-5.236,1,0.0315,0.0,0.126,0.295,158.818,183667,3,0.792,0.0,noir,183.667
+72,Patricia Lalor,Vessel (b side),Vessel,2j5hmpI2xDopXJz4rwwanJ,0.532,0.281,5,-10.604,1,0.0284,0.000313,0.0824,0.138,105.077,208242,4,0.754,15.0,noir,208.242
+73,Julia Jacklin,Eastwick / Cold Caller,Cold Caller,67eBpn7WYYSUcwI76Et8iN,0.466,0.423,9,-9.09,1,0.0257,0.0,0.126,0.297,112.299,237016,3,0.018,31.0,noir,237.016
+74,Eleni Drake,Can't Stop The Dawn,Sun Bear,6QwBW6cnRH06QhIi7aZVCf,0.579,0.475,0,-11.93,1,0.0319,0.00036,0.11,0.252,133.965,261500,4,0.119,27.0,noir,261.5
+75,The Weather Station,Ignorance,Robber,1ZKSWtwZDRT1SWZSE0wrqH,0.714,0.614,7,-9.823,0,0.0385,0.281,0.093,0.352,118.993,320525,4,0.72,24.0,noir,320.525
+76,Sloppy Jane,Jesus and Your Living Room Floor,Party Anthem,2MdwGmJXbMSL0KJHgYKm6z,0.412,0.513,8,-7.363,1,0.0377,8.09e-05,0.104,0.271,130.124,201147,3,0.0886,24.0,noir,201.147
+77,Shannon Lay,Coast,Coast,6AtvqLh6eSczO0QGi6BFIm,0.393,0.204,4,-13.405,0,0.0353,0.186,0.121,0.245,115.962,196625,4,0.897,23.0,noir,196.625
+78,Humbird,May,May,4JhCFrz0W9JuwsgT1c4HJT,0.408,0.338,2,-10.863,1,0.0281,5.79e-05,0.0998,0.0993,82.174,238516,4,0.8,37.0,noir,238.516
+79,Lera Lynn,Let Me Tell You Something,Let Me Tell You Something,5GV0Yeo76b1UubEPVOQKUd,0.545,0.542,0,-8.704,1,0.0876,0.0183,0.359,0.342,87.882,194440,4,0.738,24.0,noir,194.44
+80,Wolf Alice,My Love Is Cool,Turn To Dust,6M1lGjZRnXL4vZvY0p3kTv,0.511,0.434,6,-12.864,0,0.0284,0.0584,0.23,0.242,80.995,187933,3,0.815,33.0,noir,187.933
+81,She Keeps Bees,Coyote,Coyote,7ArPT2eBw3IVvnYFoChx7s,0.627,0.379,4,-10.357,1,0.0275,0.192,0.135,0.0883,136.681,245351,4,0.366,15.0,noir,245.351
+82,Land of Talk,Calming Night Partner,Moment Feed,6JsUqtsVNboWCl8fWZMX1o,0.451,0.679,2,-8.923,1,0.032,0.814,0.0984,0.505,144.053,267148,4,0.32,27.0,noir,267.148
+83,Maya De Vitry,How to Break a Fall,Better and Better,1o24Xqw0n5tQHJqpZDCXp7,0.55,0.324,0,-10.713,1,0.0453,0.000486,0.106,0.431,74.003,180416,4,0.742,31.0,noir,180.416
+84,Jess Williamson,Heart Song,Snake Song,5Kc1BdIbe3KZSTiVeomy8d,0.314,0.225,4,-10.239,0,0.0313,0.0101,0.115,0.0814,101.412,239761,4,0.818,0.0,noir,239.761
+85,Fenne Lily,Spotify Singles,"More Than You Know - Recorded at Metropolis Studios, London",0IBjwCuG1fEjk5OenvuL6B,0.45,0.243,6,-16.042,0,0.0317,0.0,0.102,0.352,130.797,220060,4,0.773,0.0,noir,220.06
+86,Charm of Finches,Pockets Of Stones,Pockets Of Stones,287I3ix4mUm7NsrYLklUfT,0.525,0.401,6,-9.352,1,0.0376,0.0,0.0973,0.249,141.858,240125,4,0.788,24.0,noir,240.125
+87,Samantha Crain,Pick Apart,Pick Apart,0ssUuvHbzmex6n2ZojDvuS,0.636,0.668,5,-5.861,1,0.0282,0.000103,0.233,0.687,117.003,215794,4,0.0233,38.0,noir,215.794
+88,Lala Lala,Prove It,Prove It,6DK7eKgThVAYH0VtQhtG6x,0.804,0.619,7,-8.44,1,0.0655,0.433,0.0842,0.599,100.13,167262,4,0.87,31.0,noir,167.262
+89,Marissa Nadler,Blue Vapor,Blue Vapor,2Fba40Uu5LoL6qzug1RxJz,0.373,0.478,6,-7.963,0,0.0264,0.00026,0.111,0.254,93.849,206570,4,0.367,1.0,noir,206.57
+90,Courtney Barnett,"Sometimes I Sit and Think, And Sometimes I Just Sit",Boxing Day Blues,5H4XMIorgnOoTrQ2JLPvEl,0.615,0.0617,2,-15.092,1,0.036,0.000197,0.103,0.374,124.347,182063,4,0.937,0.0,noir,182.063
+91,Vagabon,Infinite Worlds,Fear & Force,1iKVQiRDpHueFlbC9LJBvN,0.596,0.223,0,-11.288,1,0.0275,0.00182,0.108,0.0384,141.848,213607,4,0.736,0.0,noir,213.607
+92,Aoife O'Donovan,In The Magic Hour,The King Of All Birds,3X4VOeSsQs7knyH0Uztslz,0.468,0.621,9,-7.373,1,0.0339,0.00473,0.115,0.262,81.433,236400,4,0.333,0.0,noir,236.4
+93,Hannah Georgas,Same Mistakes,Same Mistakes,7l6ootXc12jVyxTybFGKt8,0.727,0.278,11,-11.13,1,0.0413,0.137,0.0985,0.426,104.986,167531,4,0.897,9.0,noir,167.531
+94,TORRES,Gracious Day,Good Scare,3UrZ77Jh8iL2h5Apvswrwm,0.559,0.846,7,-8.868,1,0.0377,0.0226,0.0794,0.501,93.098,215695,4,0.0129,0.0,noir,215.695
+95,Lia Ices,Family Album,Family Album,0ydnbv4CT5dUh7WMdHtWBN,0.309,0.385,2,-6.612,1,0.0305,0.0163,0.124,0.159,97.868,307880,3,0.908,26.0,noir,307.88
+96,Courtney Hartman,Hollow,Hollow,6kEIzzsomuC1yknzS8TAwD,0.423,0.328,9,-12.168,1,0.0301,0.19,0.0851,0.191,130.997,258141,3,0.693,0.0,noir,258.141
+97,Lizzie No,Holidays,Birthday Party,2QRxYrJkEg1iLdvudQHII1,0.883,0.25,4,-11.772,1,0.0564,0.0,0.0937,0.64,110.003,135376,4,0.642,21.0,noir,135.376
+98,Samantha Crain,Garden Dove,Garden Dove,3wYl7lRiqN3Z685E7LuA6k,0.584,0.543,4,-5.391,1,0.0277,0.000169,0.0589,0.71,169.11,230067,4,0.27,22.0,noir,230.067
+99,Bre Kennedy,The Hardest Part,The Hardest Part,4Gcikn8y1cLRXki0xguC5G,0.409,0.177,2,-12.589,1,0.0563,1.28e-06,0.106,0.365,163.379,260521,4,0.857,44.0,noir,260.521

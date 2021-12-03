@@ -1,0 +1,153 @@
+,playlist_yellow.csv,playlist_blue.csv,playlist_green.csv,playlist_red.csv,playlist_black.csv,playlist_purple.csv
+0,"[[0.63217 0.5496533333333333]
+ [ModeResult(mode=array([0.63]), count=array([3]))
+  ModeResult(mode=array([0.373]), count=array([2]))]
+ [0.1499859363407116 0.14493690519977612]]","[[0.6556400000000001 0.667775]
+ [ModeResult(mode=array([0.55]), count=array([2]))
+  ModeResult(mode=array([0.691]), count=array([2]))]
+ [0.15322059391609208 0.11418285499583551]]","[[0.6706400000000002 0.5821375000000001]
+ [ModeResult(mode=array([0.511]), count=array([2]))
+  ModeResult(mode=array([0.551]), count=array([2]))]
+ [0.13546597506385136 0.12987847625280333]]","[[0.75005 0.7019699999999999]
+ [ModeResult(mode=array([0.621]), count=array([2]))
+  ModeResult(mode=array([0.7]), count=array([3]))]
+ [0.12638539274773808 0.09251945254918018]]","[[0.70119 0.52385]
+ [ModeResult(mode=array([0.512]), count=array([2]))
+  ModeResult(mode=array([0.368]), count=array([2]))]
+ [0.11890052102493075 0.13239270183813004]]","[[0.56772 0.5940000000000001]
+ [ModeResult(mode=array([0.46]), count=array([2]))
+  ModeResult(mode=array([0.379]), count=array([2]))]
+ [0.12233953408444875 0.14151409823759611]]"
+1,"[[0.73369 0.5968093333333332]
+ [ModeResult(mode=array([0.676]), count=array([3]))
+  ModeResult(mode=array([0.314]), count=array([2]))]
+ [0.12133916886150162 0.19189332326292358]]","[[0.58003 0.629025]
+ [ModeResult(mode=array([0.449]), count=array([3]))
+  ModeResult(mode=array([0.532]), count=array([2]))]
+ [0.1640651367597638 0.13460627539234565]]","[[0.6121899999999999 0.6912624999999999]
+ [ModeResult(mode=array([0.557]), count=array([3]))
+  ModeResult(mode=array([0.551]), count=array([2]))]
+ [0.14796463732932946 0.14348447161191347]]","[[0.6625600000000001 0.7725699999999999]
+ [ModeResult(mode=array([0.467]), count=array([3]))
+  ModeResult(mode=array([0.784]), count=array([3]))]
+ [0.14999995466665983 0.10557397927519829]]","[[0.62083 0.368284]
+ [ModeResult(mode=array([0.478]), count=array([2]))
+  ModeResult(mode=array([0.171]), count=array([2]))]
+ [0.13936642744936817 0.176802355029564]]","[[0.5461600000000001 0.359139]
+ [ModeResult(mode=array([0.758]), count=array([3]))
+  ModeResult(mode=array([0.258]), count=array([3]))]
+ [0.16884713323003148 0.15548797888904467]]"
+2,"[[-6.647249999999999 -7.764093333333333]
+ [ModeResult(mode=array([-13.021]), count=array([1]))
+  ModeResult(mode=array([-16.757]), count=array([1]))]
+ [1.9582059155002063 2.7286907394002875]]","[[-7.863410000000001 -8.4841875]
+ [ModeResult(mode=array([-6.88]), count=array([2]))
+  ModeResult(mode=array([-16.131]), count=array([1]))]
+ [2.654809967191626 2.4425992359254822]]","[[-7.275460000000001 -6.966849999999999]
+ [ModeResult(mode=array([-14.27]), count=array([1]))
+  ModeResult(mode=array([-5.972]), count=array([2]))]
+ [2.1045678721295733 2.3093291455528813]]","[[-6.382140000000001 -5.19841]
+ [ModeResult(mode=array([-6.136]), count=array([2]))
+  ModeResult(mode=array([-9.187]), count=array([1]))]
+ [1.873899570521323 1.565204824264224]]","[[-7.23757 -10.51998]
+ [ModeResult(mode=array([-9.351]), count=array([2]))
+  ModeResult(mode=array([-9.192]), count=array([2]))]
+ [2.480421557941311 2.914649604943963]]","[[-8.53802 -10.92173]
+ [ModeResult(mode=array([-15.73]), count=array([1]))
+  ModeResult(mode=array([-11.015]), count=array([2]))]
+ [2.5928631933829442 3.224151605787172]]"
+3,"[[0.234137 0.173652]
+ [ModeResult(mode=array([0.144]), count=array([3]))
+  ModeResult(mode=array([0.11]), count=array([3]))]
+ [0.19476591419188316 0.11710809292842801]]","[[0.18556700000000004 0.17326999999999998]
+ [ModeResult(mode=array([0.107]), count=array([3]))
+  ModeResult(mode=array([0.123]), count=array([4]))]
+ [0.14989378109514753 0.1542515181448792]]","[[0.17491100000000004 0.152535]
+ [ModeResult(mode=array([0.115]), count=array([5]))
+  ModeResult(mode=array([0.109]), count=array([4]))]
+ [0.1318380429883575 0.10175057014582277]]","[[0.215142 0.195122]
+ [ModeResult(mode=array([0.109]), count=array([3]))
+  ModeResult(mode=array([0.103]), count=array([4]))]
+ [0.17397043264876935 0.15657712130448687]]","[[0.197802 0.13547900000000002]
+ [ModeResult(mode=array([0.11]), count=array([5]))
+  ModeResult(mode=array([0.111]), count=array([6]))]
+ [0.14783084250588577 0.07211184825671854]]","[[0.185991 0.17789499999999997]
+ [ModeResult(mode=array([0.11]), count=array([4]))
+  ModeResult(mode=array([0.124]), count=array([4]))]
+ [0.16424204765832653 0.12629382674937048]]"
+4,"[[0.5938599999999999 0.4157693333333333]
+ [ModeResult(mode=array([0.34]), count=array([2]))
+  ModeResult(mode=array([0.218]), count=array([2]))]
+ [0.1816730590924257 0.22295052005521065]]","[[0.47917000000000004 0.44701874999999996]
+ [ModeResult(mode=array([0.119]), count=array([2]))
+  ModeResult(mode=array([0.214]), count=array([2]))]
+ [0.21098654246183574 0.2602148281198393]]","[[0.5499970000000001 0.61295]
+ [ModeResult(mode=array([0.399]), count=array([2]))
+  ModeResult(mode=array([0.949]), count=array([3]))]
+ [0.19482818197324533 0.19764475075245486]]","[[0.45372799999999996 0.5126769999999999]
+ [ModeResult(mode=array([0.376]), count=array([3]))
+  ModeResult(mode=array([0.224]), count=array([2]))]
+ [0.1942286112188418 0.20776516592297184]]","[[0.390166 0.282362]
+ [ModeResult(mode=array([0.199]), count=array([2]))
+  ModeResult(mode=array([0.166]), count=array([2]))]
+ [0.20867164791605014 0.15515153481677196]]","[[0.346893 0.318379]
+ [ModeResult(mode=array([0.144]), count=array([2]))
+  ModeResult(mode=array([0.198]), count=array([3]))]
+ [0.18475915958620293 0.17596971858532934]]"
+5,"[[121.28984 124.64906666666667]
+ [ModeResult(mode=array([68.301]), count=array([1]))
+  ModeResult(mode=array([64.335]), count=array([1]))]
+ [29.395652251215658 28.824520980273416]]","[[116.64888 116.71343750000001]
+ [ModeResult(mode=array([68.041]), count=array([1]))
+  ModeResult(mode=array([76.975]), count=array([1]))]
+ [29.806968975821743 22.542262098580384]]","[[111.57352 125.6306625]
+ [ModeResult(mode=array([92.002]), count=array([2]))
+  ModeResult(mode=array([79.689]), count=array([1]))]
+ [26.591041085854457 27.86465616867708]]","[[121.59039000000001 125.26782000000001]
+ [ModeResult(mode=array([71.65]), count=array([1]))
+  ModeResult(mode=array([123.964]), count=array([2]))]
+ [29.359245375143754 15.382594055217085]]","[[118.53153 117.51940000000002]
+ [ModeResult(mode=array([69.88]), count=array([1]))
+  ModeResult(mode=array([46.591]), count=array([1]))]
+ [29.08992756486513 27.821282709105994]]","[[119.88776 116.46475000000001]
+ [ModeResult(mode=array([68.985]), count=array([1]))
+  ModeResult(mode=array([62.829]), count=array([1]))]
+ [32.52280840613861 28.490519068060166]]"
+6,"[[230.58398 222.12588000000002]
+ [ModeResult(mode=array([235.4]), count=array([2]))
+  ModeResult(mode=array([132.]), count=array([1]))]
+ [57.031975967869116 47.808346042913186]]","[[227.46577000000005 232.64698749999997]
+ [ModeResult(mode=array([133.198]), count=array([1]))
+  ModeResult(mode=array([134.22]), count=array([1]))]
+ [60.833942845561964 51.5192922060498]]","[[237.45486 211.8187375]
+ [ModeResult(mode=array([94.933]), count=array([1]))
+  ModeResult(mode=array([97.96]), count=array([1]))]
+ [59.434690826489536 45.6851841628508]]","[[214.86802 168.98987]
+ [ModeResult(mode=array([81.92]), count=array([1]))
+  ModeResult(mode=array([144.]), count=array([2]))]
+ [56.94269163852021 25.53283640791011]]","[[225.41872 225.81638000000004]
+ [ModeResult(mode=array([93.84]), count=array([1]))
+  ModeResult(mode=array([133.227]), count=array([1]))]
+ [44.95715727602892 47.16327614188395]]","[[262.52348 174.50915]
+ [ModeResult(mode=array([131.272]), count=array([1]))
+  ModeResult(mode=array([41.125]), count=array([1]))]
+ [79.02980618317116 52.44173103004419]]"
+7,"[[38.81 55.29333333333334]
+ [ModeResult(mode=array([0.]), count=array([24]))
+  ModeResult(mode=array([0.]), count=array([8]))]
+ [27.625964236565572 24.781591734367847]]","[[33.69 35.425]
+ [ModeResult(mode=array([0.]), count=array([22]))
+  ModeResult(mode=array([0.]), count=array([19]))]
+ [24.277436026071616 21.96233992542689]]","[[34.71 31.725]
+ [ModeResult(mode=array([0.]), count=array([26]))
+  ModeResult(mode=array([0.]), count=array([26]))]
+ [26.34171406723564 26.45986347281482]]","[[42.66 68.63]
+ [ModeResult(mode=array([0.]), count=array([22]))
+  ModeResult(mode=array([70.]), count=array([7]))]
+ [27.20265428225709 13.856157476010441]]","[[40.91 26.9]
+ [ModeResult(mode=array([0.]), count=array([22]))
+  ModeResult(mode=array([0.]), count=array([20]))]
+ [26.03693338317706 18.145798411753614]]","[[44.67 48.86]
+ [ModeResult(mode=array([0.]), count=array([15]))
+  ModeResult(mode=array([0.]), count=array([14]))]
+ [27.459444641143055 24.0553611488167]]"
