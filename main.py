@@ -9,7 +9,6 @@ from sklearn.linear_model import LinearRegression
 
 from loadData import load_data
 
-
 # The first analysis is on the emotional characteristics
 def AnalysisOne():
     features = ["danceability","energy","loudness","liveness","valence","tempo","duration_s","popularity"]

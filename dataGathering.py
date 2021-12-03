@@ -9,11 +9,15 @@ def getSpotifyToken():
     # credentials for spotify
     sp = spotipy.Spotify() 
 
-    # setting up authorization
-    cid ="f395b1d0ba9b4f9f9d83e833bf1267ff" 
-    secret = "e68f3c64c84648a594e00e4b95801420"
-    redirect_uri ="http://localhost:7777/callback"
-    username = "jashanxchopra@gmail.com"
+    # load creds.json file
+    with open("creds.json") as f:
+        data = json.load(f)
+        
+        # get the client id and secret
+        cid = data["cid"]
+        secret = data["secret"]
+        redirect_uri = data["redirect_uri"]
+        username = data["username"]
 
     # scope to get the user library
     scope = 'user-library-read'
