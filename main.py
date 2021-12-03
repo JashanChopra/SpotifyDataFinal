@@ -1,12 +1,13 @@
-from loadData import load_data
+import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
 import scipy.stats as stats
 import pandas as pd
-import numpy as np
 import seaborn as sns
 from sklearn.model_selection import train_test_split
-from sklearn.model_selection import LinearRegression
+from sklearn.linear_model import LinearRegression
+
+from loadData import load_data
 
 
 # The first analysis is on the emotional characteristics
@@ -120,6 +121,9 @@ def AnalysisTwo():
     features = ["danceability","energy","loudness","liveness","valence","tempo",
     "duration_s","popularity","speechiness","instrumentalness"]
 
+    features2 = ["danceability","energy","loudness","liveness","valence","tempo",
+    "duration_s","speechiness","instrumentalness"]
+
     # load playlist data
     data = load_data()
 
@@ -130,9 +134,11 @@ def AnalysisTwo():
     # the two playlists I care about for this analysis
     noir = playlists[names[9]]
     beast = playlists[names[10]]
+    # add purple to see with more samples...
+    purple = playlists[names[5]]
 
     # loop over those two playlists
-    for playlist in [noir, beast]:
+    for playlist in [noir, beast, purple]:
 
         # first we need to create a dataframe of the features and their values for the playlist 
         data = {}
@@ -151,9 +157,11 @@ def AnalysisTwo():
         # create a multiple linear regression for popularity from the other features
         X = df.drop(columns=["popularity"])
         y = df["popularity"]
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=0)
         reg = LinearRegression().fit(X_train, y_train)
         y_pred = reg.predict(X_test)
+                
+        # create a scatter plot of the actual vs predicted values
         plt.figure(figsize=(10, 10))
         plt.scatter(y_test, y_pred)
         plt.xlabel("Actual")
@@ -161,9 +169,12 @@ def AnalysisTwo():
         plt.title("Popularity vs. Predicted")
         plt.savefig('./images/' + playlist["playlist_name"][0] + '_popularity_regression.jpeg')
 
+        # print the r squared value for the linear model
+        print("R squared value for " + playlist["playlist_name"][0] + ": " + str(reg.score(X_test, y_test)))
+
         # plot a histogram of the residuals
         plt.figure(figsize=(10, 10))
-        plt.hist(y_pred - y_test)
+        plt.hist(y_pred - y_test, bins=20)
         plt.xlabel("Residuals")
         plt.ylabel("Frequency")
         plt.title("Residuals")
@@ -171,11 +182,13 @@ def AnalysisTwo():
 
         # save the linear regression coefficients to a csv file
         df = pd.DataFrame(reg.coef_, columns=["coefficients"])
-        df["features"] = features
+        df["features"] = features2
+        # switch the order of the features and coefficients columns
+        df = df[["features", "coefficients"]]
         df.to_csv('./results/' + playlist["playlist_name"][0] + '_regression_coefficients.csv')
 
 if __name__ == '__main__':
-    # AnalysisOne()
+    AnalysisOne()
     AnalysisTwo()
 
     
